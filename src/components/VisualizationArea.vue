@@ -123,6 +123,7 @@ function getDisplayName(name, genre = false) {
 
 // File mapping function for specific combinations
 // filepath: /Users/pelinho/Desktop/Projeto Tese/Website Project/ea-digifolk-vis/src/components/VisualizationArea.vue
+// Updated file mapping function for deployment
 async function findAvailableTrees() {
   try {
     isLoading.value = true;
@@ -132,21 +133,49 @@ async function findAvailableTrees() {
     const level = levelType.value;
     let relevantFiles = [];
     
+    // Path prefix handling for deployment
+    // Get base URL from Vite or default to '/'
+    const pathPrefix = import.meta.env.BASE_URL || '/';
+    const dataPath = `${pathPrefix}preprocessed_data/`;
+    console.log(`Using data path: ${dataPath}`);
+    
     // Special case mappings for specific combinations
-const specialCaseMappings = {
-  // Level "25% F + 75% S" (combined_s25_ss75) with "chromatic" feature
-  'combined_s25_ss75_chromatic': 'genre_tree_combined_s25_ss75_chromatic_rhythmic.json',
-  
-  // Add the mapping you requested
-  'combined_s25_ss75_chromatic_rhythmic': 'genre_tree_combined_s25_ss75_chromatic_rhythmic.json',
-  
-  // You can add more mappings here for other specific combinations
-  // Format: 'level_feature': 'specific_filename.json',
-};
+    const specialCaseMappings = {
+      // Level "25% F + 75% S" (combined_s25_ss75) with "chromatic" feature
+      'combined_s25_ss75_chromatic': 'genre_tree_combined_s25_ss75_chromatic_rhythmic.json',
+      'combined_s25_ss75_chromatic_rhythmic': 'genre_tree_combined_s25_ss75_chromatic_rhythmic.json',
+      
+      // Add more mappings as needed for other feature/level combinations
+      'combined_s50_ss50_chromatic': 'genre_tree_combined_s50_ss50_chromatic.json',
+      'combined_s50_ss50_chromatic_rhythmic': 'genre_tree_combined_s50_ss50_chromatic_rhythmic.json',
+      'combined_s75_ss25_chromatic': 'genre_tree_combined_s75_ss25_chromatic.json',
+      'combined_s75_ss25_chromatic_rhythmic': 'genre_tree_combined_s75_ss25_chromatic_rhythmic.json',
+      
+      // Diatonic mappings
+      'combined_s25_ss75_diatonic': 'genre_tree_combined_s25_ss75_diatonic.json',
+      'combined_s25_ss75_diatonic_rhythmic': 'genre_tree_combined_s25_ss75_diatonic_rhythmic.json',
+      'combined_s50_ss50_diatonic': 'genre_tree_combined_s50_ss50_diatonic.json',
+      'combined_s50_ss50_diatonic_rhythmic': 'genre_tree_combined_s50_ss50_diatonic_rhythmic.json',
+      'combined_s75_ss25_diatonic': 'genre_tree_combined_s75_ss25_diatonic.json',
+      'combined_s75_ss25_diatonic_rhythmic': 'genre_tree_combined_s75_ss25_diatonic_rhythmic.json',
+      
+      // Note level mappings
+      'note_chromatic': 'genre_tree_note_chromatic.json',
+      'note_chromatic_rhythmic': 'genre_tree_note_chromatic_rhythmic.json',
+      'note_diatonic': 'genre_tree_note_diatonic.json',
+      'note_diatonic_rhythmic': 'genre_tree_note_diatonic_rhythmic.json',
+      
+      // Rhythmic only mappings
+      'combined_s25_ss75_rhythmic': 'genre_tree_combined_s25_ss75_rhythmic.json',
+      'combined_s50_ss50_rhythmic': 'genre_tree_combined_s50_ss50_rhythmic.json',
+      'combined_s75_ss25_rhythmic': 'genre_tree_combined_s75_ss25_rhythmic.json',
+      'note_rhythmic': 'genre_tree_note_rhythmic.json'
+    };
     
     // Check for special case mapping first
     const specialCaseKey = `${level}_${feature}`;
     const specialCaseFile = specialCaseMappings[specialCaseKey];
+    console.log(`Current feature/level key: ${specialCaseKey}, matching file: ${specialCaseFile || 'none'}`);
     
     if (currentView.value === 'traditions' && specialCaseFile) {
       console.log(`Using special case mapping for ${specialCaseKey}: ${specialCaseFile}`);
@@ -183,24 +212,39 @@ const specialCaseMappings = {
     console.log(`File candidates: ${relevantFiles.join(', ')}`);
     availableTrees.value = relevantFiles;
     
-    // Try to load files in priority order
+    // Try to load files in priority order using fetch with path prefix
     for (const file of relevantFiles) {
       try {
-        // Check if file exists
-        const checkResponse = await fetch(`/preprocessed_data/${file}`, { method: 'HEAD' });
-        if (checkResponse.ok) {
-          console.log(`Found file: ${file}`);
-          return file;
+        const fileUrl = `${dataPath}${file}`;
+        console.log(`Checking file existence: ${fileUrl}`);
+        
+        // Try to use HEAD request first to check existence
+        try {
+          const checkResponse = await fetch(fileUrl, { method: 'HEAD' });
+          if (checkResponse.ok) {
+            console.log(`Found file: ${file} (HEAD check)`);
+            return { path: dataPath, filename: file };
+          }
+        } catch (headErr) {
+          console.log(`HEAD request failed, trying GET: ${headErr.message}`);
+          // Some servers don't support HEAD, try GET instead
+          const getResponse = await fetch(fileUrl, { method: 'GET' });
+          if (getResponse.ok) {
+            console.log(`Found file: ${file} (GET check)`);
+            return { path: dataPath, filename: file };
+          }
         }
       } catch (err) {
-        console.log(`File not found: ${file}`);
+        console.log(`File not found or error: ${file}`, err);
         // Continue to the next file
       }
     }
     
     // Default fallback when no files are found
     console.log('No suitable files found, returning first in list as fallback');
-    return relevantFiles.length > 0 ? relevantFiles[0] : null;
+    return relevantFiles.length > 0 ? 
+      { path: dataPath, filename: relevantFiles[0] } : 
+      null;
     
   } catch (err) {
     console.error("Error finding available trees:", err);
@@ -226,9 +270,9 @@ async function loadTreeData() {
     }
     
     // For tradition or genre view, try to find a suitable tree file
-    const treeFile = await findAvailableTrees();
+    const treeInfo = await findAvailableTrees();
     
-    if (!treeFile) {
+    if (!treeInfo) {
       // If no file found and we're in tradition view, create custom tree
       if (currentView.value === 'tradition') {
         createCustomGenreTree(currentTradition.value);
@@ -241,9 +285,11 @@ async function loadTreeData() {
     }
     
     // If we found a file, try to load it
-    console.log(`Loading tree from file: ${treeFile}`);
+    const filePath = `${treeInfo.path}${treeInfo.filename}`;
+    console.log(`Loading tree from file: ${filePath}`);
+    
     try {
-      const response = await fetch(`/preprocessed_data/${treeFile}`);
+      const response = await fetch(filePath);
       if (!response.ok) {
         throw new Error(`Failed to load tree data: ${response.status}`);
       }
@@ -260,7 +306,7 @@ async function loadTreeData() {
       renderTree(processedData, treeContainer.value);
       dataLoaded.value = true;
     } catch (fetchErr) {
-      console.error(`Error fetching ${treeFile}:`, fetchErr);
+      console.error(`Error fetching ${filePath}:`, fetchErr);
       
       // Fall back to custom tree for tradition view
       if (currentView.value === 'tradition') {
@@ -572,6 +618,11 @@ async function loadSpecialTree() {
     const feature = featureType.value;
     const level = levelType.value;
     
+    // Path prefix handling for deployment
+    const pathPrefix = import.meta.env.BASE_URL || '/';
+    const dataPath = `${pathPrefix}preprocessed_data/`;
+    console.log(`Using data path: ${dataPath}`);
+    
     // Generate the special case key
     const specialCaseKey = `${level}_${feature}`;
     
@@ -610,9 +661,10 @@ async function loadSpecialTree() {
     
     // Get the special file if available, or use a default pattern
     const treeFile = specialCaseMappings[specialCaseKey] || `genre_tree_${level}_${feature}.json`;
+    const filePath = `${dataPath}${treeFile}`;
     
-    console.log(`Loading special tree from file: ${treeFile}`);
-    const response = await fetch(`/preprocessed_data/${treeFile}`);
+    console.log(`Loading special tree from file: ${filePath}`);
+    const response = await fetch(filePath);
     
     if (!response.ok) {
       throw new Error(`Failed to load tree data: ${response.status}`);
