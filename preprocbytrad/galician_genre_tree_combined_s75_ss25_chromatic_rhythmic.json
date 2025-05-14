@@ -1,0 +1,105 @@
+{
+  "name": "Galician Tradition Tree",
+  "length": 0.0,
+  "children": [
+    {
+      "name": "",
+      "length": 0.08780135660706989,
+      "children": [
+        {
+          "name": "rumbas",
+          "length": 49.14919821676017,
+          "display_name": "rumbas"
+        },
+        {
+          "name": "",
+          "length": 0.6118874049114424,
+          "children": [
+            {
+              "name": "pasodobles",
+              "length": 55.47328614302258,
+              "display_name": "pasodobles"
+            },
+            {
+              "name": "",
+              "length": 1.8737673952031741,
+              "children": [
+                {
+                  "name": "valses",
+                  "length": 68.27177153331485,
+                  "display_name": "valses"
+                },
+                {
+                  "name": "",
+                  "length": 0.6528076271551697,
+                  "children": [
+                    {
+                      "name": "jotas",
+                      "length": 75.29477787413312,
+                      "display_name": "jotas"
+                    },
+                    {
+                      "name": "foliadas",
+                      "length": 58.80866344259384,
+                      "display_name": "foliadas"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "",
+      "length": 0.08780135660706989,
+      "children": [
+        {
+          "name": "",
+          "length": 0.07776992693214169,
+          "children": [
+            {
+              "name": "muineiras",
+              "length": 46.929614784124695,
+              "display_name": "muineiras"
+            },
+            {
+              "name": "",
+              "length": 0.11387178391397867,
+              "children": [
+                {
+                  "name": "pasacorredoiras",
+                  "length": 44.81160458805449,
+                  "display_name": "pasacorredoiras"
+                },
+                {
+                  "name": "alalas",
+                  "length": 24.43427084918017,
+                  "display_name": "alalas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "length": 0.024352313463246844,
+          "children": [
+            {
+              "name": "mazurcas",
+              "length": 51.98842318854194,
+              "display_name": "mazurcas"
+            },
+            {
+              "name": "marchas",
+              "length": 51.94693523250165,
+              "display_name": "marchas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tradition": "galician"
+}

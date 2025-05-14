@@ -1,0 +1,116 @@
+{
+  "name": "Irish Tradition Tree",
+  "length": 0.0,
+  "children": [
+    {
+      "name": "waltz",
+      "length": 90.33816620423585,
+      "display_name": "waltz"
+    },
+    {
+      "name": "",
+      "length": 0.08780135660706989,
+      "children": [
+        {
+          "name": "",
+          "length": 0.08015035123028014,
+          "children": [
+            {
+              "name": "mazurka",
+              "length": 44.55691242910022,
+              "display_name": "mazurka"
+            },
+            {
+              "name": "",
+              "length": 0.06074625116093557,
+              "children": [
+                {
+                  "name": "jig",
+                  "length": 43.19709162597262,
+                  "display_name": "jig"
+                },
+                {
+                  "name": "",
+                  "length": 0.25436115168442797,
+                  "children": [
+                    {
+                      "name": "hornpipe",
+                      "length": 44.77006873620756,
+                      "display_name": "hornpipe"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.28423949636197676,
+                      "children": [
+                        {
+                          "name": "march",
+                          "length": 41.483683925669865,
+                          "display_name": "march"
+                        },
+                        {
+                          "name": "",
+                          "length": 1.1339949377011038,
+                          "children": [
+                            {
+                              "name": "barndance",
+                              "length": 36.262853029370135,
+                              "display_name": "barndance"
+                            },
+                            {
+                              "name": "",
+                              "length": 1.4580682491356711,
+                              "children": [
+                                {
+                                  "name": "reel",
+                                  "length": 31.697213087399717,
+                                  "display_name": "reel"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 2.8518780105807338,
+                                  "children": [
+                                    {
+                                      "name": "strathspey",
+                                      "length": 25.790844407768795,
+                                      "display_name": "strathspey"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 0.5293580632969608,
+                                      "children": [
+                                        {
+                                          "name": "polka",
+                                          "length": 24.980067181682404,
+                                          "display_name": "polka"
+                                        },
+                                        {
+                                          "name": "slide",
+                                          "length": 23.886980863704625,
+                                          "display_name": "slide"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "marchas",
+          "length": 51.94693523250165,
+          "display_name": "marchas"
+        }
+      ]
+    }
+  ],
+  "tradition": "irish"
+}

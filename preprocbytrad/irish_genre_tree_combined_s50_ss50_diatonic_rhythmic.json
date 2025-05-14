@@ -1,0 +1,116 @@
+{
+  "name": "Irish Tradition Tree",
+  "length": 0.0,
+  "children": [
+    {
+      "name": "",
+      "length": 0.09642660853976892,
+      "children": [
+        {
+          "name": "hornpipe",
+          "length": 49.14877239627575,
+          "display_name": "hornpipe"
+        },
+        {
+          "name": "",
+          "length": 0.17573351912310642,
+          "children": [
+            {
+              "name": "march",
+              "length": 44.73747154132823,
+              "display_name": "march"
+            },
+            {
+              "name": "",
+              "length": 0.7617228930492672,
+              "children": [
+                {
+                  "name": "barndance",
+                  "length": 40.69832257237762,
+                  "display_name": "barndance"
+                },
+                {
+                  "name": "",
+                  "length": 0.7161649067252185,
+                  "children": [
+                    {
+                      "name": "reel",
+                      "length": 35.86050011419166,
+                      "display_name": "reel"
+                    },
+                    {
+                      "name": "",
+                      "length": 2.2643468112018112,
+                      "children": [
+                        {
+                          "name": "strathspey",
+                          "length": 29.777114130868682,
+                          "display_name": "strathspey"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.422232601898056,
+                          "children": [
+                            {
+                              "name": "slide",
+                              "length": 28.05506512011522,
+                              "display_name": "slide"
+                            },
+                            {
+                              "name": "polka",
+                              "length": 29.550647395330973,
+                              "display_name": "polka"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "",
+      "length": 0.09642660853976892,
+      "children": [
+        {
+          "name": "jig",
+          "length": 46.38817076430073,
+          "display_name": "jig"
+        },
+        {
+          "name": "",
+          "length": 0.039302174146911284,
+          "children": [
+            {
+              "name": "mazurka",
+              "length": 47.843742700120416,
+              "display_name": "mazurka"
+            },
+            {
+              "name": "",
+              "length": 0.17180812944162369,
+              "children": [
+                {
+                  "name": "marchas",
+                  "length": 54.00312095331854,
+                  "display_name": "marchas"
+                },
+                {
+                  "name": "waltz",
+                  "length": 90.85112039852022,
+                  "display_name": "waltz"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tradition": "irish"
+}
