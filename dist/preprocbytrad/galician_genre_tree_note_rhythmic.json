@@ -1,0 +1,105 @@
+{
+  "name": "Galician Tradition Tree",
+  "length": 0.0,
+  "children": [
+    {
+      "name": "pasacorredoiras",
+      "length": 24.179108419760027,
+      "display_name": "pasacorredoiras"
+    },
+    {
+      "name": "",
+      "length": 24.179108419760027,
+      "children": [
+        {
+          "name": "",
+          "length": 0.65305762745683,
+          "children": [
+            {
+              "name": "pasodobles",
+              "length": 56.62883593797051,
+              "display_name": "pasodobles"
+            },
+            {
+              "name": "",
+              "length": 0.5733734015104517,
+              "children": [
+                {
+                  "name": "valses",
+                  "length": 66.95717331288364,
+                  "display_name": "valses"
+                },
+                {
+                  "name": "",
+                  "length": 0.8980256454991604,
+                  "children": [
+                    {
+                      "name": "mazurcas",
+                      "length": 55.203629270703594,
+                      "display_name": "mazurcas"
+                    },
+                    {
+                      "name": "jotas",
+                      "length": 84.2977635026757,
+                      "display_name": "jotas"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "length": 0.2242427268801972,
+          "children": [
+            {
+              "name": "",
+              "length": 0.466498367933319,
+              "children": [
+                {
+                  "name": "foliadas",
+                  "length": 44.98668930130228,
+                  "display_name": "foliadas"
+                },
+                {
+                  "name": "",
+                  "length": 0.3198737198859902,
+                  "children": [
+                    {
+                      "name": "rumbas",
+                      "length": 53.28219597923727,
+                      "display_name": "rumbas"
+                    },
+                    {
+                      "name": "",
+                      "length": 3.475568298616963,
+                      "children": [
+                        {
+                          "name": "alalas",
+                          "length": 65.4272515656786,
+                          "display_name": "alalas"
+                        },
+                        {
+                          "name": "marchas",
+                          "length": 48.69724411601625,
+                          "display_name": "marchas"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "muineiras",
+              "length": 46.63405514968779,
+              "display_name": "muineiras"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tradition": "galician"
+}

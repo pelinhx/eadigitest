@@ -1,0 +1,105 @@
+{
+  "name": "Galician Tradition Tree",
+  "length": 2.7295821298451886,
+  "children": [
+    {
+      "name": "",
+      "length": 0.010097090208848858,
+      "children": [
+        {
+          "name": "pasacorredoiras",
+          "length": 5.758514011326041,
+          "display_name": "pasacorredoiras"
+        },
+        {
+          "name": "alalas",
+          "length": 2.9536183410742227,
+          "display_name": "alalas"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "length": 0.023621446391873135,
+      "children": [
+        {
+          "name": "muineiras",
+          "length": 6.0769411294331706,
+          "display_name": "muineiras"
+        },
+        {
+          "name": "",
+          "length": 0.021622484101739836,
+          "children": [
+            {
+              "name": "mazurcas",
+              "length": 6.847987141673725,
+              "display_name": "mazurcas"
+            },
+            {
+              "name": "",
+              "length": 0.014463482570478803,
+              "children": [
+                {
+                  "name": "marchas",
+                  "length": 6.913530399875809,
+                  "display_name": "marchas"
+                },
+                {
+                  "name": "",
+                  "length": 0.05539531509208917,
+                  "children": [
+                    {
+                      "name": "rumbas",
+                      "length": 6.348154882014107,
+                      "display_name": "rumbas"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.12606588854393408,
+                      "children": [
+                        {
+                          "name": "pasodobles",
+                          "length": 7.244570745360745,
+                          "display_name": "pasodobles"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.3641063538401781,
+                          "children": [
+                            {
+                              "name": "foliadas",
+                              "length": 7.843665281837767,
+                              "display_name": "foliadas"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.1505659871174334,
+                              "children": [
+                                {
+                                  "name": "jotas",
+                                  "length": 10.320473961920772,
+                                  "display_name": "jotas"
+                                },
+                                {
+                                  "name": "valses",
+                                  "length": 8.80322625785455,
+                                  "display_name": "valses"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tradition": "galician"
+}
