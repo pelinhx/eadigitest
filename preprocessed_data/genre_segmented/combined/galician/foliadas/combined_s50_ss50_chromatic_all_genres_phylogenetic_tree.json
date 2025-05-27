@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 1.1368683772161603e-13,
+  "children": [
+    {
+      "name": "Foliada De San Benito De Lerez Foliada De San Benito De Lerez Partitura 1 E 1",
+      "length": 42.23378397260885,
+      "genre": "foliadas",
+      "tradition": "galician",
+      "display_name": "Foliadas Foliada De San Benito De Lerez Foliada De San Benito De Lerez Partitura 1 E 1"
+    },
+    {
+      "name": "",
+      "length": 0.003064720174734248,
+      "children": [
+        {
+          "name": "",
+          "length": 0.5870322714754315,
+          "children": [
+            {
+              "name": "",
+              "length": 0.2617861062610399,
+              "children": [
+                {
+                  "name": "Foliada Das Rias Baixas Foliada Das Rias Baixas Partitura 1 2 E 1",
+                  "length": 41.17012572870617,
+                  "genre": "foliadas",
+                  "tradition": "galician",
+                  "display_name": "Foliadas Foliada Das Rias Baixas Foliada Das Rias Baixas Partitura 1 2 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 0.04079412291042672,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 0.5174794581903324,
+                      "children": [
+                        {
+                          "name": "Foliada De Sada 1 Foliada De Sada Partitura 1 E 1",
+                          "length": 51.52210148352973,
+                          "genre": "foliadas",
+                          "tradition": "galician",
+                          "display_name": "Foliadas Foliada De Sada 1 Foliada De Sada Partitura 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.5340848191962619,
+                          "children": [
+                            {
+                              "name": "Volta Da Festa De Caroi Volta Da Festa De Caroi Partitura 1 E 1",
+                              "length": 55.61077065010596,
+                              "genre": "foliadas",
+                              "tradition": "galician",
+                              "display_name": "Foliadas Volta Da Festa De Caroi Volta Da Festa De Caroi Partitura 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.3457319350187872,
+                              "children": [
+                                {
+                                  "name": "Ei Carballeira Ei Carballeira Partitura 1 E 1",
+                                  "length": 54.28470233110914,
+                                  "genre": "foliadas",
+                                  "tradition": "galician",
+                                  "display_name": "Foliadas Ei Carballeira Ei Carballeira Partitura 1 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.2533164346531791,
+                                  "children": [
+                                    {
+                                      "name": "",
+                                      "length": 0.36842636758946773,
+                                      "children": [
+                                        {
+                                          "name": "Foliada De Berducido Foliada De Berducido Partitura 2 1 E 1",
+                                          "length": 57.38611179261583,
+                                          "genre": "foliadas",
+                                          "tradition": "galician",
+                                          "display_name": "Foliadas Foliada De Berducido Foliada De Berducido Partitura 2 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 0.23851132164676336,
+                                          "children": [
+                                            {
+                                              "name": "",
+                                              "length": 7.421136550219373,
+                                              "children": [
+                                                {
+                                                  "name": "Foliada De Vilaboa Foliada De Vilaboa Partitura 1 E 1",
+                                                  "length": 55.78460904820279,
+                                                  "genre": "foliadas",
+                                                  "tradition": "galician",
+                                                  "display_name": "Foliadas Foliada De Vilaboa Foliada De Vilaboa Partitura 1 E 1"
+                                                },
+                                                {
+                                                  "name": "O Miguelino O Miguelino Partitura 1 E 1",
+                                                  "length": 39.21411898592503,
+                                                  "genre": "foliadas",
+                                                  "tradition": "galician",
+                                                  "display_name": "Foliadas O Miguelino O Miguelino Partitura 1 E 1"
+                                                }
+                                              ],
+                                              "genre": "foliadas",
+                                              "tradition": "galician"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 0.2920033831053743,
+                                              "children": [
+                                                {
+                                                  "name": "Foliada De Viascon Foliada De Viascon Partitura 2 E 1",
+                                                  "length": 58.77239550909157,
+                                                  "genre": "foliadas",
+                                                  "tradition": "galician",
+                                                  "display_name": "Foliadas Foliada De Viascon Foliada De Viascon Partitura 2 E 1"
+                                                },
+                                                {
+                                                  "name": "",
+                                                  "length": 0.14022739920679328,
+                                                  "children": [
+                                                    {
+                                                      "name": "",
+                                                      "length": 0.5622682421141963,
+                                                      "children": [
+                                                        {
+                                                          "name": "Foliada De San Benito De Angoares Foliada De San Benito De Angoares Partitura 2 E 1",
+                                                          "length": 57.80987931773532,
+                                                          "genre": "foliadas",
+                                                          "tradition": "galician",
+                                                          "display_name": "Foliadas Foliada De San Benito De Angoares Foliada De San Benito De Angoares Partitura 2 E 1"
+                                                        },
+                                                        {
+                                                          "name": "",
+                                                          "length": 1.0312934749079352,
+                                                          "children": [
+                                                            {
+                                                              "name": "",
+                                                              "length": 0.32284073346549746,
+                                                              "children": [
+                                                                {
+                                                                  "name": "",
+                                                                  "length": 2.662599135025704,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Foliada En Cecebre Foliada En Cecebre Partitura 2 E 1",
+                                                                      "length": 57.69107605084001,
+                                                                      "genre": "foliadas",
+                                                                      "tradition": "galician",
+                                                                      "display_name": "Foliadas Foliada En Cecebre Foliada En Cecebre Partitura 2 E 1"
+                                                                    },
+                                                                    {
+                                                                      "name": "Foliada De Carril Foliada De Carril Partitura 2 E 1",
+                                                                      "length": 62.185318538538354,
+                                                                      "genre": "foliadas",
+                                                                      "tradition": "galician",
+                                                                      "display_name": "Foliadas Foliada De Carril Foliada De Carril Partitura 2 E 1"
+                                                                    }
+                                                                  ],
+                                                                  "genre": "foliadas",
+                                                                  "tradition": "galician"
+                                                                },
+                                                                {
+                                                                  "name": "",
+                                                                  "length": 0.36587847619262703,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "",
+                                                                      "length": 0.3660372593676726,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "",
+                                                                          "length": 1.4103895797676604,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "",
+                                                                              "length": 0.5439402102937549,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "A Feira De Paiosaco A Feira De Paiosaco Partitura 2 E 1",
+                                                                                  "length": 73.75679132012202,
+                                                                                  "genre": "foliadas",
+                                                                                  "tradition": "galician",
+                                                                                  "display_name": "Foliadas A Feira De Paiosaco A Feira De Paiosaco Partitura 2 E 1"
+                                                                                },
+                                                                                {
+                                                                                  "name": "Foliada De San Tirso Foliada De San Tirso Partitura 1 1 E 1",
+                                                                                  "length": 93.92118973968549,
+                                                                                  "genre": "foliadas",
+                                                                                  "tradition": "galician",
+                                                                                  "display_name": "Foliadas Foliada De San Tirso Foliada De San Tirso Partitura 1 1 E 1"
+                                                                                }
+                                                                              ],
+                                                                              "tradition": "galician",
+                                                                              "genre": "foliadas"
+                                                                            },
+                                                                            {
+                                                                              "name": "Amor Rianxeiro Amor Rianxeiro Partitura 2 E 1",
+                                                                              "length": 73.18800351249155,
+                                                                              "genre": "foliadas",
+                                                                              "tradition": "galician",
+                                                                              "display_name": "Foliadas Amor Rianxeiro Amor Rianxeiro Partitura 2 E 1"
+                                                                            }
+                                                                          ],
+                                                                          "tradition": "galician",
+                                                                          "genre": "foliadas"
+                                                                        },
+                                                                        {
+                                                                          "name": "Foliada 19 Foliada Partitura 1 E 1",
+                                                                          "length": 75.43259197076651,
+                                                                          "genre": "foliadas",
+                                                                          "tradition": "galician",
+                                                                          "display_name": "Foliadas Foliada 19 Foliada Partitura 1 E 1"
+                                                                        }
+                                                                      ],
+                                                                      "genre": "foliadas",
+                                                                      "tradition": "galician"
+                                                                    },
+                                                                    {
+                                                                      "name": "Foliada Das Marinas Foliada Das Marinas Partitura 1 E 1",
+                                                                      "length": 78.93188253603775,
+                                                                      "genre": "foliadas",
+                                                                      "tradition": "galician",
+                                                                      "display_name": "Foliadas Foliada Das Marinas Foliada Das Marinas Partitura 1 E 1"
+                                                                    }
+                                                                  ],
+                                                                  "tradition": "galician",
+                                                                  "genre": "foliadas"
+                                                                }
+                                                              ],
+                                                              "tradition": "galician",
+                                                              "genre": "foliadas"
+                                                            },
+                                                            {
+                                                              "name": "",
+                                                              "length": 0.4248086722755744,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Foliada De Bens Foliada De Bens Partitura 1 E 1",
+                                                                  "length": 68.32124946409277,
+                                                                  "genre": "foliadas",
+                                                                  "tradition": "galician",
+                                                                  "display_name": "Foliadas Foliada De Bens Foliada De Bens Partitura 1 E 1"
+                                                                },
+                                                                {
+                                                                  "name": "",
+                                                                  "length": 0.5031116176653114,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Foliada De Conxo Foliada De Conxo Partitura 1 E 1",
+                                                                      "length": 72.85591987460704,
+                                                                      "genre": "foliadas",
+                                                                      "tradition": "galician",
+                                                                      "display_name": "Foliadas Foliada De Conxo Foliada De Conxo Partitura 1 E 1"
+                                                                    },
+                                                                    {
+                                                                      "name": "A Marinana A Marinana Partitura 2 E 1",
+                                                                      "length": 71.86199723235548,
+                                                                      "genre": "foliadas",
+                                                                      "tradition": "galician",
+                                                                      "display_name": "Foliadas A Marinana A Marinana Partitura 2 E 1"
+                                                                    }
+                                                                  ],
+                                                                  "genre": "foliadas",
+                                                                  "tradition": "galician"
+                                                                }
+                                                              ],
+                                                              "genre": "foliadas",
+                                                              "tradition": "galician"
+                                                            }
+                                                          ],
+                                                          "tradition": "galician",
+                                                          "genre": "foliadas"
+                                                        }
+                                                      ],
+                                                      "tradition": "galician",
+                                                      "genre": "foliadas"
+                                                    },
+                                                    {
+                                                      "name": "",
+                                                      "length": 0.40024998275358603,
+                                                      "children": [
+                                                        {
+                                                          "name": "Foliada Da Ulla Foliada Da Ulla Partitura 1 2 E 1",
+                                                          "length": 61.71375769795145,
+                                                          "genre": "foliadas",
+                                                          "tradition": "galician",
+                                                          "display_name": "Foliadas Foliada Da Ulla Foliada Da Ulla Partitura 1 2 E 1"
+                                                        },
+                                                        {
+                                                          "name": "Foliada De Bergantinos Foliada De Bergantinos Partitura 2 E 1",
+                                                          "length": 58.45416120107237,
+                                                          "genre": "foliadas",
+                                                          "tradition": "galician",
+                                                          "display_name": "Foliadas Foliada De Bergantinos Foliada De Bergantinos Partitura 2 E 1"
+                                                        }
+                                                      ],
+                                                      "tradition": "galician",
+                                                      "genre": "foliadas"
+                                                    }
+                                                  ],
+                                                  "tradition": "galician",
+                                                  "genre": "foliadas"
+                                                }
+                                              ],
+                                              "genre": "foliadas",
+                                              "tradition": "galician"
+                                            }
+                                          ],
+                                          "genre": "foliadas",
+                                          "tradition": "galician"
+                                        }
+                                      ],
+                                      "genre": "foliadas",
+                                      "tradition": "galician"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 0.3259609014089228,
+                                      "children": [
+                                        {
+                                          "name": "Festa Na Eira Festa Na Eira Partitura 2 E 1",
+                                          "length": 57.43889788800744,
+                                          "genre": "foliadas",
+                                          "tradition": "galician",
+                                          "display_name": "Foliadas Festa Na Eira Festa Na Eira Partitura 2 E 1"
+                                        },
+                                        {
+                                          "name": "O Rodaballo O Rodaballo Partitura 1 E 1",
+                                          "length": 60.96400219418113,
+                                          "genre": "foliadas",
+                                          "tradition": "galician",
+                                          "display_name": "Foliadas O Rodaballo O Rodaballo Partitura 1 E 1"
+                                        }
+                                      ],
+                                      "genre": "foliadas",
+                                      "tradition": "galician"
+                                    }
+                                  ],
+                                  "tradition": "galician",
+                                  "genre": "foliadas"
+                                }
+                              ],
+                              "genre": "foliadas",
+                              "tradition": "galician"
+                            }
+                          ],
+                          "tradition": "galician",
+                          "genre": "foliadas"
+                        }
+                      ],
+                      "genre": "foliadas",
+                      "tradition": "galician"
+                    },
+                    {
+                      "name": "Foliada De Bora Foliada De Bora Partitura 1 E 1",
+                      "length": 59.22917826947945,
+                      "genre": "foliadas",
+                      "tradition": "galician",
+                      "display_name": "Foliadas Foliada De Bora Foliada De Bora Partitura 1 E 1"
+                    }
+                  ],
+                  "tradition": "galician",
+                  "genre": "foliadas"
+                }
+              ],
+              "genre": "foliadas",
+              "tradition": "galician"
+            },
+            {
+              "name": "",
+              "length": 0.009424392127783676,
+              "children": [
+                {
+                  "name": "Foliada De Ribeira Foliada De Ribeira Partitura 1 E 1",
+                  "length": 42.14312451357401,
+                  "genre": "foliadas",
+                  "tradition": "galician",
+                  "display_name": "Foliadas Foliada De Ribeira Foliada De Ribeira Partitura 1 E 1"
+                },
+                {
+                  "name": "Foliada De Cambados Foliada De Cambados Partitura 1 E 1",
+                  "length": 44.70593829318517,
+                  "genre": "foliadas",
+                  "tradition": "galician",
+                  "display_name": "Foliadas Foliada De Cambados Foliada De Cambados Partitura 1 E 1"
+                }
+              ],
+              "genre": "foliadas",
+              "tradition": "galician"
+            }
+          ],
+          "genre": "foliadas",
+          "tradition": "galician"
+        },
+        {
+          "name": "",
+          "length": 0.007664475948368388,
+          "children": [
+            {
+              "name": "Foliada De Chantada Foliada De Chantada Partitura 2 E 1",
+              "length": 33.01423765257779,
+              "genre": "foliadas",
+              "tradition": "galician",
+              "display_name": "Foliadas Foliada De Chantada Foliada De Chantada Partitura 2 E 1"
+            },
+            {
+              "name": "",
+              "length": 0.3857218758736365,
+              "children": [
+                {
+                  "name": "Foliada 11 Foliada Partitura 1 E 1",
+                  "length": 23.986341043403385,
+                  "genre": "foliadas",
+                  "tradition": "galician",
+                  "display_name": "Foliadas Foliada 11 Foliada Partitura 1 E 1"
+                },
+                {
+                  "name": "Foliada 17 Foliada Partitura 1 1 E 1",
+                  "length": 39.983179716210486,
+                  "genre": "foliadas",
+                  "tradition": "galician",
+                  "display_name": "Foliadas Foliada 17 Foliada Partitura 1 1 E 1"
+                }
+              ],
+              "genre": "foliadas",
+              "tradition": "galician"
+            }
+          ],
+          "tradition": "galician",
+          "genre": "foliadas"
+        }
+      ],
+      "genre": "foliadas",
+      "tradition": "galician"
+    }
+  ],
+  "genre": "foliadas",
+  "tradition": "galician"
+}

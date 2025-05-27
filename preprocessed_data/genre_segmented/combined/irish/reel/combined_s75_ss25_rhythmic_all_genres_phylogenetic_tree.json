@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 17.0160423271425,
+  "children": [
+    {
+      "name": "Sligo The 1 E 1",
+      "length": 36.71163657379107,
+      "genre": "reel",
+      "tradition": "irish",
+      "display_name": "Sligo The 1 E 1"
+    },
+    {
+      "name": "",
+      "length": 0.0038890851968247375,
+      "children": [
+        {
+          "name": "",
+          "length": 1.0694045649275097,
+          "children": [
+            {
+              "name": "Saint Stephens 1 E 1",
+              "length": 31.693279228917916,
+              "genre": "reel",
+              "tradition": "irish",
+              "display_name": "Saint Stephens 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 0.22995115128013,
+              "children": [
+                {
+                  "name": "Musical Chisholm Household The 1 E 1",
+                  "length": 25.721756309219895,
+                  "genre": "reel",
+                  "tradition": "irish",
+                  "display_name": "Musical Chisholm Household The 1 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 0.8400248106583756,
+                  "children": [
+                    {
+                      "name": "Magic Fiddle The 1 E 1",
+                      "length": 25.925817068247657,
+                      "genre": "reel",
+                      "tradition": "irish",
+                      "display_name": "Magic Fiddle The 1 E 1"
+                    },
+                    {
+                      "name": "",
+                      "length": 1.0950609402220775,
+                      "children": [
+                        {
+                          "name": "Jordan Is A Hard Road To Travel 1 E 1",
+                          "length": 22.23944005770553,
+                          "genre": "reel",
+                          "tradition": "irish",
+                          "display_name": "Jordan Is A Hard Road To Travel 1 E 1"
+                        },
+                        {
+                          "name": "Jerusalem Ridge 1 E 1",
+                          "length": 22.28941299100156,
+                          "genre": "reel",
+                          "tradition": "irish",
+                          "display_name": "Jerusalem Ridge 1 E 1"
+                        }
+                      ],
+                      "genre": "reel",
+                      "tradition": "irish"
+                    }
+                  ],
+                  "genre": "reel",
+                  "tradition": "irish"
+                }
+              ],
+              "genre": "reel",
+              "tradition": "irish"
+            }
+          ],
+          "genre": "reel",
+          "tradition": "irish"
+        },
+        {
+          "name": "",
+          "length": 0.004238673774447629,
+          "children": [
+            {
+              "name": "",
+              "length": 0.052492280674898195,
+              "children": [
+                {
+                  "name": "",
+                  "length": 2.627331032905449,
+                  "children": [
+                    {
+                      "name": "A Mhaire Ni Laoghaire 1 E 1",
+                      "length": 37.07165865211816,
+                      "genre": "reel",
+                      "tradition": "irish",
+                      "display_name": "A Mhaire Ni Laoghaire 1 E 1"
+                    },
+                    {
+                      "name": "De Champs De Bleuets 1 E 1",
+                      "length": 41.492030704296226,
+                      "genre": "reel",
+                      "tradition": "irish",
+                      "display_name": "Reel De Champs De Bleuets 1 E 1"
+                    }
+                  ],
+                  "tradition": "irish",
+                  "genre": "reel"
+                },
+                {
+                  "name": "",
+                  "length": 0.6564815573610003,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 5.667972528446004,
+                      "children": [
+                        {
+                          "name": "Sproggies 1 E 1",
+                          "length": 22.34712228690352,
+                          "genre": "reel",
+                          "tradition": "irish",
+                          "display_name": "Sproggies 1 E 1"
+                        },
+                        {
+                          "name": "Wrangler The 1 E 1",
+                          "length": 22.714374134308393,
+                          "genre": "reel",
+                          "tradition": "irish",
+                          "display_name": "Wrangler The 1 E 1"
+                        }
+                      ],
+                      "genre": "reel",
+                      "tradition": "irish"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.4535121481395943,
+                      "children": [
+                        {
+                          "name": "Legless In Lisburn 1 E 1",
+                          "length": 26.03544350793474,
+                          "genre": "reel",
+                          "tradition": "irish",
+                          "display_name": "Legless In Lisburn 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.2429799648326516,
+                          "children": [
+                            {
+                              "name": "Phil Cunninghams 1 E 1",
+                              "length": 25.893042398604766,
+                              "genre": "reel",
+                              "tradition": "irish",
+                              "display_name": "Phil Cunninghams 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.5395135439432872,
+                              "children": [
+                                {
+                                  "name": "",
+                                  "length": 2.1222181700410907,
+                                  "children": [
+                                    {
+                                      "name": "Mrs Forbes Leith 1 E 1",
+                                      "length": 12.788022312305,
+                                      "genre": "reel",
+                                      "tradition": "irish",
+                                      "display_name": "Mrs Forbes Leith 1 E 1"
+                                    },
+                                    {
+                                      "name": "Dram Shell The 1 E 1",
+                                      "length": 20.734393429147097,
+                                      "genre": "reel",
+                                      "tradition": "irish",
+                                      "display_name": "Dram Shell The 1 E 1"
+                                    }
+                                  ],
+                                  "tradition": "irish",
+                                  "genre": "reel"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.6405965652184484,
+                                  "children": [
+                                    {
+                                      "name": "",
+                                      "length": 0.3460148454629497,
+                                      "children": [
+                                        {
+                                          "name": "",
+                                          "length": 0.833029148067696,
+                                          "children": [
+                                            {
+                                              "name": "",
+                                              "length": 1.860224793829188,
+                                              "children": [
+                                                {
+                                                  "name": "Shoot When The Ducks Are Flying 1 E 1",
+                                                  "length": 11.754521690039361,
+                                                  "genre": "reel",
+                                                  "tradition": "irish",
+                                                  "display_name": "Shoot When The Ducks Are Flying 1 E 1"
+                                                },
+                                                {
+                                                  "name": "Ship Has Sailed The 1 E 1",
+                                                  "length": 13.326198771497573,
+                                                  "genre": "reel",
+                                                  "tradition": "irish",
+                                                  "display_name": "Ship Has Sailed The 1 E 1"
+                                                }
+                                              ],
+                                              "tradition": "irish",
+                                              "genre": "reel"
+                                            },
+                                            {
+                                              "name": "Chuir I Gluin Air A Bhodaich 1 E 1",
+                                              "length": 14.951792078977016,
+                                              "genre": "reel",
+                                              "tradition": "irish",
+                                              "display_name": "Chuir I Gluin Air A Bhodaich 1 E 1"
+                                            }
+                                          ],
+                                          "genre": "reel",
+                                          "tradition": "irish"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 0.05883104479800849,
+                                          "children": [
+                                            {
+                                              "name": "Scudding Through The Whins 1 E 1",
+                                              "length": 20.444272078877667,
+                                              "genre": "reel",
+                                              "tradition": "irish",
+                                              "display_name": "Scudding Through The Whins 1 E 1"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 0.008933127729783052,
+                                              "children": [
+                                                {
+                                                  "name": "Arrane Ny Jinnyn 1 E 1",
+                                                  "length": 9.417537659423136,
+                                                  "genre": "reel",
+                                                  "tradition": "irish",
+                                                  "display_name": "Arrane Ny Jinnyn 1 E 1"
+                                                },
+                                                {
+                                                  "name": "Swing Swang 1 E 1",
+                                                  "length": 17.016042328252936,
+                                                  "genre": "reel",
+                                                  "tradition": "irish",
+                                                  "display_name": "Swing Swang 1 E 1"
+                                                }
+                                              ],
+                                              "genre": "reel",
+                                              "tradition": "irish"
+                                            }
+                                          ],
+                                          "genre": "reel",
+                                          "tradition": "irish"
+                                        }
+                                      ],
+                                      "genre": "reel",
+                                      "tradition": "irish"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 0.22787916545512044,
+                                      "children": [
+                                        {
+                                          "name": "One Night Fling The 1 E 1",
+                                          "length": 20.953624189968938,
+                                          "genre": "reel",
+                                          "tradition": "irish",
+                                          "display_name": "One Night Fling The 1 E 1"
+                                        },
+                                        {
+                                          "name": "Men They Stand Stay The 1 E 1",
+                                          "length": 20.455669324517466,
+                                          "genre": "reel",
+                                          "tradition": "irish",
+                                          "display_name": "Men They Stand And Stay The 1 E 1"
+                                        }
+                                      ],
+                                      "tradition": "irish",
+                                      "genre": "reel"
+                                    }
+                                  ],
+                                  "tradition": "irish",
+                                  "genre": "reel"
+                                }
+                              ],
+                              "genre": "reel",
+                              "tradition": "irish"
+                            }
+                          ],
+                          "genre": "reel",
+                          "tradition": "irish"
+                        }
+                      ],
+                      "tradition": "irish",
+                      "genre": "reel"
+                    }
+                  ],
+                  "tradition": "irish",
+                  "genre": "reel"
+                }
+              ],
+              "tradition": "irish",
+              "genre": "reel"
+            },
+            {
+              "name": "",
+              "length": 0.1488669642797973,
+              "children": [
+                {
+                  "name": "",
+                  "length": 2.005489338352241,
+                  "children": [
+                    {
+                      "name": "Drag Her Round The Road 1 E 1",
+                      "length": 28.619193573932815,
+                      "genre": "reel",
+                      "tradition": "irish",
+                      "display_name": "Drag Her Round The Road 1 E 1"
+                    },
+                    {
+                      "name": "I Wish My Love Were In A Mire 1 E 1",
+                      "length": 26.90708488464981,
+                      "genre": "reel",
+                      "tradition": "irish",
+                      "display_name": "I Wish My Love Were In A Mire 1 E 1"
+                    }
+                  ],
+                  "genre": "reel",
+                  "tradition": "irish"
+                },
+                {
+                  "name": "",
+                  "length": 0.17764843094027583,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 1.7428009994858507,
+                      "children": [
+                        {
+                          "name": "Miss Gunnings 1 E 1",
+                          "length": 31.90980484171685,
+                          "genre": "reel",
+                          "tradition": "irish",
+                          "display_name": "Miss Gunnings 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 2.59916250495273,
+                          "children": [
+                            {
+                              "name": "Boy In The Tree The 1 E 1",
+                              "length": 28.5766751142844,
+                              "genre": "reel",
+                              "tradition": "irish",
+                              "display_name": "Boy In The Tree The 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.7568905080218897,
+                              "children": [
+                                {
+                                  "name": "Corofin Departure The 1 E 1",
+                                  "length": 27.538856773579887,
+                                  "genre": "reel",
+                                  "tradition": "irish",
+                                  "display_name": "Corofin Departure The 1 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 1.9800786987305443,
+                                  "children": [
+                                    {
+                                      "name": "42 Beech Avenue 1 E 1",
+                                      "length": 30.774190505422396,
+                                      "genre": "reel",
+                                      "tradition": "irish",
+                                      "display_name": "42 Beech Avenue 1 E 1"
+                                    },
+                                    {
+                                      "name": "Crisis The 1 E 1",
+                                      "length": 21.198187123916696,
+                                      "genre": "reel",
+                                      "tradition": "irish",
+                                      "display_name": "Crisis The 1 E 1"
+                                    }
+                                  ],
+                                  "genre": "reel",
+                                  "tradition": "irish"
+                                }
+                              ],
+                              "genre": "reel",
+                              "tradition": "irish"
+                            }
+                          ],
+                          "genre": "reel",
+                          "tradition": "irish"
+                        }
+                      ],
+                      "genre": "reel",
+                      "tradition": "irish"
+                    },
+                    {
+                      "name": "White Butterfly 1 E 1",
+                      "length": 32.78435976260549,
+                      "genre": "reel",
+                      "tradition": "irish",
+                      "display_name": "White Butterfly 1 E 1"
+                    }
+                  ],
+                  "tradition": "irish",
+                  "genre": "reel"
+                }
+              ],
+              "genre": "reel",
+              "tradition": "irish"
+            }
+          ],
+          "genre": "reel",
+          "tradition": "irish"
+        }
+      ],
+      "tradition": "irish",
+      "genre": "reel"
+    }
+  ],
+  "tradition": "irish",
+  "genre": "reel"
+}

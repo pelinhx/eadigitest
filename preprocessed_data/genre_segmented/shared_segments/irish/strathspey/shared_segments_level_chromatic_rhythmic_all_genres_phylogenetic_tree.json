@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 141.49999999997797,
+  "children": [
+    {
+      "name": "",
+      "length": 0.00010840207357887266,
+      "children": [
+        {
+          "name": "Quiet Man The 1 E 1",
+          "length": 299.99978801372254,
+          "genre": "strathspey",
+          "tradition": "irish",
+          "display_name": "Quiet Man The 1 E 1"
+        },
+        {
+          "name": "",
+          "length": 0.02681302904710492,
+          "children": [
+            {
+              "name": "Strasby 1 E 1",
+              "length": 346.44659926147756,
+              "genre": "strathspey",
+              "tradition": "irish",
+              "display_name": "Strasby 1 E 1"
+            },
+            {
+              "name": "Struy Vale 1 E 1",
+              "length": 445.97500384580064,
+              "genre": "strathspey",
+              "tradition": "irish",
+              "display_name": "Struy Vale 1 E 1"
+            }
+          ],
+          "tradition": "irish",
+          "genre": "strathspey"
+        }
+      ],
+      "tradition": "irish",
+      "genre": "strathspey"
+    },
+    {
+      "name": "",
+      "length": 0.0026027280408129627,
+      "children": [
+        {
+          "name": "",
+          "length": 0.09243254475332918,
+          "children": [
+            {
+              "name": "",
+              "length": 0.14720733467618038,
+              "children": [
+                {
+                  "name": "",
+                  "length": 0.008305745981630253,
+                  "children": [
+                    {
+                      "name": "Lord Balgownies Favourite 1 E 1",
+                      "length": 244.9835452202247,
+                      "genre": "strathspey",
+                      "tradition": "irish",
+                      "display_name": "Lord Balgownies Favourite 1 E 1"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.03260199357384863,
+                      "children": [
+                        {
+                          "name": "Kerrymans Fling 1 E 1",
+                          "length": 244.93539975347372,
+                          "genre": "strathspey",
+                          "tradition": "irish",
+                          "display_name": "Kerrymans Fling 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.06460024652628249,
+                          "children": [
+                            {
+                              "name": "First Light 1 E 1",
+                              "length": 244.87263750457788,
+                              "genre": "strathspey",
+                              "tradition": "irish",
+                              "display_name": "First Light 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.8327335547859391,
+                              "children": [
+                                {
+                                  "name": "Peace Plenty 1 E 1",
+                                  "length": 211.764038209204,
+                                  "genre": "strathspey",
+                                  "tradition": "irish",
+                                  "display_name": "Peace And Plenty 1 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.6266194937691836,
+                                  "children": [
+                                    {
+                                      "name": "Sir Archibald Dunbar 1 E 1",
+                                      "length": 199.99999999999994,
+                                      "genre": "strathspey",
+                                      "tradition": "irish",
+                                      "display_name": "Sir Archibald Dunbar 1 E 1"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 5.684341886080802e-14,
+                                      "children": [
+                                        {
+                                          "name": "Cha Toir Iain Mor An Nighean Dhomh 1 E 1",
+                                          "length": 199.99999999999994,
+                                          "genre": "strathspey",
+                                          "tradition": "irish",
+                                          "display_name": "Cha Toir Iain Mor An Nighean Dhomh 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 5.684341886080802e-14,
+                                          "children": [
+                                            {
+                                              "name": "Bidh Eoin 1 E 1",
+                                              "length": 199.99999999999994,
+                                              "genre": "strathspey",
+                                              "tradition": "irish",
+                                              "display_name": "Bidh Eoin 1 E 1"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 5.684341886080802e-14,
+                                              "children": [
+                                                {
+                                                  "name": "Anthony Dick 1 E 1",
+                                                  "length": 199.99999999999994,
+                                                  "genre": "strathspey",
+                                                  "tradition": "irish",
+                                                  "display_name": "Anthony Dick 1 E 1"
+                                                },
+                                                {
+                                                  "name": "",
+                                                  "length": 1.4210854715202004e-13,
+                                                  "children": [
+                                                    {
+                                                      "name": "Am Buachaille Dubh Fionnghual 1 E 1",
+                                                      "length": 199.99999999999972,
+                                                      "genre": "strathspey",
+                                                      "tradition": "irish",
+                                                      "display_name": "Am Buachaille Dubh Fionnghual 1 E 1"
+                                                    },
+                                                    {
+                                                      "name": "",
+                                                      "length": 2.8421709430404007e-13,
+                                                      "children": [
+                                                        {
+                                                          "name": "Paddy Bartleys 1 E 1",
+                                                          "length": 199.99999999999943,
+                                                          "genre": "strathspey",
+                                                          "tradition": "irish",
+                                                          "display_name": "Paddy Bartleys 1 E 1"
+                                                        },
+                                                        {
+                                                          "name": "",
+                                                          "length": 2.6147972675971687e-12,
+                                                          "children": [
+                                                            {
+                                                              "name": "Neilly Oboyles Highland 1 E 1",
+                                                              "length": 199.99999999999477,
+                                                              "genre": "strathspey",
+                                                              "tradition": "irish",
+                                                              "display_name": "Neilly Oboyles Highland 1 E 1"
+                                                            },
+                                                            {
+                                                              "name": "",
+                                                              "length": 2.537149157433305e-09,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Miss Mariane Oliphant 1 E 1",
+                                                                  "length": 199.99999999495822,
+                                                                  "genre": "strathspey",
+                                                                  "tradition": "irish",
+                                                                  "display_name": "Miss Mariane Oliphant 1 E 1"
+                                                                },
+                                                                {
+                                                                  "name": "",
+                                                                  "length": 6.17626255916548e-07,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Jimmy Mcneliss Highland 1 E 1",
+                                                                      "length": 199.99999877227958,
+                                                                      "genre": "strathspey",
+                                                                      "tradition": "irish",
+                                                                      "display_name": "Jimmy Mcneliss Highland 1 E 1"
+                                                                    },
+                                                                    {
+                                                                      "name": "",
+                                                                      "length": 0.11901907865783201,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Darling The 1 E 1",
+                                                                          "length": 199.74315302558364,
+                                                                          "genre": "strathspey",
+                                                                          "tradition": "irish",
+                                                                          "display_name": "Darling The 1 E 1"
+                                                                        },
+                                                                        {
+                                                                          "name": "",
+                                                                          "length": 0.5098428866311338,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "Cho Dean Sin Sta Machra 1 E 1",
+                                                                              "length": 198.89591189669966,
+                                                                              "genre": "strathspey",
+                                                                              "tradition": "irish",
+                                                                              "display_name": "Cho Dean Sin Sta Machra 1 E 1"
+                                                                            },
+                                                                            {
+                                                                              "name": "",
+                                                                              "length": 0.0072007897188086645,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Shamrock The 1 E 1",
+                                                                                  "length": 172.999968971761,
+                                                                                  "genre": "strathspey",
+                                                                                  "tradition": "irish",
+                                                                                  "display_name": "Shamrock The 1 E 1"
+                                                                                },
+                                                                                {
+                                                                                  "name": "",
+                                                                                  "length": 6.183163552009319e-05,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "Tulloch The 1 E 1",
+                                                                                      "length": 172.99987678316648,
+                                                                                      "genre": "strathspey",
+                                                                                      "tradition": "irish",
+                                                                                      "display_name": "Reel Of Tulloch The 1 E 1"
+                                                                                    },
+                                                                                    {
+                                                                                      "name": "",
+                                                                                      "length": 0.001943405723267233,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Mrs James Macinnes Edinburgh 1 E 1",
+                                                                                          "length": 172.99612697157295,
+                                                                                          "genre": "strathspey",
+                                                                                          "tradition": "irish",
+                                                                                          "display_name": "Mrs James Macinnes  Edinburgh 1 E 1"
+                                                                                        },
+                                                                                        {
+                                                                                          "name": "",
+                                                                                          "length": 0.030658077654038607,
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "Willy Will You Eer Return 1 E 1",
+                                                                                              "length": 172.93889823684327,
+                                                                                              "genre": "strathspey",
+                                                                                              "tradition": "irish",
+                                                                                              "display_name": "Willy Will You Eer Return 1 E 1"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "",
+                                                                                              "length": 0.24120332415333223,
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "Field Bannockburn The 1 E 1",
+                                                                                                  "length": 172.51845268746115,
+                                                                                                  "genre": "strathspey",
+                                                                                                  "tradition": "irish",
+                                                                                                  "display_name": "Field Of Bannockburn The 1 E 1"
+                                                                                                },
+                                                                                                {
+                                                                                                  "name": "",
+                                                                                                  "length": 0.0772515678062291,
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "Our Highland Queen 1 E 1",
+                                                                                                      "length": 141.45060568845255,
+                                                                                                      "genre": "strathspey",
+                                                                                                      "tradition": "irish",
+                                                                                                      "display_name": "Our Highland Queen 1 E 1"
+                                                                                                    },
+                                                                                                    {
+                                                                                                      "name": "",
+                                                                                                      "length": 0.7832352368101283,
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "Is It A Yet 1 E 1",
+                                                                                                          "length": 139.9238470006291,
+                                                                                                          "genre": "strathspey",
+                                                                                                          "tradition": "irish",
+                                                                                                          "display_name": "Is It A Jig Yet 1 E 1"
+                                                                                                        },
+                                                                                                        {
+                                                                                                          "name": "Harveys 1 E 1",
+                                                                                                          "length": 138.29254177840113,
+                                                                                                          "genre": "strathspey",
+                                                                                                          "tradition": "irish",
+                                                                                                          "display_name": "Harveys 1 E 1"
+                                                                                                        }
+                                                                                                      ],
+                                                                                                      "genre": "strathspey",
+                                                                                                      "tradition": "irish"
+                                                                                                    }
+                                                                                                  ],
+                                                                                                  "genre": "strathspey",
+                                                                                                  "tradition": "irish"
+                                                                                                }
+                                                                                              ],
+                                                                                              "genre": "strathspey",
+                                                                                              "tradition": "irish"
+                                                                                            }
+                                                                                          ],
+                                                                                          "tradition": "irish",
+                                                                                          "genre": "strathspey"
+                                                                                        }
+                                                                                      ],
+                                                                                      "genre": "strathspey",
+                                                                                      "tradition": "irish"
+                                                                                    }
+                                                                                  ],
+                                                                                  "tradition": "irish",
+                                                                                  "genre": "strathspey"
+                                                                                }
+                                                                              ],
+                                                                              "tradition": "irish",
+                                                                              "genre": "strathspey"
+                                                                            }
+                                                                          ],
+                                                                          "genre": "strathspey",
+                                                                          "tradition": "irish"
+                                                                        }
+                                                                      ],
+                                                                      "genre": "strathspey",
+                                                                      "tradition": "irish"
+                                                                    }
+                                                                  ],
+                                                                  "genre": "strathspey",
+                                                                  "tradition": "irish"
+                                                                }
+                                                              ],
+                                                              "genre": "strathspey",
+                                                              "tradition": "irish"
+                                                            }
+                                                          ],
+                                                          "tradition": "irish",
+                                                          "genre": "strathspey"
+                                                        }
+                                                      ],
+                                                      "genre": "strathspey",
+                                                      "tradition": "irish"
+                                                    }
+                                                  ],
+                                                  "genre": "strathspey",
+                                                  "tradition": "irish"
+                                                }
+                                              ],
+                                              "tradition": "irish",
+                                              "genre": "strathspey"
+                                            }
+                                          ],
+                                          "genre": "strathspey",
+                                          "tradition": "irish"
+                                        }
+                                      ],
+                                      "genre": "strathspey",
+                                      "tradition": "irish"
+                                    }
+                                  ],
+                                  "genre": "strathspey",
+                                  "tradition": "irish"
+                                }
+                              ],
+                              "tradition": "irish",
+                              "genre": "strathspey"
+                            }
+                          ],
+                          "genre": "strathspey",
+                          "tradition": "irish"
+                        }
+                      ],
+                      "genre": "strathspey",
+                      "tradition": "irish"
+                    }
+                  ],
+                  "genre": "strathspey",
+                  "tradition": "irish"
+                },
+                {
+                  "name": "Spring The Summer Long 1 E 1",
+                  "length": 281.0333351707231,
+                  "genre": "strathspey",
+                  "tradition": "irish",
+                  "display_name": "Spring The Summer Long 1 E 1"
+                }
+              ],
+              "genre": "strathspey",
+              "tradition": "irish"
+            },
+            {
+              "name": "",
+              "length": 1.7299203136644792e-06,
+              "children": [
+                {
+                  "name": "Brisk Bob 1 E 1",
+                  "length": 264.50000000000045,
+                  "genre": "strathspey",
+                  "tradition": "irish",
+                  "display_name": "Brisk Bob 1 E 1"
+                },
+                {
+                  "name": "Maolisse 1 E 1",
+                  "length": 264.5,
+                  "genre": "strathspey",
+                  "tradition": "irish",
+                  "display_name": "Maolisse 1 E 1"
+                }
+              ],
+              "genre": "strathspey",
+              "tradition": "irish"
+            }
+          ],
+          "genre": "strathspey",
+          "tradition": "irish"
+        },
+        {
+          "name": "Trip To Dublin The 1 E 1",
+          "length": 282.9870786302448,
+          "genre": "strathspey",
+          "tradition": "irish",
+          "display_name": "Trip To Dublin The 1 E 1"
+        }
+      ],
+      "tradition": "irish",
+      "genre": "strathspey"
+    }
+  ],
+  "genre": "strathspey",
+  "tradition": "irish"
+}

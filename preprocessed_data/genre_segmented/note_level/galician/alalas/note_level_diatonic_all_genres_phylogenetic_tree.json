@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 0.044914842034904506,
+  "children": [
+    {
+      "name": "",
+      "length": 1.1649594558294751,
+      "children": [
+        {
+          "name": "Caen Folerpas Caen Folerpas Partitura 1 E 1",
+          "length": 23.8790876623713,
+          "genre": "alalas",
+          "tradition": "galician",
+          "display_name": "Alalas Caen Folerpas Caen Folerpas Partitura 1 E 1"
+        },
+        {
+          "name": "",
+          "length": 1.307360073900906,
+          "children": [
+            {
+              "name": "Alala 27 Alala Partitura 1 E 1",
+              "length": 16.059375081507323,
+              "genre": "alalas",
+              "tradition": "galician",
+              "display_name": "Alalas Alala 27 Alala Partitura 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 0.9183173802945532,
+              "children": [
+                {
+                  "name": "Alala 23 Alala Partitura 1 E 1",
+                  "length": 14.652408674524008,
+                  "genre": "alalas",
+                  "tradition": "galician",
+                  "display_name": "Alalas Alala 23 Alala Partitura 1 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 1.503532850089755,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 11.087493585825191,
+                      "children": [
+                        {
+                          "name": "Alala 19 Alala Partitura 1 E 1",
+                          "length": 8.859059308994063,
+                          "genre": "alalas",
+                          "tradition": "galician",
+                          "display_name": "Alalas Alala 19 Alala Partitura 1 E 1"
+                        },
+                        {
+                          "name": "Alala 10 Alala Partitura 1 E 1",
+                          "length": 2.1409406910059374,
+                          "genre": "alalas",
+                          "tradition": "galician",
+                          "display_name": "Alalas Alala 10 Alala Partitura 1 E 1"
+                        }
+                      ],
+                      "genre": "alalas",
+                      "tradition": "galician"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.7809716589448588,
+                      "children": [
+                        {
+                          "name": "Alala 12 Alala Partitura 1 E 1",
+                          "length": 15.20415560612232,
+                          "genre": "alalas",
+                          "tradition": "galician",
+                          "display_name": "Alalas Alala 12 Alala Partitura 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 1.1047277032419984,
+                          "children": [
+                            {
+                              "name": "Alala 26 Alala Partitura 1 E 1",
+                              "length": 17.533995884883673,
+                              "genre": "alalas",
+                              "tradition": "galician",
+                              "display_name": "Alalas Alala 26 Alala Partitura 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.9235890028593232,
+                              "children": [
+                                {
+                                  "name": "",
+                                  "length": 1.4678785317624534,
+                                  "children": [
+                                    {
+                                      "name": "Alala 11 Alala Partitura 1 E 1",
+                                      "length": 13.921211839955795,
+                                      "genre": "alalas",
+                                      "tradition": "galician",
+                                      "display_name": "Alalas Alala 11 Alala Partitura 1 E 1"
+                                    },
+                                    {
+                                      "name": "Alala 31 Alala Letra 1 E 1",
+                                      "length": 13.479351904807968,
+                                      "genre": "alalas",
+                                      "tradition": "galician",
+                                      "display_name": "Alalas Alala 31 Alala Letra 1 E 1"
+                                    }
+                                  ],
+                                  "tradition": "galician",
+                                  "genre": "alalas"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.26551704471459736,
+                                  "children": [
+                                    {
+                                      "name": "",
+                                      "length": 2.323098202197431,
+                                      "children": [
+                                        {
+                                          "name": "Alala 25 Alala Partitura 1 E 1",
+                                          "length": 10.469749890896853,
+                                          "genre": "alalas",
+                                          "tradition": "galician",
+                                          "display_name": "Alalas Alala 25 Alala Partitura 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 1.3020752279432433,
+                                          "children": [
+                                            {
+                                              "name": "Alala 28 Alala Partitura 1 E 1",
+                                              "length": 10.865554085749263,
+                                              "genre": "alalas",
+                                              "tradition": "galician",
+                                              "display_name": "Alalas Alala 28 Alala Partitura 1 E 1"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 1.3960365370642407,
+                                              "children": [
+                                                {
+                                                  "name": "",
+                                                  "length": 1.5320197142672036,
+                                                  "children": [
+                                                    {
+                                                      "name": "Alala 13 Alala Partitura 1 E 1",
+                                                      "length": 8.410133420681964,
+                                                      "genre": "alalas",
+                                                      "tradition": "galician",
+                                                      "display_name": "Alalas Alala 13 Alala Partitura 1 E 1"
+                                                    },
+                                                    {
+                                                      "name": "",
+                                                      "length": 1.453103961944887,
+                                                      "children": [
+                                                        {
+                                                          "name": "Alala Do Rizon Alala Do Rizon Partitura 1 E 1",
+                                                          "length": 15.794161811686037,
+                                                          "genre": "alalas",
+                                                          "tradition": "galician",
+                                                          "display_name": "Alalas Alala Do Rizon Alala Do Rizon Partitura 1 E 1"
+                                                        },
+                                                        {
+                                                          "name": "",
+                                                          "length": 3.4616975633139635,
+                                                          "children": [
+                                                            {
+                                                              "name": "Alala 33 Alala Partitura 1 E 1",
+                                                              "length": 7.5465897693421695,
+                                                              "genre": "alalas",
+                                                              "tradition": "galician",
+                                                              "display_name": "Alalas Alala 33 Alala Partitura 1 E 1"
+                                                            },
+                                                            {
+                                                              "name": "",
+                                                              "length": 0.9924727306578305,
+                                                              "children": [
+                                                                {
+                                                                  "name": "",
+                                                                  "length": 7.3696618318719125,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Alala Alala Partitura 1 E 1",
+                                                                      "length": 0.0,
+                                                                      "genre": "alalas",
+                                                                      "tradition": "galician",
+                                                                      "display_name": "Alalas Alala Alala Partitura 1 E 1"
+                                                                    },
+                                                                    {
+                                                                      "name": "Alala 30 Alala Partitura 1 E 1",
+                                                                      "length": 0.0,
+                                                                      "genre": "alalas",
+                                                                      "tradition": "galician",
+                                                                      "display_name": "Alalas Alala 30 Alala Partitura 1 E 1"
+                                                                    }
+                                                                  ],
+                                                                  "genre": "alalas",
+                                                                  "tradition": "galician"
+                                                                },
+                                                                {
+                                                                  "name": "",
+                                                                  "length": 1.9819006681280875,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Alala 5 Alala Partitura 1 E 1",
+                                                                      "length": 6.246442151219187,
+                                                                      "genre": "alalas",
+                                                                      "tradition": "galician",
+                                                                      "display_name": "Alalas Alala 5 Alala Partitura 1 E 1"
+                                                                    },
+                                                                    {
+                                                                      "name": "",
+                                                                      "length": 1.2066828487808134,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Alala 32 Alala Partitura 1 E 1",
+                                                                          "length": 7.2317550267340245,
+                                                                          "genre": "alalas",
+                                                                          "tradition": "galician",
+                                                                          "display_name": "Alalas Alala 32 Alala Partitura 1 E 1"
+                                                                        },
+                                                                        {
+                                                                          "name": "",
+                                                                          "length": 2.4244949732659755,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "Alala 16 Alala Partitura 1 E 1",
+                                                                              "length": 4.788731081235896,
+                                                                              "genre": "alalas",
+                                                                              "tradition": "galician",
+                                                                              "display_name": "Alalas Alala 16 Alala Partitura 1 E 1"
+                                                                            },
+                                                                            {
+                                                                              "name": "",
+                                                                              "length": 4.023768918764104,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Alala 15 Alala Partitura 1 E 1",
+                                                                                  "length": 4.638545245248101,
+                                                                                  "genre": "alalas",
+                                                                                  "tradition": "galician",
+                                                                                  "display_name": "Alalas Alala 15 Alala Partitura 1 E 1"
+                                                                                },
+                                                                                {
+                                                                                  "name": "",
+                                                                                  "length": 3.1552543573094587,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "Alala 8 Alala Partitura 1 E 1",
+                                                                                      "length": 3.5529196602957587,
+                                                                                      "genre": "alalas",
+                                                                                      "tradition": "galician",
+                                                                                      "display_name": "Alalas Alala 8 Alala Partitura 1 E 1"
+                                                                                    },
+                                                                                    {
+                                                                                      "name": "",
+                                                                                      "length": 6.447080339704241,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Alala 14 Alala Partitura 1 E 1",
+                                                                                          "length": 4.539827502166378,
+                                                                                          "genre": "alalas",
+                                                                                          "tradition": "galician",
+                                                                                          "display_name": "Alalas Alala 14 Alala Partitura 1 E 1"
+                                                                                        },
+                                                                                        {
+                                                                                          "name": "Alala 18 Alala Partitura 1 E 1",
+                                                                                          "length": 1.4601724978336224,
+                                                                                          "genre": "alalas",
+                                                                                          "tradition": "galician",
+                                                                                          "display_name": "Alalas Alala 18 Alala Partitura 1 E 1"
+                                                                                        }
+                                                                                      ],
+                                                                                      "genre": "alalas",
+                                                                                      "tradition": "galician"
+                                                                                    }
+                                                                                  ],
+                                                                                  "genre": "alalas",
+                                                                                  "tradition": "galician"
+                                                                                }
+                                                                              ],
+                                                                              "genre": "alalas",
+                                                                              "tradition": "galician"
+                                                                            }
+                                                                          ],
+                                                                          "genre": "alalas",
+                                                                          "tradition": "galician"
+                                                                        }
+                                                                      ],
+                                                                      "genre": "alalas",
+                                                                      "tradition": "galician"
+                                                                    }
+                                                                  ],
+                                                                  "genre": "alalas",
+                                                                  "tradition": "galician"
+                                                                }
+                                                              ],
+                                                              "genre": "alalas",
+                                                              "tradition": "galician"
+                                                            }
+                                                          ],
+                                                          "genre": "alalas",
+                                                          "tradition": "galician"
+                                                        }
+                                                      ],
+                                                      "genre": "alalas",
+                                                      "tradition": "galician"
+                                                    }
+                                                  ],
+                                                  "genre": "alalas",
+                                                  "tradition": "galician"
+                                                },
+                                                {
+                                                  "name": "Alala 4 Alala Partitura 1 E 1",
+                                                  "length": 9.720752968942858,
+                                                  "genre": "alalas",
+                                                  "tradition": "galician",
+                                                  "display_name": "Alalas Alala 4 Alala Partitura 1 E 1"
+                                                }
+                                              ],
+                                              "genre": "alalas",
+                                              "tradition": "galician"
+                                            }
+                                          ],
+                                          "genre": "alalas",
+                                          "tradition": "galician"
+                                        }
+                                      ],
+                                      "genre": "alalas",
+                                      "tradition": "galician"
+                                    },
+                                    {
+                                      "name": "Canta O Merlo Na Silveira Canta O Merlo Na Silveira Partitura 1 E 1",
+                                      "length": 13.216405203741665,
+                                      "genre": "alalas",
+                                      "tradition": "galician",
+                                      "display_name": "Alalas Canta O Merlo Na Silveira Canta O Merlo Na Silveira Partitura 1 E 1"
+                                    }
+                                  ],
+                                  "genre": "alalas",
+                                  "tradition": "galician"
+                                }
+                              ],
+                              "genre": "alalas",
+                              "tradition": "galician"
+                            }
+                          ],
+                          "genre": "alalas",
+                          "tradition": "galician"
+                        }
+                      ],
+                      "genre": "alalas",
+                      "tradition": "galician"
+                    }
+                  ],
+                  "genre": "alalas",
+                  "tradition": "galician"
+                }
+              ],
+              "genre": "alalas",
+              "tradition": "galician"
+            }
+          ],
+          "genre": "alalas",
+          "tradition": "galician"
+        }
+      ],
+      "genre": "alalas",
+      "tradition": "galician"
+    },
+    {
+      "name": "",
+      "length": 0.12479001707760706,
+      "children": [
+        {
+          "name": "",
+          "length": 0.793279893846027,
+          "children": [
+            {
+              "name": "",
+              "length": 1.246416768959402,
+              "children": [
+                {
+                  "name": "Alala Do Cebreiro Alala Do Cebreiro Partitura 2 E 1",
+                  "length": 29.351432978958893,
+                  "genre": "alalas",
+                  "tradition": "galician",
+                  "display_name": "Alalas Alala Do Cebreiro Alala Do Cebreiro Partitura 2 E 1"
+                },
+                {
+                  "name": "Alala De Andabao Alala De Andabao Partitura 2 E 1",
+                  "length": 70.24676024733257,
+                  "genre": "alalas",
+                  "tradition": "galician",
+                  "display_name": "Alalas Alala De Andabao Alala De Andabao Partitura 2 E 1"
+                }
+              ],
+              "genre": "alalas",
+              "tradition": "galician"
+            },
+            {
+              "name": "Alala De Ourense 1 Alala De Ourense Partitura 2 E 1",
+              "length": 25.841914527947957,
+              "genre": "alalas",
+              "tradition": "galician",
+              "display_name": "Alalas Alala De Ourense 1 Alala De Ourense Partitura 2 E 1"
+            }
+          ],
+          "genre": "alalas",
+          "tradition": "galician"
+        },
+        {
+          "name": "",
+          "length": 0.0955058252511416,
+          "children": [
+            {
+              "name": "Alala De Villalba Alala De Villalba Partitura 2 E 1",
+              "length": 44.63254700700773,
+              "genre": "alalas",
+              "tradition": "galician",
+              "display_name": "Alalas Alala De Villalba Alala De Villalba Partitura 2 E 1"
+            },
+            {
+              "name": "Vento Vento Partitura 1 E 1",
+              "length": 31.303137588309497,
+              "genre": "alalas",
+              "tradition": "galician",
+              "display_name": "Alalas Vento Vento Partitura 1 E 1"
+            }
+          ],
+          "tradition": "galician",
+          "genre": "alalas"
+        }
+      ],
+      "tradition": "galician",
+      "genre": "alalas"
+    }
+  ],
+  "tradition": "galician",
+  "genre": "alalas"
+}

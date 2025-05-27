@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 1.0928147275990341e-11,
+  "children": [
+    {
+      "name": "Carballesas Na Ruada Na Ruada Partitura 1 E 1",
+      "length": 42.65733239403092,
+      "genre": "muineiras",
+      "tradition": "galician",
+      "display_name": "Muineiras Carballesas Na Ruada Na Ruada Partitura 1 E 1"
+    },
+    {
+      "name": "",
+      "length": 3.836930773104541e-13,
+      "children": [
+        {
+          "name": "Muineira De Parteme Muineira De Parteme Partitura 1 E 1",
+          "length": 42.657332394035095,
+          "genre": "muineiras",
+          "tradition": "galician",
+          "display_name": "Muineiras Muineira De Parteme Muineira De Parteme Partitura 1 E 1"
+        },
+        {
+          "name": "",
+          "length": 2.984279490192421e-13,
+          "children": [
+            {
+              "name": "Muineira De Campolameiro Muineira De Campolameiro Partitura 1 1 E 1",
+              "length": 42.65733239403518,
+              "genre": "muineiras",
+              "tradition": "galician",
+              "display_name": "Muineiras Muineira De Campolameiro Muineira De Campolameiro Partitura 1 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 5.684341886080802e-14,
+              "children": [
+                {
+                  "name": "",
+                  "length": 5.764592110324429e-06,
+                  "children": [
+                    {
+                      "name": "Muineira 72 Muineira Partitura 2 E 1",
+                      "length": 42.657321029558716,
+                      "genre": "muineiras",
+                      "tradition": "galician",
+                      "display_name": "Muineiras Muineira 72 Muineira Partitura 2 E 1"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.0016188742094485065,
+                      "children": [
+                        {
+                          "name": "",
+                          "length": 0.010277036831783746,
+                          "children": [
+                            {
+                              "name": "Muineira De Redondela Muineira De Redondela Partitura 1 E 1",
+                              "length": 40.35485112942099,
+                              "genre": "muineiras",
+                              "tradition": "galician",
+                              "display_name": "Muineiras Muineira De Redondela Muineira De Redondela Partitura 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.024407110218608617,
+                              "children": [
+                                {
+                                  "name": "",
+                                  "length": 0.06026595435636574,
+                                  "children": [
+                                    {
+                                      "name": "Danza De Cambados Danza De Cambados Partitura 1 2 E 1",
+                                      "length": 40.27184442650497,
+                                      "genre": "muineiras",
+                                      "tradition": "galician",
+                                      "display_name": "Muineiras Danza De Cambados Danza De Cambados Partitura 1 2 E 1"
+                                    },
+                                    {
+                                      "name": "Baila Nena Baila Nena Partitura 1 E 1",
+                                      "length": 33.849941875490345,
+                                      "genre": "muineiras",
+                                      "tradition": "galician",
+                                      "display_name": "Muineiras Baila Nena Baila Nena Partitura 1 E 1"
+                                    }
+                                  ],
+                                  "tradition": "galician",
+                                  "genre": "muineiras"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.006888137300695249,
+                                  "children": [
+                                    {
+                                      "name": "",
+                                      "length": 2.880307432251329,
+                                      "children": [
+                                        {
+                                          "name": "Muineira De Moia 1 Muineira De Moia Partitura 1 E 1",
+                                          "length": 25.72680094898038,
+                                          "genre": "muineiras",
+                                          "tradition": "galician",
+                                          "display_name": "Muineiras Muineira De Moia 1 Muineira De Moia Partitura 1 E 1"
+                                        },
+                                        {
+                                          "name": "Muineira Do Galantino Muineira Do Galantino Partitura 1 E 1",
+                                          "length": 40.035057686689456,
+                                          "genre": "muineiras",
+                                          "tradition": "galician",
+                                          "display_name": "Muineiras Muineira Do Galantino Muineira Do Galantino Partitura 1 E 1"
+                                        }
+                                      ],
+                                      "genre": "muineiras",
+                                      "tradition": "galician"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 0.35056820492030216,
+                                      "children": [
+                                        {
+                                          "name": "Muineira 3 Muineira Partitura 1 E 1",
+                                          "length": 20.1507376583785,
+                                          "genre": "muineiras",
+                                          "tradition": "galician",
+                                          "display_name": "Muineiras Muineira 3 Muineira Partitura 1 E 1"
+                                        },
+                                        {
+                                          "name": "Muineira De Cartelle Muineira De Cartelle Partitura 2 E 1",
+                                          "length": 41.18302940099835,
+                                          "genre": "muineiras",
+                                          "tradition": "galician",
+                                          "display_name": "Muineiras Muineira De Cartelle Muineira De Cartelle Partitura 2 E 1"
+                                        }
+                                      ],
+                                      "tradition": "galician",
+                                      "genre": "muineiras"
+                                    }
+                                  ],
+                                  "genre": "muineiras",
+                                  "tradition": "galician"
+                                }
+                              ],
+                              "genre": "muineiras",
+                              "tradition": "galician"
+                            }
+                          ],
+                          "genre": "muineiras",
+                          "tradition": "galician"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.011078934066782588,
+                          "children": [
+                            {
+                              "name": "Muineira Do Morrazo 4 Muineira Partitura 1 E 1",
+                              "length": 39.42306094399005,
+                              "genre": "muineiras",
+                              "tradition": "galician",
+                              "display_name": "Muineiras Muineira Do Morrazo 4 Muineira Partitura 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.19086086274828773,
+                              "children": [
+                                {
+                                  "name": "",
+                                  "length": 0.309320099041817,
+                                  "children": [
+                                    {
+                                      "name": "Muineira Da Caniza Muineira Da Caniza Partitura 1 E 1",
+                                      "length": 52.48856232788254,
+                                      "genre": "muineiras",
+                                      "tradition": "galician",
+                                      "display_name": "Muineiras Muineira Da Caniza Muineira Da Caniza Partitura 1 E 1"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 0.2514982095043896,
+                                      "children": [
+                                        {
+                                          "name": "Mariquina Mariquina Partitura 1 E 1",
+                                          "length": 51.4098350678737,
+                                          "genre": "muineiras",
+                                          "tradition": "galician",
+                                          "display_name": "Muineiras Mariquina Mariquina Partitura 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 0.06477345087220243,
+                                          "children": [
+                                            {
+                                              "name": "Muineira Do Vilar Do Caurel Muineira Do Vilar Do Caurel Partitura 1 E 1",
+                                              "length": 49.341536131897165,
+                                              "genre": "muineiras",
+                                              "tradition": "galician",
+                                              "display_name": "Muineiras Muineira Do Vilar Do Caurel Muineira Do Vilar Do Caurel Partitura 1 E 1"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 0.05412751424158346,
+                                              "children": [
+                                                {
+                                                  "name": "Muineira De Ancadeira Muineira De Ancadeira Partitura 1 E 1",
+                                                  "length": 48.426599553131176,
+                                                  "genre": "muineiras",
+                                                  "tradition": "galician",
+                                                  "display_name": "Muineiras Muineira De Ancadeira Muineira De Ancadeira Partitura 1 E 1"
+                                                },
+                                                {
+                                                  "name": "",
+                                                  "length": 0.005349801269119325,
+                                                  "children": [
+                                                    {
+                                                      "name": "",
+                                                      "length": 0.1862270603883589,
+                                                      "children": [
+                                                        {
+                                                          "name": "",
+                                                          "length": 7.031629987518337,
+                                                          "children": [
+                                                            {
+                                                              "name": "Carballesas Carballesa 6 Carballesa Partitura 1 E 1",
+                                                              "length": 59.655136773629586,
+                                                              "genre": "muineiras",
+                                                              "tradition": "galician",
+                                                              "display_name": "Muineiras Carballesas Carballesa 6 Carballesa Partitura 1 E 1"
+                                                            },
+                                                            {
+                                                              "name": "Carballesas Carballesa Do Incio Carballesa Do Incio Partitura 2 E 1",
+                                                              "length": 59.39353059751047,
+                                                              "genre": "muineiras",
+                                                              "tradition": "galician",
+                                                              "display_name": "Muineiras Carballesas Carballesa Do Incio Carballesa Do Incio Partitura 2 E 1"
+                                                            }
+                                                          ],
+                                                          "genre": "muineiras",
+                                                          "tradition": "galician"
+                                                        },
+                                                        {
+                                                          "name": "",
+                                                          "length": 0.22444548663598618,
+                                                          "children": [
+                                                            {
+                                                              "name": "Muineira 42 Muineira Partitura 1 E 1",
+                                                              "length": 68.12949400786263,
+                                                              "genre": "muineiras",
+                                                              "tradition": "galician",
+                                                              "display_name": "Muineiras Muineira 42 Muineira Partitura 1 E 1"
+                                                            },
+                                                            {
+                                                              "name": "",
+                                                              "length": 0.23068996070966685,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Carballesas Carvalhesa Carvalhesa Partitura 1 E 1",
+                                                                  "length": 102.24113172366607,
+                                                                  "genre": "muineiras",
+                                                                  "tradition": "galician",
+                                                                  "display_name": "Muineiras Carballesas Carvalhesa Carvalhesa Partitura 1 E 1"
+                                                                },
+                                                                {
+                                                                  "name": "Muineira De Xinzo Muineira De Xinzo Partitura 1 E 1",
+                                                                  "length": 75.833626863919,
+                                                                  "genre": "muineiras",
+                                                                  "tradition": "galician",
+                                                                  "display_name": "Muineiras Muineira De Xinzo Muineira De Xinzo Partitura 1 E 1"
+                                                                }
+                                                              ],
+                                                              "tradition": "galician",
+                                                              "genre": "muineiras"
+                                                            }
+                                                          ],
+                                                          "tradition": "galician",
+                                                          "genre": "muineiras"
+                                                        }
+                                                      ],
+                                                      "tradition": "galician",
+                                                      "genre": "muineiras"
+                                                    },
+                                                    {
+                                                      "name": "",
+                                                      "length": 0.010121637738782885,
+                                                      "children": [
+                                                        {
+                                                          "name": "Aire De Muineira Aire De Muineira Partitura 1 E 1",
+                                                          "length": 54.24890072198983,
+                                                          "genre": "muineiras",
+                                                          "tradition": "galician",
+                                                          "display_name": "Muineiras Aire De Muineira Aire De Muineira Partitura 1 E 1"
+                                                        },
+                                                        {
+                                                          "name": "Muineira De Quiroga Muineira De Quiroga Partitura 2 E 1",
+                                                          "length": 54.255459668897515,
+                                                          "genre": "muineiras",
+                                                          "tradition": "galician",
+                                                          "display_name": "Muineiras Muineira De Quiroga Muineira De Quiroga Partitura 2 E 1"
+                                                        }
+                                                      ],
+                                                      "tradition": "galician",
+                                                      "genre": "muineiras"
+                                                    }
+                                                  ],
+                                                  "genre": "muineiras",
+                                                  "tradition": "galician"
+                                                }
+                                              ],
+                                              "genre": "muineiras",
+                                              "tradition": "galician"
+                                            }
+                                          ],
+                                          "genre": "muineiras",
+                                          "tradition": "galician"
+                                        }
+                                      ],
+                                      "genre": "muineiras",
+                                      "tradition": "galician"
+                                    }
+                                  ],
+                                  "genre": "muineiras",
+                                  "tradition": "galician"
+                                },
+                                {
+                                  "name": "Muineira 58 Muineira Partitura 1 E 1",
+                                  "length": 37.77899533434116,
+                                  "genre": "muineiras",
+                                  "tradition": "galician",
+                                  "display_name": "Muineiras Muineira 58 Muineira Partitura 1 E 1"
+                                }
+                              ],
+                              "genre": "muineiras",
+                              "tradition": "galician"
+                            }
+                          ],
+                          "genre": "muineiras",
+                          "tradition": "galician"
+                        }
+                      ],
+                      "genre": "muineiras",
+                      "tradition": "galician"
+                    }
+                  ],
+                  "tradition": "galician",
+                  "genre": "muineiras"
+                },
+                {
+                  "name": "",
+                  "length": 7.929656931082718e-12,
+                  "children": [
+                    {
+                      "name": "Reviravolta Reviravolta Partitura 1 E 1",
+                      "length": 42.657332394005536,
+                      "genre": "muineiras",
+                      "tradition": "galician",
+                      "display_name": "Muineiras Reviravolta Reviravolta Partitura 1 E 1"
+                    },
+                    {
+                      "name": "",
+                      "length": 2.5471223352724337e-08,
+                      "children": [
+                        {
+                          "name": "O Pano O Pano Partitura 2 E 1",
+                          "length": 42.6573322953854,
+                          "genre": "muineiras",
+                          "tradition": "galician",
+                          "display_name": "Muineiras O Pano O Pano Partitura 2 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.050342275079422905,
+                          "children": [
+                            {
+                              "name": "Pra Carballo Pra Carballo Partitura 2 E 1",
+                              "length": 37.45458457330312,
+                              "genre": "muineiras",
+                              "tradition": "galician",
+                              "display_name": "Muineiras Pra Carballo Pra Carballo Partitura 2 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.003374570178678482,
+                              "children": [
+                                {
+                                  "name": "O Premio O Premio Partitura 2 E 1",
+                                  "length": 50.572292259222394,
+                                  "genre": "muineiras",
+                                  "tradition": "galician",
+                                  "display_name": "Muineiras O Premio O Premio Partitura 2 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.006696821439817313,
+                                  "children": [
+                                    {
+                                      "name": "Faragullinas Faragullinas Partitura 2 E 1",
+                                      "length": 50.565698465804786,
+                                      "genre": "muineiras",
+                                      "tradition": "galician",
+                                      "display_name": "Muineiras Faragullinas Faragullinas Partitura 2 E 1"
+                                    },
+                                    {
+                                      "name": "Muineira Dos Dezas Muineira Dos Dezas Partitura 1 E 1",
+                                      "length": 50.52663211304227,
+                                      "genre": "muineiras",
+                                      "tradition": "galician",
+                                      "display_name": "Muineiras Muineira Dos Dezas Muineira Dos Dezas Partitura 1 E 1"
+                                    }
+                                  ],
+                                  "tradition": "galician",
+                                  "genre": "muineiras"
+                                }
+                              ],
+                              "genre": "muineiras",
+                              "tradition": "galician"
+                            }
+                          ],
+                          "genre": "muineiras",
+                          "tradition": "galician"
+                        }
+                      ],
+                      "genre": "muineiras",
+                      "tradition": "galician"
+                    }
+                  ],
+                  "tradition": "galician",
+                  "genre": "muineiras"
+                }
+              ],
+              "genre": "muineiras",
+              "tradition": "galician"
+            }
+          ],
+          "genre": "muineiras",
+          "tradition": "galician"
+        }
+      ],
+      "genre": "muineiras",
+      "tradition": "galician"
+    }
+  ],
+  "genre": "muineiras",
+  "tradition": "galician"
+}

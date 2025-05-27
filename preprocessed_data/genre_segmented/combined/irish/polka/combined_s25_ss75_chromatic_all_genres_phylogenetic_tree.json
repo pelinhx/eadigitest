@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 1.3607170945562075e-14,
+  "children": [
+    {
+      "name": "",
+      "length": -2.9698465908722937e-15,
+      "children": [
+        {
+          "name": "",
+          "length": 2.6483490955797606e-09,
+          "children": [
+            {
+              "name": "Stonewaller The 1 E 1",
+              "length": 42.65733238400782,
+              "genre": "polka",
+              "tradition": "irish",
+              "display_name": "Stonewaller The 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 0.06348364165802473,
+              "children": [
+                {
+                  "name": "La Molinera 1 E 1",
+                  "length": 36.48713889487258,
+                  "genre": "polka",
+                  "tradition": "irish",
+                  "display_name": "La Molinera 1 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 0.49882607239827337,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 5.542233338928781e-13,
+                      "children": [
+                        {
+                          "name": "Paddy Mop The Floor 1 E 1",
+                          "length": 44.93586356698313,
+                          "genre": "polka",
+                          "tradition": "irish",
+                          "display_name": "Paddy Mop The Floor 1 E 1"
+                        },
+                        {
+                          "name": "Gortnatubrid The 1 E 1",
+                          "length": 44.935863566983684,
+                          "genre": "polka",
+                          "tradition": "irish",
+                          "display_name": "Gortnatubrid The 1 E 1"
+                        }
+                      ],
+                      "tradition": "irish",
+                      "genre": "polka"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.030012338592722898,
+                      "children": [
+                        {
+                          "name": "Siege Ennis The 1 E 1",
+                          "length": 31.498446863886727,
+                          "genre": "polka",
+                          "tradition": "irish",
+                          "display_name": "Siege Of Ennis The 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.18137153935951034,
+                          "children": [
+                            {
+                              "name": "Idbury Hill 1 E 1",
+                              "length": 30.010614784799735,
+                              "genre": "polka",
+                              "tradition": "irish",
+                              "display_name": "Idbury Hill 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 5.044853423896711e-13,
+                              "children": [
+                                {
+                                  "name": "Clock Tower The 1 E 1",
+                                  "length": 28.626570388633994,
+                                  "genre": "polka",
+                                  "tradition": "irish",
+                                  "display_name": "Clock Tower The 1 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 5.080380560684716e-13,
+                                  "children": [
+                                    {
+                                      "name": "Pudding The 1 E 1",
+                                      "length": 28.626570388634,
+                                      "genre": "polka",
+                                      "tradition": "irish",
+                                      "display_name": "Pudding The 1 E 1"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 4.902744876744691e-13,
+                                      "children": [
+                                        {
+                                          "name": "Port Muiris O Dalaigh 1 E 1",
+                                          "length": 28.626570388634008,
+                                          "genre": "polka",
+                                          "tradition": "irish",
+                                          "display_name": "Port Muiris O Dalaigh 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 4.831690603168681e-13,
+                                          "children": [
+                                            {
+                                              "name": "Polca Na Carraige Bainne 1 E 1",
+                                              "length": 28.626570388634015,
+                                              "genre": "polka",
+                                              "tradition": "irish",
+                                              "display_name": "Polca Na Carraige Bainne 1 E 1"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 4.867217739956686e-13,
+                                              "children": [
+                                                {
+                                                  "name": "Buttered Peas 1 E 1",
+                                                  "length": 28.626570388634015,
+                                                  "genre": "polka",
+                                                  "tradition": "irish",
+                                                  "display_name": "Buttered Peas 1 E 1"
+                                                },
+                                                {
+                                                  "name": "",
+                                                  "length": 9.43316535995109e-11,
+                                                  "children": [
+                                                    {
+                                                      "name": "Mountain Pathway The 1 E 1",
+                                                      "length": 28.62657038844705,
+                                                      "genre": "polka",
+                                                      "tradition": "irish",
+                                                      "display_name": "Mountain Pathway The 1 E 1"
+                                                    },
+                                                    {
+                                                      "name": "",
+                                                      "length": 3.729780928551918e-10,
+                                                      "children": [
+                                                        {
+                                                          "name": "Mike Coens 1 E 1",
+                                                          "length": 28.626570387891757,
+                                                          "genre": "polka",
+                                                          "tradition": "irish",
+                                                          "display_name": "Mike Coens 1 E 1"
+                                                        },
+                                                        {
+                                                          "name": "",
+                                                          "length": 2.90653642309735e-06,
+                                                          "children": [
+                                                            {
+                                                              "name": "Green Flag The 1 E 1",
+                                                              "length": 28.62656459685533,
+                                                              "genre": "polka",
+                                                              "tradition": "irish",
+                                                              "display_name": "Green Flag The 1 E 1"
+                                                            },
+                                                            {
+                                                              "name": "",
+                                                              "length": 4.583059766005704e-05,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Tir Tairngiri 1 E 1",
+                                                                  "length": 28.62647905834644,
+                                                                  "genre": "polka",
+                                                                  "tradition": "irish",
+                                                                  "display_name": "Tir Tairngiri 1 E 1"
+                                                                },
+                                                                {
+                                                                  "name": "",
+                                                                  "length": 0.00036270236159907654,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "God Rest Ye Merry 1 E 1",
+                                                                      "length": 28.62584757464285,
+                                                                      "genre": "polka",
+                                                                      "tradition": "irish",
+                                                                      "display_name": "God Rest Ye Merry 1 E 1"
+                                                                    },
+                                                                    {
+                                                                      "name": "",
+                                                                      "length": 0.0014404833993069133,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Sord Cholmcille 1 E 1",
+                                                                          "length": 28.623699638030608,
+                                                                          "genre": "polka",
+                                                                          "tradition": "irish",
+                                                                          "display_name": "Sord Cholmcille 1 E 1"
+                                                                        },
+                                                                        {
+                                                                          "name": "",
+                                                                          "length": 0.005721213217285026,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "Ffidl Ffadl 1 E 1",
+                                                                              "length": 28.615168252434273,
+                                                                              "genre": "polka",
+                                                                              "tradition": "irish",
+                                                                              "display_name": "Ffidl Ffadl 1 E 1"
+                                                                            },
+                                                                            {
+                                                                              "name": "",
+                                                                              "length": 0.04528960392709891,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Eileen Ni Riordains 1 E 1",
+                                                                                  "length": 28.537289860867617,
+                                                                                  "genre": "polka",
+                                                                                  "tradition": "irish",
+                                                                                  "display_name": "Eileen Ni Riordains 1 E 1"
+                                                                                },
+                                                                                {
+                                                                                  "name": "",
+                                                                                  "length": 1.0520006640035717e-05,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "Casey Finnegans 1 E 1",
+                                                                                      "length": 25.258285946668074,
+                                                                                      "genre": "polka",
+                                                                                      "tradition": "irish",
+                                                                                      "display_name": "Casey Finnegans 1 E 1"
+                                                                                    },
+                                                                                    {
+                                                                                      "name": "",
+                                                                                      "length": 0.00016607378628918923,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Palatines Daughter The 1 E 1",
+                                                                                          "length": 25.257975871488476,
+                                                                                          "genre": "polka",
+                                                                                          "tradition": "irish",
+                                                                                          "display_name": "Palatines Daughter The 1 E 1"
+                                                                                        },
+                                                                                        {
+                                                                                          "name": "",
+                                                                                          "length": 0.00033104409212825203,
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "Kierans 1 E 1",
+                                                                                              "length": 25.257647019741334,
+                                                                                              "genre": "polka",
+                                                                                              "tradition": "irish",
+                                                                                              "display_name": "Kierans 1 E 1"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "",
+                                                                                              "length": 0.0026222176768300187,
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "Velvet Jacket The 1 E 1",
+                                                                                                  "length": 25.253079675097013,
+                                                                                                  "genre": "polka",
+                                                                                                  "tradition": "irish",
+                                                                                                  "display_name": "Velvet Jacket The 1 E 1"
+                                                                                                },
+                                                                                                {
+                                                                                                  "name": "",
+                                                                                                  "length": 0.27685595381018935,
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "Peat Fire Flame The 1 E 1",
+                                                                                                      "length": 22.23351561920405,
+                                                                                                      "genre": "polka",
+                                                                                                      "tradition": "irish",
+                                                                                                      "display_name": "Peat Fire Flame The 1 E 1"
+                                                                                                    },
+                                                                                                    {
+                                                                                                      "name": "",
+                                                                                                      "length": 0.006836102134570865,
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "Ymdaith Rhosgadfan 1 E 1",
+                                                                                                          "length": 21.322732629296645,
+                                                                                                          "genre": "polka",
+                                                                                                          "tradition": "irish",
+                                                                                                          "display_name": "Ymdaith Rhosgadfan 1 E 1"
+                                                                                                        },
+                                                                                                        {
+                                                                                                          "name": "Yannicks Gavotte 1 E 1",
+                                                                                                          "length": 21.328666197017732,
+                                                                                                          "genre": "polka",
+                                                                                                          "tradition": "irish",
+                                                                                                          "display_name": "Yannicks Gavotte 1 E 1"
+                                                                                                        }
+                                                                                                      ],
+                                                                                                      "genre": "polka",
+                                                                                                      "tradition": "irish"
+                                                                                                    }
+                                                                                                  ],
+                                                                                                  "genre": "polka",
+                                                                                                  "tradition": "irish"
+                                                                                                }
+                                                                                              ],
+                                                                                              "tradition": "irish",
+                                                                                              "genre": "polka"
+                                                                                            }
+                                                                                          ],
+                                                                                          "genre": "polka",
+                                                                                          "tradition": "irish"
+                                                                                        }
+                                                                                      ],
+                                                                                      "genre": "polka",
+                                                                                      "tradition": "irish"
+                                                                                    }
+                                                                                  ],
+                                                                                  "genre": "polka",
+                                                                                  "tradition": "irish"
+                                                                                }
+                                                                              ],
+                                                                              "tradition": "irish",
+                                                                              "genre": "polka"
+                                                                            }
+                                                                          ],
+                                                                          "genre": "polka",
+                                                                          "tradition": "irish"
+                                                                        }
+                                                                      ],
+                                                                      "genre": "polka",
+                                                                      "tradition": "irish"
+                                                                    }
+                                                                  ],
+                                                                  "genre": "polka",
+                                                                  "tradition": "irish"
+                                                                }
+                                                              ],
+                                                              "tradition": "irish",
+                                                              "genre": "polka"
+                                                            }
+                                                          ],
+                                                          "tradition": "irish",
+                                                          "genre": "polka"
+                                                        }
+                                                      ],
+                                                      "genre": "polka",
+                                                      "tradition": "irish"
+                                                    }
+                                                  ],
+                                                  "tradition": "irish",
+                                                  "genre": "polka"
+                                                }
+                                              ],
+                                              "genre": "polka",
+                                              "tradition": "irish"
+                                            }
+                                          ],
+                                          "tradition": "irish",
+                                          "genre": "polka"
+                                        }
+                                      ],
+                                      "tradition": "irish",
+                                      "genre": "polka"
+                                    }
+                                  ],
+                                  "genre": "polka",
+                                  "tradition": "irish"
+                                }
+                              ],
+                              "genre": "polka",
+                              "tradition": "irish"
+                            }
+                          ],
+                          "genre": "polka",
+                          "tradition": "irish"
+                        }
+                      ],
+                      "genre": "polka",
+                      "tradition": "irish"
+                    }
+                  ],
+                  "tradition": "irish",
+                  "genre": "polka"
+                }
+              ],
+              "genre": "polka",
+              "tradition": "irish"
+            }
+          ],
+          "tradition": "irish",
+          "genre": "polka"
+        },
+        {
+          "name": "",
+          "length": 0.0813005589596898,
+          "children": [
+            {
+              "name": "Road To Santiago 1 E 1",
+              "length": 40.55484244810973,
+              "genre": "polka",
+              "tradition": "irish",
+              "display_name": "Road To Santiago 1 E 1"
+            },
+            {
+              "name": "Flanigans 1 E 1",
+              "length": 60.606976122038596,
+              "genre": "polka",
+              "tradition": "irish",
+              "display_name": "Flanigans 1 E 1"
+            }
+          ],
+          "genre": "polka",
+          "tradition": "irish"
+        }
+      ],
+      "genre": "polka",
+      "tradition": "irish"
+    },
+    {
+      "name": "",
+      "length": 2.161812395762297e-14,
+      "children": [
+        {
+          "name": "Carnaval De Lanz 1 E 1",
+          "length": 42.657332394035464,
+          "genre": "polka",
+          "tradition": "irish",
+          "display_name": "Carnaval De Lanz 1 E 1"
+        },
+        {
+          "name": "Ring Obells 1 E 1",
+          "length": 42.657332394034675,
+          "genre": "polka",
+          "tradition": "irish",
+          "display_name": "Ring Obells 1 E 1"
+        }
+      ],
+      "genre": "polka",
+      "tradition": "irish"
+    }
+  ],
+  "genre": "polka",
+  "tradition": "irish"
+}
