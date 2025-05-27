@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 3.597122599785507e-14,
+  "children": [
+    {
+      "name": "",
+      "length": 2.2959412149248237e-13,
+      "children": [
+        {
+          "name": "Strange Drums The 1 E 1",
+          "length": 3.9999999999995577,
+          "genre": "mazurka",
+          "tradition": "irish",
+          "display_name": "Strange Drums The 1 E 1"
+        },
+        {
+          "name": "",
+          "length": 6.705747068735946e-13,
+          "children": [
+            {
+              "name": "Bog Braon 1 E 1",
+              "length": 3.999999999998894,
+              "genre": "mazurka",
+              "tradition": "irish",
+              "display_name": "Bog Braon 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 0.007295094603144925,
+              "children": [
+                {
+                  "name": "",
+                  "length": 0.023450868501424648,
+                  "children": [
+                    {
+                      "name": "La Disillusa 1 E 1",
+                      "length": 3.496779645188168,
+                      "genre": "mazurka",
+                      "tradition": "irish",
+                      "display_name": "La Disillusa 1 E 1"
+                    },
+                    {
+                      "name": "Fandangu 1 E 1",
+                      "length": 3.7560718028576123,
+                      "genre": "mazurka",
+                      "tradition": "irish",
+                      "display_name": "Fandangu 1 E 1"
+                    }
+                  ],
+                  "genre": "mazurka",
+                  "tradition": "irish"
+                },
+                {
+                  "name": "",
+                  "length": 0.004260552073835622,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 0.019485239870262874,
+                      "children": [
+                        {
+                          "name": "",
+                          "length": 0.093824144410602,
+                          "children": [
+                            {
+                              "name": "French Assembly The 1 E 1",
+                              "length": 3.498431405951489,
+                              "genre": "mazurka",
+                              "tradition": "irish",
+                              "display_name": "French Assembly The 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.3753537601880655,
+                              "children": [
+                                {
+                                  "name": "Major Cockscombs 1 E 1",
+                                  "length": 3.504719572247208,
+                                  "genre": "mazurka",
+                                  "tradition": "irish",
+                                  "display_name": "Major Cockscombs 1 E 1"
+                                },
+                                {
+                                  "name": "Ar Vuhez 1 E 1",
+                                  "length": 3.495280427752792,
+                                  "genre": "mazurka",
+                                  "tradition": "irish",
+                                  "display_name": "Ar Vuhez 1 E 1"
+                                }
+                              ],
+                              "genre": "mazurka",
+                              "tradition": "irish"
+                            }
+                          ],
+                          "genre": "mazurka",
+                          "tradition": "irish"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.09304451944536726,
+                          "children": [
+                            {
+                              "name": "Kenmare The 1 E 1",
+                              "length": 3.556877015128973,
+                              "genre": "mazurka",
+                              "tradition": "irish",
+                              "display_name": "Kenmare The 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.08156681552668982,
+                              "children": [
+                                {
+                                  "name": "",
+                                  "length": 0.014976759870514278,
+                                  "children": [
+                                    {
+                                      "name": "Roof Thatchers Daughter 1 E 1",
+                                      "length": 5.997752939380251,
+                                      "genre": "mazurka",
+                                      "tradition": "irish",
+                                      "display_name": "Roof Thatchers Daughter 1 E 1"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 0.0022610678326566713,
+                                      "children": [
+                                        {
+                                          "name": "Mazurca Di Ivano 1 E 1",
+                                          "length": 5.743469801729589,
+                                          "genre": "mazurka",
+                                          "tradition": "irish",
+                                          "display_name": "Mazurca Di Ivano 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 0.007372388779957717,
+                                          "children": [
+                                            {
+                                              "name": "",
+                                              "length": 0.16537061689800714,
+                                              "children": [
+                                                {
+                                                  "name": "",
+                                                  "length": 0.0034862763332785818,
+                                                  "children": [
+                                                    {
+                                                      "name": "Seamus O Kanes 1 E 1",
+                                                      "length": 10.000004321073009,
+                                                      "genre": "mazurka",
+                                                      "tradition": "irish",
+                                                      "display_name": "Seamus O Kanes 1 E 1"
+                                                    },
+                                                    {
+                                                      "name": "",
+                                                      "length": 0.002936368577545423,
+                                                      "children": [
+                                                        {
+                                                          "name": "Valchiusella 1 E 1",
+                                                          "length": 7.9979574190068785,
+                                                          "genre": "mazurka",
+                                                          "tradition": "irish",
+                                                          "display_name": "Valchiusella 1 E 1"
+                                                        },
+                                                        {
+                                                          "name": "Rosina 1 E 1",
+                                                          "length": 7.999056603773585,
+                                                          "genre": "mazurka",
+                                                          "tradition": "irish",
+                                                          "display_name": "Rosina 1 E 1"
+                                                        }
+                                                      ],
+                                                      "genre": "mazurka",
+                                                      "tradition": "irish"
+                                                    }
+                                                  ],
+                                                  "genre": "mazurka",
+                                                  "tradition": "irish"
+                                                },
+                                                {
+                                                  "name": "To The Edges 1 E 1",
+                                                  "length": 6.999252601616442,
+                                                  "genre": "mazurka",
+                                                  "tradition": "irish",
+                                                  "display_name": "To The Edges 1 E 1"
+                                                }
+                                              ],
+                                              "genre": "mazurka",
+                                              "tradition": "irish"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 7.479869410609297e-05,
+                                              "children": [
+                                                {
+                                                  "name": "Aggies 1 E 1",
+                                                  "length": 5.999850764190492,
+                                                  "genre": "mazurka",
+                                                  "tradition": "irish",
+                                                  "display_name": "Aggies 1 E 1"
+                                                },
+                                                {
+                                                  "name": "",
+                                                  "length": 1.3702283752081712e-10,
+                                                  "children": [
+                                                    {
+                                                      "name": "Bluestack The 1 E 1",
+                                                      "length": 6.0,
+                                                      "genre": "mazurka",
+                                                      "tradition": "irish",
+                                                      "display_name": "Bluestack The 1 E 1"
+                                                    },
+                                                    {
+                                                      "name": "Mays 1 E 1",
+                                                      "length": 6.0,
+                                                      "genre": "mazurka",
+                                                      "tradition": "irish",
+                                                      "display_name": "Mays 1 E 1"
+                                                    }
+                                                  ],
+                                                  "genre": "mazurka",
+                                                  "tradition": "irish"
+                                                }
+                                              ],
+                                              "genre": "mazurka",
+                                              "tradition": "irish"
+                                            }
+                                          ],
+                                          "genre": "mazurka",
+                                          "tradition": "irish"
+                                        }
+                                      ],
+                                      "genre": "mazurka",
+                                      "tradition": "irish"
+                                    }
+                                  ],
+                                  "genre": "mazurka",
+                                  "tradition": "irish"
+                                },
+                                {
+                                  "name": "Pollonessas 8 1 E 1",
+                                  "length": 3.4990884846655863,
+                                  "genre": "mazurka",
+                                  "tradition": "irish",
+                                  "display_name": "Pollonessas 8 1 E 1"
+                                }
+                              ],
+                              "tradition": "irish",
+                              "genre": "mazurka"
+                            }
+                          ],
+                          "tradition": "irish",
+                          "genre": "mazurka"
+                        }
+                      ],
+                      "tradition": "irish",
+                      "genre": "mazurka"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.015931456684389087,
+                      "children": [
+                        {
+                          "name": "Swedishish 1 E 1",
+                          "length": 3.496245623913127,
+                          "genre": "mazurka",
+                          "tradition": "irish",
+                          "display_name": "Swedishish 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.09043451180298234,
+                          "children": [
+                            {
+                              "name": "",
+                              "length": 0.008320494178001334,
+                              "children": [
+                                {
+                                  "name": "",
+                                  "length": 4.0811798385220754e-12,
+                                  "children": [
+                                    {
+                                      "name": "Fisherman In The Wardrobe The 1 E 1",
+                                      "length": 2.999999999999992,
+                                      "genre": "mazurka",
+                                      "tradition": "irish",
+                                      "display_name": "Fisherman In The Wardrobe The 1 E 1"
+                                    },
+                                    {
+                                      "name": "Boules Et Guirlandes 1 E 1",
+                                      "length": 2.999999999999999,
+                                      "genre": "mazurka",
+                                      "tradition": "irish",
+                                      "display_name": "Boules Et Guirlandes 1 E 1"
+                                    }
+                                  ],
+                                  "tradition": "irish",
+                                  "genre": "mazurka"
+                                },
+                                {
+                                  "name": "Lair Des Ebenistes 1 E 1",
+                                  "length": 2.4995121365064685,
+                                  "genre": "mazurka",
+                                  "tradition": "irish",
+                                  "display_name": "Lair Des Ebenistes 1 E 1"
+                                }
+                              ],
+                              "tradition": "irish",
+                              "genre": "mazurka"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.002094439285166061,
+                              "children": [
+                                {
+                                  "name": "Host The Air 1 E 1",
+                                  "length": 3.4999569786971216,
+                                  "genre": "mazurka",
+                                  "tradition": "irish",
+                                  "display_name": "Host Of The Air 1 E 1"
+                                },
+                                {
+                                  "name": "Sally In Our Alley 1 E 1",
+                                  "length": 3.499998566844417,
+                                  "genre": "mazurka",
+                                  "tradition": "irish",
+                                  "display_name": "Sally In Our Alley 1 E 1"
+                                }
+                              ],
+                              "genre": "mazurka",
+                              "tradition": "irish"
+                            }
+                          ],
+                          "genre": "mazurka",
+                          "tradition": "irish"
+                        }
+                      ],
+                      "genre": "mazurka",
+                      "tradition": "irish"
+                    }
+                  ],
+                  "genre": "mazurka",
+                  "tradition": "irish"
+                }
+              ],
+              "tradition": "irish",
+              "genre": "mazurka"
+            }
+          ],
+          "genre": "mazurka",
+          "tradition": "irish"
+        }
+      ],
+      "genre": "mazurka",
+      "tradition": "irish"
+    },
+    {
+      "name": "",
+      "length": 7.105427357601002e-16,
+      "children": [
+        {
+          "name": "Magherness The 1 E 1",
+          "length": 4.0,
+          "genre": "mazurka",
+          "tradition": "irish",
+          "display_name": "Magherness The 1 E 1"
+        },
+        {
+          "name": "",
+          "length": 1.7763568394002506e-16,
+          "children": [
+            {
+              "name": "Francie Byrnes 1 E 1",
+              "length": 4.0,
+              "genre": "mazurka",
+              "tradition": "irish",
+              "display_name": "Francie Byrnes 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 1.1460366705808067e-16,
+              "children": [
+                {
+                  "name": "Djarven 1 E 1",
+                  "length": 4.0,
+                  "genre": "mazurka",
+                  "tradition": "irish",
+                  "display_name": "Djarven 1 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 0.0,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 0.0,
+                      "children": [
+                        {
+                          "name": "De Samatan 1 E 1",
+                          "length": 4.0,
+                          "genre": "mazurka",
+                          "tradition": "irish",
+                          "display_name": "Mazurka De Samatan 1 E 1"
+                        },
+                        {
+                          "name": "Nikitas Hackbrett 1 E 1",
+                          "length": 4.0,
+                          "genre": "mazurka",
+                          "tradition": "irish",
+                          "display_name": "Nikitas Hackbrett 1 E 1"
+                        }
+                      ],
+                      "tradition": "irish",
+                      "genre": "mazurka"
+                    },
+                    {
+                      "name": "An Tulach 1 E 1",
+                      "length": 4.0,
+                      "genre": "mazurka",
+                      "tradition": "irish",
+                      "display_name": "An Tulach 1 E 1"
+                    }
+                  ],
+                  "tradition": "irish",
+                  "genre": "mazurka"
+                }
+              ],
+              "genre": "mazurka",
+              "tradition": "irish"
+            }
+          ],
+          "tradition": "irish",
+          "genre": "mazurka"
+        }
+      ],
+      "tradition": "irish",
+      "genre": "mazurka"
+    }
+  ],
+  "tradition": "irish",
+  "genre": "mazurka"
+}

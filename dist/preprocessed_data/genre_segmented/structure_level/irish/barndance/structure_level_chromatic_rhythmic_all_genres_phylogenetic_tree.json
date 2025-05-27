@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 2.0,
+  "children": [
+    {
+      "name": "",
+      "length": 3.513373614261184e-07,
+      "children": [
+        {
+          "name": "Kinclaven Brig 1 E 1",
+          "length": 3.500299116070761,
+          "genre": "barndance",
+          "tradition": "irish",
+          "display_name": "Kinclaven Brig 1 E 1"
+        },
+        {
+          "name": "",
+          "length": 1.1975858079660284e-06,
+          "children": [
+            {
+              "name": "Valhalla 1 E 1",
+              "length": 3.87542577167728,
+              "genre": "barndance",
+              "tradition": "irish",
+              "display_name": "Valhalla 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 5.658646626827135e-06,
+              "children": [
+                {
+                  "name": "Hamefarin 1 E 1",
+                  "length": 3.501164381329615,
+                  "genre": "barndance",
+                  "tradition": "irish",
+                  "display_name": "Hamefarin 1 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 0.002078400394723623,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 0.011272988965552504,
+                      "children": [
+                        {
+                          "name": "Nalcordanza 1 E 1",
+                          "length": 3.7492781266955157,
+                          "genre": "barndance",
+                          "tradition": "irish",
+                          "display_name": "Nalcordanza 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.10638278455866453,
+                          "children": [
+                            {
+                              "name": "Janes Boots 1 E 1",
+                              "length": 4.456151832464999,
+                              "genre": "barndance",
+                              "tradition": "irish",
+                              "display_name": "Janes Boots 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.04366299863583028,
+                              "children": [
+                                {
+                                  "name": "",
+                                  "length": 6.750155989720952e-14,
+                                  "children": [
+                                    {
+                                      "name": "",
+                                      "length": 0.0,
+                                      "children": [
+                                        {
+                                          "name": "Kiss Behind The Door The 1 E 1",
+                                          "length": 6.0,
+                                          "genre": "barndance",
+                                          "tradition": "irish",
+                                          "display_name": "Kiss Behind The Door The 1 E 1"
+                                        },
+                                        {
+                                          "name": "Purple Glass The 1 E 1",
+                                          "length": 6.0,
+                                          "genre": "barndance",
+                                          "tradition": "irish",
+                                          "display_name": "Purple Glass The 1 E 1"
+                                        }
+                                      ],
+                                      "tradition": "irish",
+                                      "genre": "barndance"
+                                    },
+                                    {
+                                      "name": "Ladies Choice 1 E 1",
+                                      "length": 6.0,
+                                      "genre": "barndance",
+                                      "tradition": "irish",
+                                      "display_name": "Ladies Choice 1 E 1"
+                                    }
+                                  ],
+                                  "tradition": "irish",
+                                  "genre": "barndance"
+                                },
+                                {
+                                  "name": "Rosalie The Prairie Flower 1 E 1",
+                                  "length": 8.0,
+                                  "genre": "barndance",
+                                  "tradition": "irish",
+                                  "display_name": "Rosalie The Prairie Flower 1 E 1"
+                                }
+                              ],
+                              "genre": "barndance",
+                              "tradition": "irish"
+                            }
+                          ],
+                          "genre": "barndance",
+                          "tradition": "irish"
+                        }
+                      ],
+                      "genre": "barndance",
+                      "tradition": "irish"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.0838150649616819,
+                      "children": [
+                        {
+                          "name": "",
+                          "length": 0.004133128655023022,
+                          "children": [
+                            {
+                              "name": "",
+                              "length": 0.37152880515382036,
+                              "children": [
+                                {
+                                  "name": "North Amerikay 1 E 1",
+                                  "length": 1.8630110231164383,
+                                  "genre": "barndance",
+                                  "tradition": "irish",
+                                  "display_name": "North Amerikay 1 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.0005060395612215274,
+                                  "children": [
+                                    {
+                                      "name": "Young Collins 1 E 1",
+                                      "length": 1.998991711436068,
+                                      "genre": "barndance",
+                                      "tradition": "irish",
+                                      "display_name": "Young Collins 1 E 1"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 1.0554924098071794e-05,
+                                      "children": [
+                                        {
+                                          "name": "Hanter Dro Kist 1 E 1",
+                                          "length": 1.9999930173388023,
+                                          "genre": "barndance",
+                                          "tradition": "irish",
+                                          "display_name": "Hanter Dro Kist 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 1.652011860642233e-12,
+                                          "children": [
+                                            {
+                                              "name": "Les Agents Dassurance 1 E 1",
+                                              "length": 2.0,
+                                              "genre": "barndance",
+                                              "tradition": "irish",
+                                              "display_name": "Les Agents Dassurance 1 E 1"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 0.0,
+                                              "children": [
+                                                {
+                                                  "name": "Malouin 1 E 1",
+                                                  "length": 2.0,
+                                                  "genre": "barndance",
+                                                  "tradition": "irish",
+                                                  "display_name": "Reel Malouin 1 E 1"
+                                                },
+                                                {
+                                                  "name": "Filippo Goes To Hospital 1 E 1",
+                                                  "length": 2.0,
+                                                  "genre": "barndance",
+                                                  "tradition": "irish",
+                                                  "display_name": "Filippo Goes To Hospital 1 E 1"
+                                                }
+                                              ],
+                                              "tradition": "irish",
+                                              "genre": "barndance"
+                                            }
+                                          ],
+                                          "tradition": "irish",
+                                          "genre": "barndance"
+                                        }
+                                      ],
+                                      "genre": "barndance",
+                                      "tradition": "irish"
+                                    }
+                                  ],
+                                  "tradition": "irish",
+                                  "genre": "barndance"
+                                }
+                              ],
+                              "genre": "barndance",
+                              "tradition": "irish"
+                            },
+                            {
+                              "name": "",
+                              "length": 6.780856187660333e-08,
+                              "children": [
+                                {
+                                  "name": "Marias Prayer 1 E 1",
+                                  "length": 2.9999999999835163,
+                                  "genre": "barndance",
+                                  "tradition": "irish",
+                                  "display_name": "Marias Prayer 1 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.0,
+                                  "children": [
+                                    {
+                                      "name": "Josie Begleys Fancy 1 E 1",
+                                      "length": 3.0,
+                                      "genre": "barndance",
+                                      "tradition": "irish",
+                                      "display_name": "Josie Begleys Fancy 1 E 1"
+                                    },
+                                    {
+                                      "name": "Kielder Schottische 1 E 1",
+                                      "length": 3.0,
+                                      "genre": "barndance",
+                                      "tradition": "irish",
+                                      "display_name": "Kielder Schottische 1 E 1"
+                                    }
+                                  ],
+                                  "tradition": "irish",
+                                  "genre": "barndance"
+                                }
+                              ],
+                              "tradition": "irish",
+                              "genre": "barndance"
+                            }
+                          ],
+                          "genre": "barndance",
+                          "tradition": "irish"
+                        },
+                        {
+                          "name": "Marig Ar Polanton 1 E 1",
+                          "length": 3.001993034940318,
+                          "genre": "barndance",
+                          "tradition": "irish",
+                          "display_name": "Marig Ar Polanton 1 E 1"
+                        }
+                      ],
+                      "genre": "barndance",
+                      "tradition": "irish"
+                    }
+                  ],
+                  "genre": "barndance",
+                  "tradition": "irish"
+                }
+              ],
+              "genre": "barndance",
+              "tradition": "irish"
+            }
+          ],
+          "genre": "barndance",
+          "tradition": "irish"
+        }
+      ],
+      "genre": "barndance",
+      "tradition": "irish"
+    },
+    {
+      "name": "",
+      "length": 8.881784197001253e-17,
+      "children": [
+        {
+          "name": "Tempest The 1 E 1",
+          "length": 4.0,
+          "genre": "barndance",
+          "tradition": "irish",
+          "display_name": "Tempest The 1 E 1"
+        },
+        {
+          "name": "",
+          "length": 6.344131569286608e-17,
+          "children": [
+            {
+              "name": "Bourree 1 E 1",
+              "length": 4.0,
+              "genre": "barndance",
+              "tradition": "irish",
+              "display_name": "Bourree 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 4.9343245538895844e-17,
+              "children": [
+                {
+                  "name": "Macs Corner 1 E 1",
+                  "length": 4.0,
+                  "genre": "barndance",
+                  "tradition": "irish",
+                  "display_name": "Macs Corner 1 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 2.6122894697062506e-17,
+                  "children": [
+                    {
+                      "name": "Amaryllis Schottische The 1 E 1",
+                      "length": 4.0,
+                      "genre": "barndance",
+                      "tradition": "irish",
+                      "display_name": "Amaryllis Schottische The 1 E 1"
+                    },
+                    {
+                      "name": "",
+                      "length": 2.114710523095536e-17,
+                      "children": [
+                        {
+                          "name": "Silver Bell Schottische The 1 E 1",
+                          "length": 4.0,
+                          "genre": "barndance",
+                          "tradition": "irish",
+                          "display_name": "Silver Bell Schottische The 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 1.644774851296528e-17,
+                          "children": [
+                            {
+                              "name": "Granton Backstep The 1 E 1",
+                              "length": 4.0,
+                              "genre": "barndance",
+                              "tradition": "irish",
+                              "display_name": "Granton Backstep The 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 1.5313421029312504e-17,
+                              "children": [
+                                {
+                                  "name": "A Trip To Bavaria 1 E 1",
+                                  "length": 4.0,
+                                  "genre": "barndance",
+                                  "tradition": "irish",
+                                  "display_name": "A Trip To Bavaria 1 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 1.4325458382260084e-17,
+                                  "children": [
+                                    {
+                                      "name": "Gimboling Gyre The 1 E 1",
+                                      "length": 4.0,
+                                      "genre": "barndance",
+                                      "tradition": "irish",
+                                      "display_name": "Gimboling Gyre The 1 E 1"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 1.1386902816668272e-17,
+                                      "children": [
+                                        {
+                                          "name": "Kilnamona 1 E 1",
+                                          "length": 4.0,
+                                          "genre": "barndance",
+                                          "tradition": "irish",
+                                          "display_name": "Kilnamona 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 9.063045098980869e-18,
+                                          "children": [
+                                            {
+                                              "name": "Serena Notte 1 E 1",
+                                              "length": 4.0,
+                                              "genre": "barndance",
+                                              "tradition": "irish",
+                                              "display_name": "Serena Notte 1 E 1"
+                                            },
+                                            {
+                                              "name": "Glory In The Meeting House 1 E 1",
+                                              "length": 4.0,
+                                              "genre": "barndance",
+                                              "tradition": "irish",
+                                              "display_name": "Glory In The Meeting House 1 E 1"
+                                            }
+                                          ],
+                                          "tradition": "irish",
+                                          "genre": "barndance"
+                                        }
+                                      ],
+                                      "genre": "barndance",
+                                      "tradition": "irish"
+                                    }
+                                  ],
+                                  "genre": "barndance",
+                                  "tradition": "irish"
+                                }
+                              ],
+                              "genre": "barndance",
+                              "tradition": "irish"
+                            }
+                          ],
+                          "genre": "barndance",
+                          "tradition": "irish"
+                        }
+                      ],
+                      "genre": "barndance",
+                      "tradition": "irish"
+                    }
+                  ],
+                  "genre": "barndance",
+                  "tradition": "irish"
+                }
+              ],
+              "genre": "barndance",
+              "tradition": "irish"
+            }
+          ],
+          "genre": "barndance",
+          "tradition": "irish"
+        }
+      ],
+      "genre": "barndance",
+      "tradition": "irish"
+    }
+  ],
+  "genre": "barndance",
+  "tradition": "irish"
+}

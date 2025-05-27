@@ -1,0 +1,217 @@
+{
+  "name": "",
+  "length": 19.326202161709368,
+  "children": [
+    {
+      "name": "",
+      "length": 0.0025360307476347543,
+      "children": [
+        {
+          "name": "",
+          "length": 1.070441978060444,
+          "children": [
+            {
+              "name": "Mazurca 5 Mazurca Partitura 1 E 1",
+              "length": 31.639191526881206,
+              "genre": "mazurcas",
+              "tradition": "galician",
+              "display_name": "Mazurcas Mazurca 5 Mazurca Partitura 1 E 1"
+            },
+            {
+              "name": "Mazurca De Bretona Mazurca De Bretona Partitura 1 E 1",
+              "length": 31.619247743225202,
+              "genre": "mazurcas",
+              "tradition": "galician",
+              "display_name": "Mazurcas Mazurca De Bretona Mazurca De Bretona Partitura 1 E 1"
+            }
+          ],
+          "genre": "mazurcas",
+          "tradition": "galician"
+        },
+        {
+          "name": "Mazurca 3 Mazurca Partitura 1 E 1",
+          "length": 37.726323754115214,
+          "genre": "mazurcas",
+          "tradition": "galician",
+          "display_name": "Mazurcas Mazurca 3 Mazurca Partitura 1 E 1"
+        }
+      ],
+      "genre": "mazurcas",
+      "tradition": "galician"
+    },
+    {
+      "name": "",
+      "length": 0.007277889062294207,
+      "children": [
+        {
+          "name": "Mazurca De Seivane Mazurca De Seivane Partitura 1 E 1",
+          "length": 35.99523432636698,
+          "genre": "mazurcas",
+          "tradition": "galician",
+          "display_name": "Mazurcas Mazurca De Seivane Mazurca De Seivane Partitura 1 E 1"
+        },
+        {
+          "name": "",
+          "length": 0.009118646380944173,
+          "children": [
+            {
+              "name": "A Farandula A Farandula Partitura 1 E 1",
+              "length": 31.079505646780746,
+              "genre": "mazurcas",
+              "tradition": "galician",
+              "display_name": "Mazurcas A Farandula A Farandula Partitura 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 0.026956746681313357,
+              "children": [
+                {
+                  "name": "O Agarradino O Agarradino Partitura 1 E 1",
+                  "length": 30.028472629524675,
+                  "genre": "mazurcas",
+                  "tradition": "galician",
+                  "display_name": "Mazurcas O Agarradino O Agarradino Partitura 1 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 0.08010142448748403,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 0.21082098161108043,
+                      "children": [
+                        {
+                          "name": "",
+                          "length": 6.361898731847493,
+                          "children": [
+                            {
+                              "name": "Mazurca Dos Fros Mazurca Dos Fros Partitura 1 E 1",
+                              "length": 28.659730404596566,
+                              "genre": "mazurcas",
+                              "tradition": "galician",
+                              "display_name": "Mazurcas Mazurca Dos Fros Mazurca Dos Fros Partitura 1 E 1"
+                            },
+                            {
+                              "name": "Mazurca 4 Mazurca De Adelino 1 E 1",
+                              "length": 50.925844386175136,
+                              "genre": "mazurcas",
+                              "tradition": "galician",
+                              "display_name": "Mazurcas Mazurca 4 Mazurca De Adelino 1 E 1"
+                            }
+                          ],
+                          "genre": "mazurcas",
+                          "tradition": "galician"
+                        },
+                        {
+                          "name": "Mazurca 2 Mazurca Partitura 1 E 1",
+                          "length": 33.41052532029905,
+                          "genre": "mazurcas",
+                          "tradition": "galician",
+                          "display_name": "Mazurcas Mazurca 2 Mazurca Partitura 1 E 1"
+                        }
+                      ],
+                      "genre": "mazurcas",
+                      "tradition": "galician"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.19965803042668284,
+                      "children": [
+                        {
+                          "name": "Mazurca De Daniel Mazurca De Daniel Partitura 1 E 1",
+                          "length": 33.70169340683042,
+                          "genre": "mazurcas",
+                          "tradition": "galician",
+                          "display_name": "Mazurcas Mazurca De Daniel Mazurca De Daniel Partitura 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.33041282923542337,
+                          "children": [
+                            {
+                              "name": "",
+                              "length": 0.2220026334792422,
+                              "children": [
+                                {
+                                  "name": "Mazurca Para Boiro Mazurca Para Boiro Partitura 1 E 1",
+                                  "length": 60.650681390484316,
+                                  "genre": "mazurcas",
+                                  "tradition": "galician",
+                                  "display_name": "Mazurcas Mazurca Para Boiro Mazurca Para Boiro Partitura 1 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.19516288128249926,
+                                  "children": [
+                                    {
+                                      "name": "",
+                                      "length": 0.9173249049161933,
+                                      "children": [
+                                        {
+                                          "name": "Mazurca Para Tareixa Mazurca Para Tareixa Partitura 1 E 1",
+                                          "length": 63.85247283991724,
+                                          "genre": "mazurcas",
+                                          "tradition": "galician",
+                                          "display_name": "Mazurcas Mazurca Para Tareixa Mazurca Para Tareixa Partitura 1 E 1"
+                                        },
+                                        {
+                                          "name": "A Laranxeira A Laranxeira Partitura 1 E 1",
+                                          "length": 98.49240142981039,
+                                          "genre": "mazurcas",
+                                          "tradition": "galician",
+                                          "display_name": "Mazurcas A Laranxeira A Laranxeira Partitura 1 E 1"
+                                        }
+                                      ],
+                                      "genre": "mazurcas",
+                                      "tradition": "galician"
+                                    },
+                                    {
+                                      "name": "A Balastreira A Balastreira Partitura 2 E 1",
+                                      "length": 89.68955172096722,
+                                      "genre": "mazurcas",
+                                      "tradition": "galician",
+                                      "display_name": "Mazurcas A Balastreira A Balastreira Partitura 2 E 1"
+                                    }
+                                  ],
+                                  "tradition": "galician",
+                                  "genre": "mazurcas"
+                                }
+                              ],
+                              "genre": "mazurcas",
+                              "tradition": "galician"
+                            },
+                            {
+                              "name": "Mazurca 8 Mazurca Partitura 2 E 1",
+                              "length": 41.48001507557838,
+                              "genre": "mazurcas",
+                              "tradition": "galician",
+                              "display_name": "Mazurcas Mazurca 8 Mazurca Partitura 2 E 1"
+                            }
+                          ],
+                          "genre": "mazurcas",
+                          "tradition": "galician"
+                        }
+                      ],
+                      "tradition": "galician",
+                      "genre": "mazurcas"
+                    }
+                  ],
+                  "genre": "mazurcas",
+                  "tradition": "galician"
+                }
+              ],
+              "genre": "mazurcas",
+              "tradition": "galician"
+            }
+          ],
+          "genre": "mazurcas",
+          "tradition": "galician"
+        }
+      ],
+      "genre": "mazurcas",
+      "tradition": "galician"
+    }
+  ],
+  "tradition": "galician",
+  "genre": "mazurcas"
+}
