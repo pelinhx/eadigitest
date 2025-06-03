@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 0.0,
+  "children": [
+    {
+      "name": "",
+      "length": 7.574940241195094e-05,
+      "children": [
+        {
+          "name": "",
+          "length": 0.0019426048211705904,
+          "children": [
+            {
+              "name": "1 Partitura 1 E 1",
+              "length": 3.9961470811003608,
+              "genre": "pasacorredoiras",
+              "tradition": "galician",
+              "display_name": "Pasacorredoiras Pasacorredoiras 1 Pasacorredoiras Partitura 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 0.000796137096737759,
+              "children": [
+                {
+                  "name": "No Corpus De Pontevedra No Corpus De Pontevedra Partitura 1 E 1",
+                  "length": 4.9984121122368315,
+                  "genre": "pasacorredoiras",
+                  "tradition": "galician",
+                  "display_name": "Pasacorredoiras No Corpus De Pontevedra No Corpus De Pontevedra Partitura 1 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 0.19174689170911563,
+                  "children": [
+                    {
+                      "name": "Da Fonsagrada Da Fonsagrada Partitura 1 1 E 1",
+                      "length": 4.1061775751943275,
+                      "genre": "pasacorredoiras",
+                      "tradition": "galician",
+                      "display_name": "Pasacorredoiras Pasacorredoiras Da Fonsagrada Pasacorredoiras Da Fonsagrada Partitura 1 1 E 1"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.005566363579458056,
+                      "children": [
+                        {
+                          "name": "",
+                          "length": 0.0009064639954416975,
+                          "children": [
+                            {
+                              "name": "",
+                              "length": 0.06601699102941994,
+                              "children": [
+                                {
+                                  "name": "De Arnoia De Arnoia Partitura 2 E 1",
+                                  "length": 6.476120857699805,
+                                  "genre": "pasacorredoiras",
+                                  "tradition": "galician",
+                                  "display_name": "Pasacorredoiras Pasacorredoiras De Arnoia Pasacorredoiras De Arnoia Partitura 2 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.0016392760825754138,
+                                  "children": [
+                                    {
+                                      "name": "",
+                                      "length": 0.35604412643187633,
+                                      "children": [
+                                        {
+                                          "name": "Os Rueiros Os Rueiros Partitura 2 E 1",
+                                          "length": 11.4939446366782,
+                                          "genre": "pasacorredoiras",
+                                          "tradition": "galician",
+                                          "display_name": "Pasacorredoiras Os Rueiros Os Rueiros Partitura 2 E 1"
+                                        },
+                                        {
+                                          "name": "Carballeira Adiante Carballeira Adiante Partitura 1 E 1",
+                                          "length": 8.500909091776068,
+                                          "genre": "pasacorredoiras",
+                                          "tradition": "galician",
+                                          "display_name": "Pasacorredoiras Carballeira Adiante Carballeira Adiante Partitura 1 E 1"
+                                        }
+                                      ],
+                                      "tradition": "galician",
+                                      "genre": "pasacorredoiras"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 0.0002358490566036764,
+                                      "children": [
+                                        {
+                                          "name": "Aire De Pasarruas Aire De Pasarruas Partitura 1 E 1",
+                                          "length": 7.999529190207156,
+                                          "genre": "pasacorredoiras",
+                                          "tradition": "galician",
+                                          "display_name": "Pasacorredoiras Aire De Pasarruas Aire De Pasarruas Partitura 1 E 1"
+                                        },
+                                        {
+                                          "name": "Mina Nena Mina Nena Partitura 2 E 1",
+                                          "length": 8.0,
+                                          "genre": "pasacorredoiras",
+                                          "tradition": "galician",
+                                          "display_name": "Pasacorredoiras Mina Nena Mina Nena Partitura 2 E 1"
+                                        }
+                                      ],
+                                      "tradition": "galician",
+                                      "genre": "pasacorredoiras"
+                                    }
+                                  ],
+                                  "genre": "pasacorredoiras",
+                                  "tradition": "galician"
+                                }
+                              ],
+                              "genre": "pasacorredoiras",
+                              "tradition": "galician"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.00020517028259625647,
+                              "children": [
+                                {
+                                  "name": "Na Manxeira Na Manxeira Partitura 2 E 1",
+                                  "length": 5.999590636436153,
+                                  "genre": "pasacorredoiras",
+                                  "tradition": "galician",
+                                  "display_name": "Pasacorredoiras Pasacorredoiras Na Manxeira Pasacorredoiras Na Manxeira Partitura 2 E 1"
+                                },
+                                {
+                                  "name": "De Xolda De Xolda Partitura 1 2 E 1",
+                                  "length": 6.0,
+                                  "genre": "pasacorredoiras",
+                                  "tradition": "galician",
+                                  "display_name": "Pasacorredoiras De Xolda De Xolda Partitura 1 2 E 1"
+                                }
+                              ],
+                              "tradition": "galician",
+                              "genre": "pasacorredoiras"
+                            }
+                          ],
+                          "tradition": "galician",
+                          "genre": "pasacorredoiras"
+                        },
+                        {
+                          "name": "De Parteme De Parteme Partitura 1 E 1",
+                          "length": 5.5,
+                          "genre": "pasacorredoiras",
+                          "tradition": "galician",
+                          "display_name": "Pasacorredoiras Pasacorredoiras De Parteme Pasacorredoiras De Parteme Partitura 1 E 1"
+                        }
+                      ],
+                      "tradition": "galician",
+                      "genre": "pasacorredoiras"
+                    }
+                  ],
+                  "genre": "pasacorredoiras",
+                  "tradition": "galician"
+                }
+              ],
+              "genre": "pasacorredoiras",
+              "tradition": "galician"
+            }
+          ],
+          "genre": "pasacorredoiras",
+          "tradition": "galician"
+        },
+        {
+          "name": "",
+          "length": 0.06564819381986142,
+          "children": [
+            {
+              "name": "",
+              "length": 0.7563624073466924,
+              "children": [
+                {
+                  "name": "2 Partitura 1 1 E 1",
+                  "length": 2.824,
+                  "genre": "pasacorredoiras",
+                  "tradition": "galician",
+                  "display_name": "Pasacorredoiras Pasacorredoiras 2 Pasacorredoiras Partitura 1 1 E 1"
+                },
+                {
+                  "name": "4 Partitura 1 E 1",
+                  "length": 3.176,
+                  "genre": "pasacorredoiras",
+                  "tradition": "galician",
+                  "display_name": "Pasacorredoiras Pasacorredoiras 4 Pasacorredoiras Partitura 1 E 1"
+                }
+              ],
+              "genre": "pasacorredoiras",
+              "tradition": "galician"
+            },
+            {
+              "name": "",
+              "length": 0.493365033097432,
+              "children": [
+                {
+                  "name": "",
+                  "length": 0.0016057312252968359,
+                  "children": [
+                    {
+                      "name": "De Campano De Campano Partitura 1 E 1",
+                      "length": 2.499261811023622,
+                      "genre": "pasacorredoiras",
+                      "tradition": "galician",
+                      "display_name": "Pasacorredoiras Pasacorredoiras De Campano Pasacorredoiras De Campano Partitura 1 E 1"
+                    },
+                    {
+                      "name": "A Entrada Na Festa A Entrada Na Festa Partitura 2 E 1",
+                      "length": 2.4999999999999982,
+                      "genre": "pasacorredoiras",
+                      "tradition": "galician",
+                      "display_name": "Pasacorredoiras A Entrada Na Festa A Entrada Na Festa Partitura 2 E 1"
+                    }
+                  ],
+                  "genre": "pasacorredoiras",
+                  "tradition": "galician"
+                },
+                {
+                  "name": "",
+                  "length": 0.0006220856394201224,
+                  "children": [
+                    {
+                      "name": "De Vilar De Enfesta De Vilar De Enfesta Partitura 1 E 1",
+                      "length": 1.9987604644181838,
+                      "genre": "pasacorredoiras",
+                      "tradition": "galician",
+                      "display_name": "Pasacorredoiras Pasacorredoiras De Vilar De Enfesta Pasacorredoiras De Vilar De Enfesta Partitura 1 E 1"
+                    },
+                    {
+                      "name": "Pasacalles De Poio Pasacalles De Poio Partitura 1 E 1",
+                      "length": 1.9987603782572148,
+                      "genre": "pasacorredoiras",
+                      "tradition": "galician",
+                      "display_name": "Pasacorredoiras Pasacalles De Poio Pasacalles De Poio Partitura 1 E 1"
+                    }
+                  ],
+                  "genre": "pasacorredoiras",
+                  "tradition": "galician"
+                }
+              ],
+              "genre": "pasacorredoiras",
+              "tradition": "galician"
+            }
+          ],
+          "genre": "pasacorredoiras",
+          "tradition": "galician"
+        }
+      ],
+      "tradition": "galician",
+      "genre": "pasacorredoiras"
+    },
+    {
+      "name": "",
+      "length": 3.552713678800501e-15,
+      "children": [
+        {
+          "name": "",
+          "length": 0.9999999999999396,
+          "children": [
+            {
+              "name": "5 2 E 1",
+              "length": 2.9986842004876384,
+              "genre": "pasacorredoiras",
+              "tradition": "galician",
+              "display_name": "Pasacorredoiras Pasacorredoiras 5 Pasacorredoiras 2 E 1"
+            },
+            {
+              "name": "Do Condado Do Condado Partitura 1 E 1",
+              "length": 3.0013157995123616,
+              "genre": "pasacorredoiras",
+              "tradition": "galician",
+              "display_name": "Pasacorredoiras Pasacorredoiras Do Condado Pasacorredoiras Do Condado Partitura 1 E 1"
+            }
+          ],
+          "genre": "pasacorredoiras",
+          "tradition": "galician"
+        },
+        {
+          "name": "",
+          "length": 8.881784197001252e-16,
+          "children": [
+            {
+              "name": "Pasacalles Pasacalles Partitura 1 E 1",
+              "length": 4.0,
+              "genre": "pasacorredoiras",
+              "tradition": "galician",
+              "display_name": "Pasacorredoiras Pasacalles Pasacalles Partitura 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 2.8680761469483207e-16,
+              "children": [
+                {
+                  "name": "Pasacalles De Manuel Villanueva Pasacalles De Manuel Villanueva Partitura 1 E 1",
+                  "length": 4.0,
+                  "genre": "pasacorredoiras",
+                  "tradition": "galician",
+                  "display_name": "Pasacorredoiras Pasacalles De Manuel Villanueva Pasacalles De Manuel Villanueva Partitura 1 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 2.379049338482478e-16,
+                  "children": [
+                    {
+                      "name": "Pasacalles 5 Pasacalles Partitura 1 E 1",
+                      "length": 4.0,
+                      "genre": "pasacorredoiras",
+                      "tradition": "galician",
+                      "display_name": "Pasacorredoiras Pasacalles 5 Pasacalles Partitura 1 E 1"
+                    },
+                    {
+                      "name": "",
+                      "length": 2.220446049250313e-16,
+                      "children": [
+                        {
+                          "name": "Pasacalles 4 Pasacalles Partitura 1 E 1",
+                          "length": 4.0,
+                          "genre": "pasacorredoiras",
+                          "tradition": "galician",
+                          "display_name": "Pasacorredoiras Pasacalles 4 Pasacalles Partitura 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 2.0898315757650005e-16,
+                          "children": [
+                            {
+                              "name": "Pasacalles 2 Pasacalles Partitura 1 E 1",
+                              "length": 4.0,
+                              "genre": "pasacorredoiras",
+                              "tradition": "galician",
+                              "display_name": "Pasacorredoiras Pasacalles 2 Pasacalles Partitura 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 1.9737298215558337e-16,
+                              "children": [
+                                {
+                                  "name": "Do Choqueiro Do Choqueiro Partitura 1 E 1",
+                                  "length": 4.0,
+                                  "genre": "pasacorredoiras",
+                                  "tradition": "galician",
+                                  "display_name": "Pasacorredoiras Pasacorredoiras Do Choqueiro Pasacorredoiras Do Choqueiro Partitura 1 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 1.7763568394002506e-16,
+                                  "children": [
+                                    {
+                                      "name": "Pasacalles 1 Pasacalles Partitura 1 E 1",
+                                      "length": 4.0,
+                                      "genre": "pasacorredoiras",
+                                      "tradition": "galician",
+                                      "display_name": "Pasacorredoiras Pasacalles 1 Pasacalles Partitura 1 E 1"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 1.544658121217609e-16,
+                                      "children": [
+                                        {
+                                          "name": "De Ribadavia De Ribadavia Partitura 1 E 1",
+                                          "length": 4.0,
+                                          "genre": "pasacorredoiras",
+                                          "tradition": "galician",
+                                          "display_name": "Pasacorredoiras Pasacorredoiras De Ribadavia Pasacorredoiras De Ribadavia Partitura 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 1.4802973661668753e-16,
+                                          "children": [
+                                            {
+                                              "name": "De Soutelo De Soutelo Partitura 1 E 1",
+                                              "length": 4.0,
+                                              "genre": "pasacorredoiras",
+                                              "tradition": "galician",
+                                              "display_name": "Pasacorredoiras Pasacorredoiras De Soutelo Pasacorredoiras De Soutelo Partitura 1 E 1"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 1.1460366705808067e-16,
+                                              "children": [
+                                                {
+                                                  "name": "De Ponteareas De Ponteareas Partitura 1 E 1",
+                                                  "length": 4.0,
+                                                  "genre": "pasacorredoiras",
+                                                  "tradition": "galician",
+                                                  "display_name": "Pasacorredoiras Pasacorredoiras De Ponteareas Pasacorredoiras De Ponteareas Partitura 1 E 1"
+                                                },
+                                                {
+                                                  "name": "Da Barreira Da Barreira Partitura 1 E 1",
+                                                  "length": 4.0,
+                                                  "genre": "pasacorredoiras",
+                                                  "tradition": "galician",
+                                                  "display_name": "Pasacorredoiras Pasacorredoiras Da Barreira Pasacorredoiras Da Barreira Partitura 1 E 1"
+                                                }
+                                              ],
+                                              "genre": "pasacorredoiras",
+                                              "tradition": "galician"
+                                            }
+                                          ],
+                                          "genre": "pasacorredoiras",
+                                          "tradition": "galician"
+                                        }
+                                      ],
+                                      "tradition": "galician",
+                                      "genre": "pasacorredoiras"
+                                    }
+                                  ],
+                                  "genre": "pasacorredoiras",
+                                  "tradition": "galician"
+                                }
+                              ],
+                              "tradition": "galician",
+                              "genre": "pasacorredoiras"
+                            }
+                          ],
+                          "tradition": "galician",
+                          "genre": "pasacorredoiras"
+                        }
+                      ],
+                      "tradition": "galician",
+                      "genre": "pasacorredoiras"
+                    }
+                  ],
+                  "tradition": "galician",
+                  "genre": "pasacorredoiras"
+                }
+              ],
+              "tradition": "galician",
+              "genre": "pasacorredoiras"
+            }
+          ],
+          "tradition": "galician",
+          "genre": "pasacorredoiras"
+        }
+      ],
+      "genre": "pasacorredoiras",
+      "tradition": "galician"
+    }
+  ],
+  "genre": "pasacorredoiras",
+  "tradition": "galician"
+}

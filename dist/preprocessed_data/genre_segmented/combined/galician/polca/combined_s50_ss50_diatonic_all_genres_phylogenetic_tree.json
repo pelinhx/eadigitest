@@ -1,0 +1,217 @@
+{
+  "name": "",
+  "length": 0.0,
+  "children": [
+    {
+      "name": "Danza Da Cruz Danza Da Cruz Partitura 2 E 1",
+      "length": 38.24214315762607,
+      "genre": "polca",
+      "tradition": "galician",
+      "display_name": "Polca Danza Da Cruz Danza Da Cruz Partitura 2 E 1"
+    },
+    {
+      "name": "",
+      "length": 1.5000346643824338e-14,
+      "children": [
+        {
+          "name": "Un Adeus A Ponferrada Un Adeus A Ponferrada Partitura 1 E 1",
+          "length": 38.24214316465109,
+          "genre": "polca",
+          "tradition": "galician",
+          "display_name": "Polca Un Adeus A Ponferrada Un Adeus A Ponferrada Partitura 1 E 1"
+        },
+        {
+          "name": "",
+          "length": 2.9976021664879227e-15,
+          "children": [
+            {
+              "name": "A Pequerrecha A Pequerrecha Partitura 2 E 1",
+              "length": 38.24214316465109,
+              "genre": "polca",
+              "tradition": "galician",
+              "display_name": "Polca A Pequerrecha A Pequerrecha Partitura 2 E 1"
+            },
+            {
+              "name": "",
+              "length": 1.2079226507921703e-13,
+              "children": [
+                {
+                  "name": "Partitura 2 E 1",
+                  "length": 38.242143164650585,
+                  "genre": "polca",
+                  "tradition": "galician",
+                  "display_name": "Polca Polca Polca Partitura 2 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 0.03594097057963541,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 0.00491104938279463,
+                      "children": [
+                        {
+                          "name": "Da Ponte De Outeiro Da Ponte De Outeiro Partitura 1 E 1",
+                          "length": 31.395550400590828,
+                          "genre": "polca",
+                          "tradition": "galician",
+                          "display_name": "Polca Polca Da Ponte De Outeiro Polca Da Ponte De Outeiro Partitura 1 E 1"
+                        },
+                        {
+                          "name": "2 Partitura 2 E 1",
+                          "length": 29.488874562608807,
+                          "genre": "polca",
+                          "tradition": "galician",
+                          "display_name": "Polca Polca 2 Polca Partitura 2 E 1"
+                        }
+                      ],
+                      "tradition": "galician",
+                      "genre": "polca"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.03227885610868797,
+                      "children": [
+                        {
+                          "name": "",
+                          "length": 0.1459533875587553,
+                          "children": [
+                            {
+                              "name": "Palla De Millo Palla De Millo Partitura 2 E 1",
+                              "length": 47.03920113852236,
+                              "genre": "polca",
+                              "tradition": "galician",
+                              "display_name": "Polca Palla De Millo Palla De Millo Partitura 2 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.21839978335545096,
+                              "children": [
+                                {
+                                  "name": "",
+                                  "length": 0.06514538554131377,
+                                  "children": [
+                                    {
+                                      "name": "Para Pucho Para Pucho Partitura 2 E 1",
+                                      "length": 50.746629657262886,
+                                      "genre": "polca",
+                                      "tradition": "galician",
+                                      "display_name": "Polca Polca Para Pucho Polca Para Pucho Partitura 2 E 1"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 0.13418753308238743,
+                                      "children": [
+                                        {
+                                          "name": "Na Eira Na Eira Partitura 2 E 1",
+                                          "length": 55.14014435530676,
+                                          "genre": "polca",
+                                          "tradition": "galician",
+                                          "display_name": "Polca Na Eira Na Eira Partitura 2 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 0.16433006483433132,
+                                          "children": [
+                                            {
+                                              "name": "A Gaita De Melchor A Gaita De Melchor Partitura 2 E 1",
+                                              "length": 55.59471619806185,
+                                              "genre": "polca",
+                                              "tradition": "galician",
+                                              "display_name": "Polca A Gaita De Melchor A Gaita De Melchor Partitura 2 E 1"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 0.08503980082559792,
+                                              "children": [
+                                                {
+                                                  "name": "Herba Cabreira Herba Cabreira Partitura 2 E 1",
+                                                  "length": 56.69711884386447,
+                                                  "genre": "polca",
+                                                  "tradition": "galician",
+                                                  "display_name": "Polca Herba Cabreira Herba Cabreira Partitura 2 E 1"
+                                                },
+                                                {
+                                                  "name": "Farruquina Farruquina Partitura 1 2 E 1",
+                                                  "length": 66.54063580170765,
+                                                  "genre": "polca",
+                                                  "tradition": "galician",
+                                                  "display_name": "Polca Farruquina Farruquina Partitura 1 2 E 1"
+                                                }
+                                              ],
+                                              "tradition": "galician",
+                                              "genre": "polca"
+                                            }
+                                          ],
+                                          "tradition": "galician",
+                                          "genre": "polca"
+                                        }
+                                      ],
+                                      "tradition": "galician",
+                                      "genre": "polca"
+                                    }
+                                  ],
+                                  "tradition": "galician",
+                                  "genre": "polca"
+                                },
+                                {
+                                  "name": "6 Partitura 2 E 1",
+                                  "length": 52.31839161221292,
+                                  "genre": "polca",
+                                  "tradition": "galician",
+                                  "display_name": "Polca Polca 6 Polca Partitura 2 E 1"
+                                }
+                              ],
+                              "tradition": "galician",
+                              "genre": "polca"
+                            }
+                          ],
+                          "genre": "polca",
+                          "tradition": "galician"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.07163199786824492,
+                          "children": [
+                            {
+                              "name": "De Pacios De Mourisco De Pacios De Mourisco Partitura 1 E 1",
+                              "length": 44.52027123374911,
+                              "genre": "polca",
+                              "tradition": "galician",
+                              "display_name": "Polca Polca De Pacios De Mourisco Polca De Pacios De Mourisco Partitura 1 E 1"
+                            },
+                            {
+                              "name": "Carrasqueira Carrasqueira Partitura 2 E 1",
+                              "length": 42.62791773374714,
+                              "genre": "polca",
+                              "tradition": "galician",
+                              "display_name": "Polca Carrasqueira Carrasqueira Partitura 2 E 1"
+                            }
+                          ],
+                          "tradition": "galician",
+                          "genre": "polca"
+                        }
+                      ],
+                      "tradition": "galician",
+                      "genre": "polca"
+                    }
+                  ],
+                  "genre": "polca",
+                  "tradition": "galician"
+                }
+              ],
+              "genre": "polca",
+              "tradition": "galician"
+            }
+          ],
+          "genre": "polca",
+          "tradition": "galician"
+        }
+      ],
+      "genre": "polca",
+      "tradition": "galician"
+    }
+  ],
+  "tradition": "galician",
+  "genre": "polca"
+}

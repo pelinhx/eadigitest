@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 4.500103993147301e-14,
+  "children": [
+    {
+      "name": "Saffron Kilt The 1 E 1",
+      "length": 38.24214316465109,
+      "genre": "waltz",
+      "tradition": "irish",
+      "display_name": "Saffron Kilt The 1 E 1"
+    },
+    {
+      "name": "",
+      "length": 1.4882780997931663e-13,
+      "children": [
+        {
+          "name": "Ice Flower 1 E 1",
+          "length": 38.24214316465109,
+          "genre": "waltz",
+          "tradition": "irish",
+          "display_name": "Ice Flower 1 E 1"
+        },
+        {
+          "name": "",
+          "length": 0.007731511819512926,
+          "children": [
+            {
+              "name": "Rozsa 1 E 1",
+              "length": 32.11847043160428,
+              "genre": "waltz",
+              "tradition": "irish",
+              "display_name": "Rozsa 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 0.03594097057963541,
+              "children": [
+                {
+                  "name": "",
+                  "length": 0.08056069527761021,
+                  "children": [
+                    {
+                      "name": "Gamekeepers Cottage The 1 E 1",
+                      "length": 37.1086165349729,
+                      "genre": "waltz",
+                      "tradition": "irish",
+                      "display_name": "Gamekeepers Cottage The 1 E 1"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.11816493070068157,
+                      "children": [
+                        {
+                          "name": "",
+                          "length": 0.6958698177278839,
+                          "children": [
+                            {
+                              "name": "Mrs Costello 1 E 1",
+                              "length": 25.62059640374669,
+                              "genre": "waltz",
+                              "tradition": "irish",
+                              "display_name": "Mrs Costello 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.7350977327789421,
+                              "children": [
+                                {
+                                  "name": "If Young Men Could Swim 1 E 1",
+                                  "length": 13.501444027893829,
+                                  "genre": "waltz",
+                                  "tradition": "irish",
+                                  "display_name": "If Young Men Could Swim 1 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.24195714101134236,
+                                  "children": [
+                                    {
+                                      "name": "",
+                                      "length": 0.7514530524840107,
+                                      "children": [
+                                        {
+                                          "name": "I Will Raise My Sail Black 1 E 1",
+                                          "length": 19.92605268304264,
+                                          "genre": "waltz",
+                                          "tradition": "irish",
+                                          "display_name": "I Will Raise My Sail Black 1 E 1"
+                                        },
+                                        {
+                                          "name": "Gentle Maiden The 1 E 1",
+                                          "length": 25.85621102837699,
+                                          "genre": "waltz",
+                                          "tradition": "irish",
+                                          "display_name": "Gentle Maiden The 1 E 1"
+                                        }
+                                      ],
+                                      "tradition": "irish",
+                                      "genre": "waltz"
+                                    },
+                                    {
+                                      "name": "Old Oak The 1 E 1",
+                                      "length": 11.821364941381649,
+                                      "genre": "waltz",
+                                      "tradition": "irish",
+                                      "display_name": "Old Oak The 1 E 1"
+                                    }
+                                  ],
+                                  "tradition": "irish",
+                                  "genre": "waltz"
+                                }
+                              ],
+                              "tradition": "irish",
+                              "genre": "waltz"
+                            }
+                          ],
+                          "tradition": "irish",
+                          "genre": "waltz"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.10461682364731795,
+                          "children": [
+                            {
+                              "name": "I Dreamt I Dwelt In Marble Halls 1 E 1",
+                              "length": 34.10096458475859,
+                              "genre": "waltz",
+                              "tradition": "irish",
+                              "display_name": "I Dreamt I Dwelt In Marble Halls 1 E 1"
+                            },
+                            {
+                              "name": "Eileen Aroon 1 E 1",
+                              "length": 19.93514699342315,
+                              "genre": "waltz",
+                              "tradition": "irish",
+                              "display_name": "Eileen Aroon 1 E 1"
+                            }
+                          ],
+                          "tradition": "irish",
+                          "genre": "waltz"
+                        }
+                      ],
+                      "genre": "waltz",
+                      "tradition": "irish"
+                    }
+                  ],
+                  "genre": "waltz",
+                  "tradition": "irish"
+                },
+                {
+                  "name": "",
+                  "length": 0.17045911151213072,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 0.4270374405368468,
+                      "children": [
+                        {
+                          "name": "Lament For Terrence Macdonough 1 E 1",
+                          "length": 33.40946737412396,
+                          "genre": "waltz",
+                          "tradition": "irish",
+                          "display_name": "Lament For Terrence Macdonough 1 E 1"
+                        },
+                        {
+                          "name": "Two For Joy 1 E 1",
+                          "length": 27.997483542261477,
+                          "genre": "waltz",
+                          "tradition": "irish",
+                          "display_name": "Two For Joy 1 E 1"
+                        }
+                      ],
+                      "tradition": "irish",
+                      "genre": "waltz"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.3305531842502586,
+                      "children": [
+                        {
+                          "name": "Trinity Cake 1 E 1",
+                          "length": 45.010081980580374,
+                          "genre": "waltz",
+                          "tradition": "irish",
+                          "display_name": "Trinity Cake 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.03227885610868797,
+                          "children": [
+                            {
+                              "name": "",
+                              "length": 0.4761896723376691,
+                              "children": [
+                                {
+                                  "name": "",
+                                  "length": 0.6538172296595377,
+                                  "children": [
+                                    {
+                                      "name": "Winter Sky 1 E 1",
+                                      "length": 48.31546995383394,
+                                      "genre": "waltz",
+                                      "tradition": "irish",
+                                      "display_name": "Winter Sky 1 E 1"
+                                    },
+                                    {
+                                      "name": "Motto The 1 E 1",
+                                      "length": 45.642567488066305,
+                                      "genre": "waltz",
+                                      "tradition": "irish",
+                                      "display_name": "Motto  The 1 E 1"
+                                    }
+                                  ],
+                                  "genre": "waltz",
+                                  "tradition": "irish"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.21839978335545096,
+                                  "children": [
+                                    {
+                                      "name": "",
+                                      "length": 0.047155178261812314,
+                                      "children": [
+                                        {
+                                          "name": "Ode To Heaney 1 E 1",
+                                          "length": 45.09459342526626,
+                                          "genre": "waltz",
+                                          "tradition": "irish",
+                                          "display_name": "Ode To Heaney 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 0.008203196582314831,
+                                          "children": [
+                                            {
+                                              "name": "Vaarin Hambo 1 E 1",
+                                              "length": 50.859822617456146,
+                                              "genre": "waltz",
+                                              "tradition": "irish",
+                                              "display_name": "Vaarin Hambo 1 E 1"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 0.38619475981022594,
+                                              "children": [
+                                                {
+                                                  "name": "Huntington Castle 1 E 1",
+                                                  "length": 66.1799259964333,
+                                                  "genre": "waltz",
+                                                  "tradition": "irish",
+                                                  "display_name": "Huntington Castle 1 E 1"
+                                                },
+                                                {
+                                                  "name": "",
+                                                  "length": 0.22419720813091004,
+                                                  "children": [
+                                                    {
+                                                      "name": "",
+                                                      "length": 0.5459356542192592,
+                                                      "children": [
+                                                        {
+                                                          "name": "My Hearts In New South Wales 1 E 1",
+                                                          "length": 63.06493590121234,
+                                                          "genre": "waltz",
+                                                          "tradition": "irish",
+                                                          "display_name": "My Hearts In New South Wales 1 E 1"
+                                                        },
+                                                        {
+                                                          "name": "Planxty Charles Bunworth 1 E 1",
+                                                          "length": 74.25906471900599,
+                                                          "genre": "waltz",
+                                                          "tradition": "irish",
+                                                          "display_name": "Planxty Charles Bunworth 1 E 1"
+                                                        }
+                                                      ],
+                                                      "genre": "waltz",
+                                                      "tradition": "irish"
+                                                    },
+                                                    {
+                                                      "name": "",
+                                                      "length": 0.039841462580127995,
+                                                      "children": [
+                                                        {
+                                                          "name": "Sheilas Wedding 1 E 1",
+                                                          "length": 62.61797794439347,
+                                                          "genre": "waltz",
+                                                          "tradition": "irish",
+                                                          "display_name": "Sheilas Wedding 1 E 1"
+                                                        },
+                                                        {
+                                                          "name": "",
+                                                          "length": 0.13788233156091678,
+                                                          "children": [
+                                                            {
+                                                              "name": "",
+                                                              "length": 1.3904137160955639,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Gangs New York 1 E 1",
+                                                                  "length": 73.52460854563923,
+                                                                  "genre": "waltz",
+                                                                  "tradition": "irish",
+                                                                  "display_name": "Gangs Of New York 1 E 1"
+                                                                },
+                                                                {
+                                                                  "name": "",
+                                                                  "length": 1.0448316749017579,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Huggaremamma 1 E 1",
+                                                                      "length": 96.04439401254895,
+                                                                      "genre": "waltz",
+                                                                      "tradition": "irish",
+                                                                      "display_name": "Huggaremamma 1 E 1"
+                                                                    },
+                                                                    {
+                                                                      "name": "",
+                                                                      "length": 60.55128100615522,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Paddys Perambulations 1 E 1",
+                                                                          "length": 827.6979755814004,
+                                                                          "genre": "waltz",
+                                                                          "tradition": "irish",
+                                                                          "display_name": "Paddys Perambulations 1 E 1"
+                                                                        },
+                                                                        {
+                                                                          "name": "Red Rose The 1 E 1",
+                                                                          "length": 172.30202441859956,
+                                                                          "genre": "waltz",
+                                                                          "tradition": "irish",
+                                                                          "display_name": "Red Rose The 1 E 1"
+                                                                        }
+                                                                      ],
+                                                                      "genre": "waltz",
+                                                                      "tradition": "irish"
+                                                                    }
+                                                                  ],
+                                                                  "genre": "waltz",
+                                                                  "tradition": "irish"
+                                                                }
+                                                              ],
+                                                              "tradition": "irish",
+                                                              "genre": "waltz"
+                                                            },
+                                                            {
+                                                              "name": "",
+                                                              "length": 0.1534399635467878,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Mozarts 1 E 1",
+                                                                  "length": 66.28163980291953,
+                                                                  "genre": "waltz",
+                                                                  "tradition": "irish",
+                                                                  "display_name": "Mozarts 1 E 1"
+                                                                },
+                                                                {
+                                                                  "name": "Bert Mackenzies 70Th Birthday 1 E 1",
+                                                                  "length": 76.29519933764456,
+                                                                  "genre": "waltz",
+                                                                  "tradition": "irish",
+                                                                  "display_name": "Bert Mackenzies 70Th Birthday 1 E 1"
+                                                                }
+                                                              ],
+                                                              "genre": "waltz",
+                                                              "tradition": "irish"
+                                                            }
+                                                          ],
+                                                          "genre": "waltz",
+                                                          "tradition": "irish"
+                                                        }
+                                                      ],
+                                                      "genre": "waltz",
+                                                      "tradition": "irish"
+                                                    }
+                                                  ],
+                                                  "genre": "waltz",
+                                                  "tradition": "irish"
+                                                }
+                                              ],
+                                              "genre": "waltz",
+                                              "tradition": "irish"
+                                            }
+                                          ],
+                                          "genre": "waltz",
+                                          "tradition": "irish"
+                                        }
+                                      ],
+                                      "tradition": "irish",
+                                      "genre": "waltz"
+                                    },
+                                    {
+                                      "name": "Project The 1 E 1",
+                                      "length": 47.56963623863572,
+                                      "genre": "waltz",
+                                      "tradition": "irish",
+                                      "display_name": "Project The 1 E 1"
+                                    }
+                                  ],
+                                  "genre": "waltz",
+                                  "tradition": "irish"
+                                }
+                              ],
+                              "genre": "waltz",
+                              "tradition": "irish"
+                            },
+                            {
+                              "name": "Cronan Na Mathar 1 E 1",
+                              "length": 44.63487287371922,
+                              "genre": "waltz",
+                              "tradition": "irish",
+                              "display_name": "Cronan Na Mathar 1 E 1"
+                            }
+                          ],
+                          "tradition": "irish",
+                          "genre": "waltz"
+                        }
+                      ],
+                      "genre": "waltz",
+                      "tradition": "irish"
+                    }
+                  ],
+                  "genre": "waltz",
+                  "tradition": "irish"
+                }
+              ],
+              "genre": "waltz",
+              "tradition": "irish"
+            }
+          ],
+          "tradition": "irish",
+          "genre": "waltz"
+        }
+      ],
+      "tradition": "irish",
+      "genre": "waltz"
+    }
+  ],
+  "genre": "waltz",
+  "tradition": "irish"
+}

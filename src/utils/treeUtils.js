@@ -11,12 +11,23 @@ export function createLinkPath(d) {
   /**
    * Gets the tradition that a genre belongs to
    */
+  // Helper function to determine which tradition a genre belongs to
   export function getTraditionForGenre(genre, traditions) {
     if (!genre) return null;
-    const genreLower = genre.toLowerCase();
-    for (const [tradition, data] of Object.entries(traditions)) {
-      if (data.genres.includes(genreLower)) return { name: tradition, ...data };
+    
+    const normalizedGenre = genre.toLowerCase();
+    
+    for (const [traditionId, tradition] of Object.entries(traditions)) {
+      if (tradition.genres.includes(normalizedGenre)) {
+        // Return object with explicit id property
+        return { 
+          id: traditionId, 
+          name: tradition.name,
+          color: tradition.color
+        };
+      }
     }
+    
     return null;
   }
   

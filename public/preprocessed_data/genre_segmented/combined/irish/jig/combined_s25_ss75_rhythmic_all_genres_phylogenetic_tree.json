@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 21.636362250606144,
+  "children": [
+    {
+      "name": "Oscar Woods 1 E 1",
+      "length": 32.39854632310392,
+      "genre": "jig",
+      "tradition": "irish",
+      "display_name": "Oscar Woods 1 E 1"
+    },
+    {
+      "name": "",
+      "length": 0.02662542648973698,
+      "children": [
+        {
+          "name": "",
+          "length": 0.3242349946221452,
+          "children": [
+            {
+              "name": "Betsys Delight 1 E 1",
+              "length": 40.56219868092002,
+              "genre": "jig",
+              "tradition": "irish",
+              "display_name": "Betsys Delight 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 0.19016145491242042,
+              "children": [
+                {
+                  "name": "Come Now Or Stay 1 E 1",
+                  "length": 51.73104324331587,
+                  "genre": "jig",
+                  "tradition": "irish",
+                  "display_name": "Come Now Or Stay 1 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 0.38589181857158894,
+                  "children": [
+                    {
+                      "name": "Behind The Haystack 1 E 1",
+                      "length": 61.18790118131531,
+                      "genre": "jig",
+                      "tradition": "irish",
+                      "display_name": "Behind The Haystack 1 E 1"
+                    },
+                    {
+                      "name": "Benedicts Fancy 1 E 1",
+                      "length": 60.37300802259848,
+                      "genre": "jig",
+                      "tradition": "irish",
+                      "display_name": "Benedicts Fancy 1 E 1"
+                    }
+                  ],
+                  "genre": "jig",
+                  "tradition": "irish"
+                }
+              ],
+              "genre": "jig",
+              "tradition": "irish"
+            }
+          ],
+          "genre": "jig",
+          "tradition": "irish"
+        },
+        {
+          "name": "",
+          "length": 0.023369347172793056,
+          "children": [
+            {
+              "name": "",
+              "length": 0.23497359468363122,
+              "children": [
+                {
+                  "name": "Daithi Sproules 1 E 1",
+                  "length": 42.99817665284475,
+                  "genre": "jig",
+                  "tradition": "irish",
+                  "display_name": "Daithi Sproules 1 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 0.36997769141082415,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 2.0734356737993607,
+                      "children": [
+                        {
+                          "name": "Rabbit Stew 1 E 1",
+                          "length": 43.41198734419754,
+                          "genre": "jig",
+                          "tradition": "irish",
+                          "display_name": "Rabbit Stew 1 E 1"
+                        },
+                        {
+                          "name": "Broken Compass The 1 E 1",
+                          "length": 36.74732851012261,
+                          "genre": "jig",
+                          "tradition": "irish",
+                          "display_name": "Broken Compass The 1 E 1"
+                        }
+                      ],
+                      "genre": "jig",
+                      "tradition": "irish"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.8854196608146192,
+                      "children": [
+                        {
+                          "name": "Nias 1 E 1",
+                          "length": 28.669338129757726,
+                          "genre": "jig",
+                          "tradition": "irish",
+                          "display_name": "Nias 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.954252384655585,
+                          "children": [
+                            {
+                              "name": "",
+                              "length": 0.2899344881327798,
+                              "children": [
+                                {
+                                  "name": "Hard Road To Passage The 1 E 1",
+                                  "length": 37.04687061376374,
+                                  "genre": "jig",
+                                  "tradition": "irish",
+                                  "display_name": "Hard Road To Passage The 1 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.33129690322900984,
+                                  "children": [
+                                    {
+                                      "name": "",
+                                      "length": 2.3444315931570614,
+                                      "children": [
+                                        {
+                                          "name": "Blue Ice 1 E 1",
+                                          "length": 23.125801131166746,
+                                          "genre": "jig",
+                                          "tradition": "irish",
+                                          "display_name": "Blue Ice 1 E 1"
+                                        },
+                                        {
+                                          "name": "Its Only A Model 1 E 1",
+                                          "length": 23.837426604109382,
+                                          "genre": "jig",
+                                          "tradition": "irish",
+                                          "display_name": "Its Only A Model 1 E 1"
+                                        }
+                                      ],
+                                      "tradition": "irish",
+                                      "genre": "jig"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 2.7846250216422597,
+                                      "children": [
+                                        {
+                                          "name": "Coffee Run 1 E 1",
+                                          "length": 38.336345317338484,
+                                          "genre": "jig",
+                                          "tradition": "irish",
+                                          "display_name": "Coffee Run 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 4.694020096088678,
+                                          "children": [
+                                            {
+                                              "name": "Albuquerque The 1 E 1",
+                                              "length": 31.62192895402394,
+                                              "genre": "jig",
+                                              "tradition": "irish",
+                                              "display_name": "Albuquerque The 1 E 1"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 14.322585820175746,
+                                              "children": [
+                                                {
+                                                  "name": "Emmet The Piper 1 E 1",
+                                                  "length": 74.34895928359671,
+                                                  "genre": "jig",
+                                                  "tradition": "irish",
+                                                  "display_name": "Emmet The Piper 1 E 1"
+                                                },
+                                                {
+                                                  "name": "Magoos 1 E 1",
+                                                  "length": 29.756007715895592,
+                                                  "genre": "jig",
+                                                  "tradition": "irish",
+                                                  "display_name": "Magoos 1 E 1"
+                                                }
+                                              ],
+                                              "genre": "jig",
+                                              "tradition": "irish"
+                                            }
+                                          ],
+                                          "tradition": "irish",
+                                          "genre": "jig"
+                                        }
+                                      ],
+                                      "genre": "jig",
+                                      "tradition": "irish"
+                                    }
+                                  ],
+                                  "genre": "jig",
+                                  "tradition": "irish"
+                                }
+                              ],
+                              "tradition": "irish",
+                              "genre": "jig"
+                            },
+                            {
+                              "name": "",
+                              "length": 15.276027084381436,
+                              "children": [
+                                {
+                                  "name": "Edgecombe 1 E 1",
+                                  "length": 34.05076520968294,
+                                  "genre": "jig",
+                                  "tradition": "irish",
+                                  "display_name": "Edgecombe 1 E 1"
+                                },
+                                {
+                                  "name": "Kathleen Katz 1 E 1",
+                                  "length": 13.603050505128955,
+                                  "genre": "jig",
+                                  "tradition": "irish",
+                                  "display_name": "Kathleen Katz 1 E 1"
+                                }
+                              ],
+                              "genre": "jig",
+                              "tradition": "irish"
+                            }
+                          ],
+                          "genre": "jig",
+                          "tradition": "irish"
+                        }
+                      ],
+                      "tradition": "irish",
+                      "genre": "jig"
+                    }
+                  ],
+                  "genre": "jig",
+                  "tradition": "irish"
+                }
+              ],
+              "genre": "jig",
+              "tradition": "irish"
+            },
+            {
+              "name": "",
+              "length": 0.03323477014770726,
+              "children": [
+                {
+                  "name": "",
+                  "length": 0.27880039042403304,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 1.0951695086019626,
+                      "children": [
+                        {
+                          "name": "Shepherdess The 1 E 1",
+                          "length": 32.146145716897735,
+                          "genre": "jig",
+                          "tradition": "irish",
+                          "display_name": "Shepherdess The 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 3.7779866120987755,
+                          "children": [
+                            {
+                              "name": "Stormless Isle The 1 E 1",
+                              "length": 61.404404663705236,
+                              "genre": "jig",
+                              "tradition": "irish",
+                              "display_name": "Stormless Isle The 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 1.1810223759804703,
+                              "children": [
+                                {
+                                  "name": "",
+                                  "length": 6.8078975933444195,
+                                  "children": [
+                                    {
+                                      "name": "John Regans 1 E 1",
+                                      "length": 43.61623480581063,
+                                      "genre": "jig",
+                                      "tradition": "irish",
+                                      "display_name": "John Regans 1 E 1"
+                                    },
+                                    {
+                                      "name": "Catch Me If You Can 1 E 1",
+                                      "length": 24.90586010424682,
+                                      "genre": "jig",
+                                      "tradition": "irish",
+                                      "display_name": "Catch Me If You Can 1 E 1"
+                                    }
+                                  ],
+                                  "genre": "jig",
+                                  "tradition": "irish"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.24304858336570767,
+                                  "children": [
+                                    {
+                                      "name": "",
+                                      "length": 0.5636826465312672,
+                                      "children": [
+                                        {
+                                          "name": "",
+                                          "length": 1.7635151361723973,
+                                          "children": [
+                                            {
+                                              "name": "Humours Strand Road The 1 E 1",
+                                              "length": 24.369005400706392,
+                                              "genre": "jig",
+                                              "tradition": "irish",
+                                              "display_name": "Humours Of Strand Road The 1 E 1"
+                                            },
+                                            {
+                                              "name": "Old Man Dillon 1 E 1",
+                                              "length": 24.418425039399928,
+                                              "genre": "jig",
+                                              "tradition": "irish",
+                                              "display_name": "Old Man Dillon 1 E 1"
+                                            }
+                                          ],
+                                          "genre": "jig",
+                                          "tradition": "irish"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 2.2140521363246783,
+                                          "children": [
+                                            {
+                                              "name": "",
+                                              "length": 2.8594029254021613,
+                                              "children": [
+                                                {
+                                                  "name": "Jimmy Mackinnon Smelt Brook 1 E 1",
+                                                  "length": 29.060222112359593,
+                                                  "genre": "jig",
+                                                  "tradition": "irish",
+                                                  "display_name": "Jimmy Mackinnon Of Smelt Brook 1 E 1"
+                                                },
+                                                {
+                                                  "name": "Naughty Noochie 1 E 1",
+                                                  "length": 20.239263716834156,
+                                                  "genre": "jig",
+                                                  "tradition": "irish",
+                                                  "display_name": "Naughty Noochie 1 E 1"
+                                                }
+                                              ],
+                                              "genre": "jig",
+                                              "tradition": "irish"
+                                            },
+                                            {
+                                              "name": "Tuppence A Bag 1 E 1",
+                                              "length": 17.133541260135587,
+                                              "genre": "jig",
+                                              "tradition": "irish",
+                                              "display_name": "Tuppence A Bag 1 E 1"
+                                            }
+                                          ],
+                                          "tradition": "irish",
+                                          "genre": "jig"
+                                        }
+                                      ],
+                                      "genre": "jig",
+                                      "tradition": "irish"
+                                    },
+                                    {
+                                      "name": "Perfect Pitch The 1 E 1",
+                                      "length": 31.086256339534277,
+                                      "genre": "jig",
+                                      "tradition": "irish",
+                                      "display_name": "Perfect Pitch The 1 E 1"
+                                    }
+                                  ],
+                                  "genre": "jig",
+                                  "tradition": "irish"
+                                }
+                              ],
+                              "genre": "jig",
+                              "tradition": "irish"
+                            }
+                          ],
+                          "genre": "jig",
+                          "tradition": "irish"
+                        }
+                      ],
+                      "tradition": "irish",
+                      "genre": "jig"
+                    },
+                    {
+                      "name": "Recruiting Officer The 1 E 1",
+                      "length": 42.97114533300898,
+                      "genre": "jig",
+                      "tradition": "irish",
+                      "display_name": "Recruiting Officer The 1 E 1"
+                    }
+                  ],
+                  "genre": "jig",
+                  "tradition": "irish"
+                },
+                {
+                  "name": "Three Note The 1 E 1",
+                  "length": 18.108255107844496,
+                  "genre": "jig",
+                  "tradition": "irish",
+                  "display_name": "Three Note The 1 E 1"
+                }
+              ],
+              "genre": "jig",
+              "tradition": "irish"
+            }
+          ],
+          "genre": "jig",
+          "tradition": "irish"
+        }
+      ],
+      "genre": "jig",
+      "tradition": "irish"
+    }
+  ],
+  "genre": "jig",
+  "tradition": "irish"
+}

@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 2.0,
+  "children": [
+    {
+      "name": "",
+      "length": 4.674623261579606e-17,
+      "children": [
+        {
+          "name": "Valse Antigo Valse Antigo Partitura 2 E 1",
+          "length": 4.0,
+          "genre": "valses",
+          "tradition": "galician",
+          "display_name": "Valses Valse Antigo Valse Antigo Partitura 2 E 1"
+        },
+        {
+          "name": "",
+          "length": 1.1975858079660284e-06,
+          "children": [
+            {
+              "name": "Valse De Teixeira Valse De Teixeira Partitura 2 E 1",
+              "length": 3.502687979150902,
+              "genre": "valses",
+              "tradition": "galician",
+              "display_name": "Valses Valse De Teixeira Valse De Teixeira Partitura 2 E 1"
+            },
+            {
+              "name": "",
+              "length": 0.002078400394723623,
+              "children": [
+                {
+                  "name": "",
+                  "length": 0.19233324067354118,
+                  "children": [
+                    {
+                      "name": "",
+                      "length": 0.04366299863583028,
+                      "children": [
+                        {
+                          "name": "",
+                          "length": 0.003154315851102263,
+                          "children": [
+                            {
+                              "name": "",
+                              "length": 0.0030004545820929707,
+                              "children": [
+                                {
+                                  "name": "Valse Do Firma Valse Do Firma Partitura 2 E 1",
+                                  "length": 5.504192872117156,
+                                  "genre": "valses",
+                                  "tradition": "galician",
+                                  "display_name": "Valses Valse Do Firma Valse Do Firma Partitura 2 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.06356744075619875,
+                                  "children": [
+                                    {
+                                      "name": "Valse De Escornabois Valse De Escornabois Partitura 1 E 1",
+                                      "length": 5.883129137051707,
+                                      "genre": "valses",
+                                      "tradition": "galician",
+                                      "display_name": "Valses Valse De Escornabois Valse De Escornabois Partitura 1 E 1"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 0.36687086294829285,
+                                      "children": [
+                                        {
+                                          "name": "Valse Do Coxo Valse Do Coxo Partitura 2 E 1",
+                                          "length": 5.490930744364161,
+                                          "genre": "valses",
+                                          "tradition": "galician",
+                                          "display_name": "Valses Valse Do Coxo Valse Do Coxo Partitura 2 E 1"
+                                        },
+                                        {
+                                          "name": "Valse De Vilar Do Mato Valse De Vilar Do Mato Partitura 2 E 1",
+                                          "length": 5.03675,
+                                          "genre": "valses",
+                                          "tradition": "galician",
+                                          "display_name": "Valses Valse De Vilar Do Mato Valse De Vilar Do Mato Partitura 2 E 1"
+                                        }
+                                      ],
+                                      "genre": "valses",
+                                      "tradition": "galician"
+                                    }
+                                  ],
+                                  "genre": "valses",
+                                  "tradition": "galician"
+                                }
+                              ],
+                              "tradition": "galician",
+                              "genre": "valses"
+                            },
+                            {
+                              "name": "Valse De Taramundi Valse De Taramundi Partitura 1 E 1",
+                              "length": 5.999990859123775,
+                              "genre": "valses",
+                              "tradition": "galician",
+                              "display_name": "Valses Valse De Taramundi Valse De Taramundi Partitura 1 E 1"
+                            }
+                          ],
+                          "tradition": "galician",
+                          "genre": "valses"
+                        },
+                        {
+                          "name": "",
+                          "length": 0.15200558565034683,
+                          "children": [
+                            {
+                              "name": "",
+                              "length": 0.9763568501003425,
+                              "children": [
+                                {
+                                  "name": "Apaga O Candil Apaga O Candil Partitura 2 E 1",
+                                  "length": 2.9900954127414776,
+                                  "genre": "valses",
+                                  "tradition": "galician",
+                                  "display_name": "Valses Apaga O Candil Apaga O Candil Partitura 2 E 1"
+                                },
+                                {
+                                  "name": "Valse 13 Valse Partitura 1 E 1",
+                                  "length": 3.0099045872585224,
+                                  "genre": "valses",
+                                  "tradition": "galician",
+                                  "display_name": "Valses Valse 13 Valse Partitura 1 E 1"
+                                }
+                              ],
+                              "genre": "valses",
+                              "tradition": "galician"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.2578958360626752,
+                              "children": [
+                                {
+                                  "name": "",
+                                  "length": 0.02020090523801965,
+                                  "children": [
+                                    {
+                                      "name": "Terra De Melide Terra De Melide Partitura 2 E 1",
+                                      "length": 4.996998189888549,
+                                      "genre": "valses",
+                                      "tradition": "galician",
+                                      "display_name": "Valses Terra De Melide Terra De Melide Partitura 2 E 1"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 0.0030018101114510642,
+                                      "children": [
+                                        {
+                                          "name": "Aire De Valse Aire De Valse Partitura 2 E 1",
+                                          "length": 5.004980079681275,
+                                          "genre": "valses",
+                                          "tradition": "galician",
+                                          "display_name": "Valses Aire De Valse Aire De Valse Partitura 2 E 1"
+                                        },
+                                        {
+                                          "name": "Valse 10 Valse Partitura 1 E 1",
+                                          "length": 4.995019920318725,
+                                          "genre": "valses",
+                                          "tradition": "galician",
+                                          "display_name": "Valses Valse 10 Valse Partitura 1 E 1"
+                                        }
+                                      ],
+                                      "genre": "valses",
+                                      "tradition": "galician"
+                                    }
+                                  ],
+                                  "genre": "valses",
+                                  "tradition": "galician"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.20348565086665266,
+                                  "children": [
+                                    {
+                                      "name": "Valse 4 Valse Partitura 2 E 1",
+                                      "length": 5.239585309901765,
+                                      "genre": "valses",
+                                      "tradition": "galician",
+                                      "display_name": "Valses Valse 4 Valse Partitura 2 E 1"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 0.008956546327148374,
+                                      "children": [
+                                        {
+                                          "name": "As Cirolinas As Cirolinas Partitura 1 E 1",
+                                          "length": 6.9857594951116235,
+                                          "genre": "valses",
+                                          "tradition": "galician",
+                                          "display_name": "Valses As Cirolinas As Cirolinas Partitura 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 0.010356834124009673,
+                                          "children": [
+                                            {
+                                              "name": "",
+                                              "length": 0.35651923738488994,
+                                              "children": [
+                                                {
+                                                  "name": "",
+                                                  "length": 0.2328459404752522,
+                                                  "children": [
+                                                    {
+                                                      "name": "Vals De Sabela Valse De Sabela Partitura 1 E 1",
+                                                      "length": 7.497352657726457,
+                                                      "genre": "valses",
+                                                      "tradition": "galician",
+                                                      "display_name": "Valses Vals De Sabela Valse De Sabela Partitura 1 E 1"
+                                                    },
+                                                    {
+                                                      "name": "",
+                                                      "length": 1.4963027349296212,
+                                                      "children": [
+                                                        {
+                                                          "name": "Vals Alen Alen Partitura 2 E 1",
+                                                          "length": 5.998217468805704,
+                                                          "genre": "valses",
+                                                          "tradition": "galician",
+                                                          "display_name": "Valses Vals Alen Alen Partitura 2 E 1"
+                                                        },
+                                                        {
+                                                          "name": "A Beira Do Rio A Beira Do Rio Partitura 2 E 1",
+                                                          "length": 6.0,
+                                                          "genre": "valses",
+                                                          "tradition": "galician",
+                                                          "display_name": "Valses A Beira Do Rio A Beira Do Rio Partitura 2 E 1"
+                                                        }
+                                                      ],
+                                                      "genre": "valses",
+                                                      "tradition": "galician"
+                                                    }
+                                                  ],
+                                                  "tradition": "galician",
+                                                  "genre": "valses"
+                                                },
+                                                {
+                                                  "name": "",
+                                                  "length": 0.01115848489236837,
+                                                  "children": [
+                                                    {
+                                                      "name": "",
+                                                      "length": 0.0242648686681477,
+                                                      "children": [
+                                                        {
+                                                          "name": "",
+                                                          "length": 0.39640065138252645,
+                                                          "children": [
+                                                            {
+                                                              "name": "Bolboreta Bolboreta Partitura 1 E 1",
+                                                              "length": 11.02287648696102,
+                                                              "genre": "valses",
+                                                              "tradition": "galician",
+                                                              "display_name": "Valses Bolboreta Bolboreta Partitura 1 E 1"
+                                                            },
+                                                            {
+                                                              "name": "",
+                                                              "length": 0.4778559349139808,
+                                                              "children": [
+                                                                {
+                                                                  "name": "",
+                                                                  "length": 0.16316646999782985,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "",
+                                                                      "length": 0.0119603737113394,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "A Raposa Blanca A Raposa Blanca Partitura 1 E 1",
+                                                                          "length": 11.489788807890223,
+                                                                          "genre": "valses",
+                                                                          "tradition": "galician",
+                                                                          "display_name": "Valses A Raposa Blanca A Raposa Blanca Partitura 1 E 1"
+                                                                        },
+                                                                        {
+                                                                          "name": "Lembrando Ii Lembrando Ii Partitura 1 E 1",
+                                                                          "length": 11.510211192109777,
+                                                                          "genre": "valses",
+                                                                          "tradition": "galician",
+                                                                          "display_name": "Valses Lembrando Ii Lembrando Ii Partitura 1 E 1"
+                                                                        }
+                                                                      ],
+                                                                      "genre": "valses",
+                                                                      "tradition": "galician"
+                                                                    },
+                                                                    {
+                                                                      "name": "",
+                                                                      "length": 0.4891708583047958,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Valse De Lalin Valse De Lalin Partitura 1 E 1",
+                                                                          "length": 13.971473138747886,
+                                                                          "genre": "valses",
+                                                                          "tradition": "galician",
+                                                                          "display_name": "Valses Valse De Lalin Valse De Lalin Partitura 1 E 1"
+                                                                        },
+                                                                        {
+                                                                          "name": "A Parolada A Parolada Partitura 2 E 1",
+                                                                          "length": 12.994897959183673,
+                                                                          "genre": "valses",
+                                                                          "tradition": "galician",
+                                                                          "display_name": "Valses A Parolada A Parolada Partitura 2 E 1"
+                                                                        }
+                                                                      ],
+                                                                      "genre": "valses",
+                                                                      "tradition": "galician"
+                                                                    }
+                                                                  ],
+                                                                  "tradition": "galician",
+                                                                  "genre": "valses"
+                                                                },
+                                                                {
+                                                                  "name": "Xardin Dos Meus Amores Xardin Dos Meus Amores Partitura 1 E 1",
+                                                                  "length": 11.506060431985293,
+                                                                  "genre": "valses",
+                                                                  "tradition": "galician",
+                                                                  "display_name": "Valses Xardin Dos Meus Amores Xardin Dos Meus Amores Partitura 1 E 1"
+                                                                }
+                                                              ],
+                                                              "genre": "valses",
+                                                              "tradition": "galician"
+                                                            }
+                                                          ],
+                                                          "tradition": "galician",
+                                                          "genre": "valses"
+                                                        },
+                                                        {
+                                                          "name": "Valse Dos Queixas Valse Dos Queixas Partitura 1 E 1",
+                                                          "length": 10.0,
+                                                          "genre": "valses",
+                                                          "tradition": "galician",
+                                                          "display_name": "Valses Valse Dos Queixas Valse Dos Queixas Partitura 1 E 1"
+                                                        }
+                                                      ],
+                                                      "genre": "valses",
+                                                      "tradition": "galician"
+                                                    },
+                                                    {
+                                                      "name": "Valse Picado Valse Picado Partitura 2 E 1",
+                                                      "length": 8.0,
+                                                      "genre": "valses",
+                                                      "tradition": "galician",
+                                                      "display_name": "Valses Valse Picado Valse Picado Partitura 2 E 1"
+                                                    }
+                                                  ],
+                                                  "tradition": "galician",
+                                                  "genre": "valses"
+                                                }
+                                              ],
+                                              "tradition": "galician",
+                                              "genre": "valses"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 0.0013417747894308718,
+                                              "children": [
+                                                {
+                                                  "name": "Valse De Arousa Valse De Arousa Partitura 2 E 1",
+                                                  "length": 6.997321927061009,
+                                                  "genre": "valses",
+                                                  "tradition": "galician",
+                                                  "display_name": "Valses Valse De Arousa Valse De Arousa Partitura 2 E 1"
+                                                },
+                                                {
+                                                  "name": "A Rianxeira A Rianxeira Partitura 1 1 E 1",
+                                                  "length": 6.998728081553873,
+                                                  "genre": "valses",
+                                                  "tradition": "galician",
+                                                  "display_name": "Valses A Rianxeira A Rianxeira Partitura 1 1 E 1"
+                                                }
+                                              ],
+                                              "genre": "valses",
+                                              "tradition": "galician"
+                                            }
+                                          ],
+                                          "tradition": "galician",
+                                          "genre": "valses"
+                                        }
+                                      ],
+                                      "genre": "valses",
+                                      "tradition": "galician"
+                                    }
+                                  ],
+                                  "genre": "valses",
+                                  "tradition": "galician"
+                                }
+                              ],
+                              "genre": "valses",
+                              "tradition": "galician"
+                            }
+                          ],
+                          "genre": "valses",
+                          "tradition": "galician"
+                        }
+                      ],
+                      "genre": "valses",
+                      "tradition": "galician"
+                    },
+                    {
+                      "name": "Valse De Santa Eufemia Valse De Santa Eufemia Partitura 1 E 1",
+                      "length": 4.499999999957181,
+                      "genre": "valses",
+                      "tradition": "galician",
+                      "display_name": "Valses Valse De Santa Eufemia Valse De Santa Eufemia Partitura 1 E 1"
+                    }
+                  ],
+                  "genre": "valses",
+                  "tradition": "galician"
+                },
+                {
+                  "name": "Valse 6 Valse Partitura 1 E 1",
+                  "length": 3.0,
+                  "genre": "valses",
+                  "tradition": "galician",
+                  "display_name": "Valses Valse 6 Valse Partitura 1 E 1"
+                }
+              ],
+              "genre": "valses",
+              "tradition": "galician"
+            }
+          ],
+          "genre": "valses",
+          "tradition": "galician"
+        }
+      ],
+      "tradition": "galician",
+      "genre": "valses"
+    },
+    {
+      "name": "Valse Do Limoeiro Valse Do Limoeiro Partitura 2 E 1",
+      "length": 4.0,
+      "genre": "valses",
+      "tradition": "galician",
+      "display_name": "Valses Valse Do Limoeiro Valse Do Limoeiro Partitura 2 E 1"
+    }
+  ],
+  "genre": "valses",
+  "tradition": "galician"
+}

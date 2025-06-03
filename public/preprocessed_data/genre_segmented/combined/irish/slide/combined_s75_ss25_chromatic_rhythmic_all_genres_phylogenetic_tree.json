@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 1.6271428648906294e-12,
+  "children": [
+    {
+      "name": "Dancing Dog The 1 E 1",
+      "length": 34.058484316384465,
+      "genre": "slide",
+      "tradition": "irish",
+      "display_name": "Dancing Dog The 1 E 1"
+    },
+    {
+      "name": "",
+      "length": 8.624260693324004e-05,
+      "children": [
+        {
+          "name": "Number 62 The 2 E 1",
+          "length": 39.163354488070524,
+          "genre": "slide",
+          "tradition": "irish",
+          "display_name": "Number 62 The 2 E 1"
+        },
+        {
+          "name": "",
+          "length": 1.6096028099677175,
+          "children": [
+            {
+              "name": "",
+              "length": 0.5256136558729783,
+              "children": [
+                {
+                  "name": "",
+                  "length": 2.984279490192421e-13,
+                  "children": [
+                    {
+                      "name": "Bellbirds Kurrajong 1 E 1",
+                      "length": 29.94303216537603,
+                      "genre": "slide",
+                      "tradition": "irish",
+                      "display_name": "Bellbirds Of Kurrajong 1 E 1"
+                    },
+                    {
+                      "name": "Maggie Shanleys 1 E 1",
+                      "length": 29.943032165376327,
+                      "genre": "slide",
+                      "tradition": "irish",
+                      "display_name": "Maggie Shanleys 1 E 1"
+                    }
+                  ],
+                  "genre": "slide",
+                  "tradition": "irish"
+                },
+                {
+                  "name": "",
+                  "length": 0.0004155911086343167,
+                  "children": [
+                    {
+                      "name": "Seans 1 E 1",
+                      "length": 26.931689089994332,
+                      "genre": "slide",
+                      "tradition": "irish",
+                      "display_name": "Seans 1 E 1"
+                    },
+                    {
+                      "name": "Kellehers 1 E 1",
+                      "length": 26.91899935572468,
+                      "genre": "slide",
+                      "tradition": "irish",
+                      "display_name": "Kellehers 1 E 1"
+                    }
+                  ],
+                  "genre": "slide",
+                  "tradition": "irish"
+                }
+              ],
+              "genre": "slide",
+              "tradition": "irish"
+            },
+            {
+              "name": "",
+              "length": 0.8660945475898214,
+              "children": [
+                {
+                  "name": "",
+                  "length": 2.1316282072803006e-14,
+                  "children": [
+                    {
+                      "name": "Hop The 1 E 1",
+                      "length": 19.50973740921063,
+                      "genre": "slide",
+                      "tradition": "irish",
+                      "display_name": "Hop The 1 E 1"
+                    },
+                    {
+                      "name": "",
+                      "length": 6.864110956776817e-15,
+                      "children": [
+                        {
+                          "name": "Hop Skip Jump 1 E 1",
+                          "length": 19.50973740921063,
+                          "genre": "slide",
+                          "tradition": "irish",
+                          "display_name": "Hop Skip Jump 1 E 1"
+                        },
+                        {
+                          "name": "",
+                          "length": 1.021904159295425e-14,
+                          "children": [
+                            {
+                              "name": "Half Way To Kerry 1 E 1",
+                              "length": 19.50973740921063,
+                              "genre": "slide",
+                              "tradition": "irish",
+                              "display_name": "Half Way To Kerry 1 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 1.0143063588545668e-14,
+                              "children": [
+                                {
+                                  "name": "Willie Reidys Favourite 1 E 1",
+                                  "length": 19.5097374092106,
+                                  "genre": "slide",
+                                  "tradition": "irish",
+                                  "display_name": "Willie Reidys Favourite 1 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 8.490985692333197e-13,
+                                  "children": [
+                                    {
+                                      "name": "Con Carthys Favourite 1 E 1",
+                                      "length": 19.509737409208835,
+                                      "genre": "slide",
+                                      "tradition": "irish",
+                                      "display_name": "Con Carthys Favourite 1 E 1"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 1.794120407794253e-12,
+                                      "children": [
+                                        {
+                                          "name": "Toormore The 1 E 1",
+                                          "length": 19.50973740920694,
+                                          "genre": "slide",
+                                          "tradition": "irish",
+                                          "display_name": "Toormore The 1 E 1"
+                                        },
+                                        {
+                                          "name": "",
+                                          "length": 3.68771679859492e-12,
+                                          "children": [
+                                            {
+                                              "name": "Clog The 1 E 1",
+                                              "length": 19.5097374092033,
+                                              "genre": "slide",
+                                              "tradition": "irish",
+                                              "display_name": "Clog The 1 E 1"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 7.329248319365433e-12,
+                                              "children": [
+                                                {
+                                                  "name": "Tombrack The 1 E 1",
+                                                  "length": 19.50973740919592,
+                                                  "genre": "slide",
+                                                  "tradition": "irish",
+                                                  "display_name": "Tombrack The 1 E 1"
+                                                },
+                                                {
+                                                  "name": "",
+                                                  "length": 5.852740514455945e-11,
+                                                  "children": [
+                                                    {
+                                                      "name": "Bunclody The 1 E 1",
+                                                      "length": 19.50973740909388,
+                                                      "genre": "slide",
+                                                      "tradition": "irish",
+                                                      "display_name": "Bunclody The 1 E 1"
+                                                    },
+                                                    {
+                                                      "name": "",
+                                                      "length": 2.326956405340752e-10,
+                                                      "children": [
+                                                        {
+                                                          "name": "Tarantella Philippe Juszczak 1 E 1",
+                                                          "length": 19.50973740874683,
+                                                          "genre": "slide",
+                                                          "tradition": "irish",
+                                                          "display_name": "Tarantella Philippe Juszczak 1 E 1"
+                                                        },
+                                                        {
+                                                          "name": "",
+                                                          "length": 9.24529786061612e-10,
+                                                          "children": [
+                                                            {
+                                                              "name": "Star Above The Garter The 1 E 1",
+                                                              "length": 19.50973740736797,
+                                                              "genre": "slide",
+                                                              "tradition": "irish",
+                                                              "display_name": "Star Above The Garter The 1 E 1"
+                                                            },
+                                                            {
+                                                              "name": "",
+                                                              "length": 3.672774084861885e-09,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Bens Birthday 1 E 1",
+                                                                  "length": 19.50973740189023,
+                                                                  "genre": "slide",
+                                                                  "tradition": "irish",
+                                                                  "display_name": "Bens Birthday 1 E 1"
+                                                                },
+                                                                {
+                                                                  "name": "",
+                                                                  "length": 2.9082521280088258e-08,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Priest The 1 E 1",
+                                                                      "length": 19.50973735124262,
+                                                                      "genre": "slide",
+                                                                      "tradition": "irish",
+                                                                      "display_name": "Priest The 1 E 1"
+                                                                    },
+                                                                    {
+                                                                      "name": "",
+                                                                      "length": 5.796800905955024e-08,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Ballydesmond The 1 E 1",
+                                                                          "length": 19.50973729366618,
+                                                                          "genre": "slide",
+                                                                          "tradition": "irish",
+                                                                          "display_name": "Ballydesmond The 1 E 1"
+                                                                        },
+                                                                        {
+                                                                          "name": "",
+                                                                          "length": 2.3031083529190255e-07,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "Anlon Mckinney 1 E 1",
+                                                                              "length": 19.509736950134624,
+                                                                              "genre": "slide",
+                                                                              "tradition": "irish",
+                                                                              "display_name": "Anlon Mckinney 1 E 1"
+                                                                            },
+                                                                            {
+                                                                              "name": "",
+                                                                              "length": 3.6360045889693993e-06,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Mullin 1 E 1",
+                                                                                  "length": 19.50973016128082,
+                                                                                  "genre": "slide",
+                                                                                  "tradition": "irish",
+                                                                                  "display_name": "Mullin 1 E 1"
+                                                                                },
+                                                                                {
+                                                                                  "name": "",
+                                                                                  "length": 5.741311028728546e-05,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "Maulykeavane Rambler The 1 E 1",
+                                                                                      "length": 19.509622958239042,
+                                                                                      "genre": "slide",
+                                                                                      "tradition": "irish",
+                                                                                      "display_name": "Maulykeavane Rambler The 1 E 1"
+                                                                                    },
+                                                                                    {
+                                                                                      "name": "",
+                                                                                      "length": 0.028552965968394517,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Johnny Murphys 1 E 1",
+                                                                                          "length": 19.45281276594656,
+                                                                                          "genre": "slide",
+                                                                                          "tradition": "irish",
+                                                                                          "display_name": "Johnny Murphys 1 E 1"
+                                                                                        },
+                                                                                        {
+                                                                                          "name": "",
+                                                                                          "length": 1.959112800875573e-06,
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "Game Cock The 1 E 1",
+                                                                                              "length": 18.364889541107587,
+                                                                                              "genre": "slide",
+                                                                                              "tradition": "irish",
+                                                                                              "display_name": "Game Cock The 1 E 1"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "",
+                                                                                              "length": 1.552822957151534e-05,
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "Bill The Weavers 1 E 1",
+                                                                                                  "length": 18.364862486008498,
+                                                                                                  "genre": "slide",
+                                                                                                  "tradition": "irish",
+                                                                                                  "display_name": "Bill The Weavers 1 E 1"
+                                                                                                },
+                                                                                                {
+                                                                                                  "name": "",
+                                                                                                  "length": 0.008288547825149095,
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "",
+                                                                                                      "length": 0.025402920959242792,
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "Deils Awa Wi Thexciseman The 1 E 1",
+                                                                                                          "length": 9.721513740447996,
+                                                                                                          "genre": "slide",
+                                                                                                          "tradition": "irish",
+                                                                                                          "display_name": "Deils Awa Wi Thexciseman The 1 E 1"
+                                                                                                        },
+                                                                                                        {
+                                                                                                          "name": "Pad The Road Wi Me 1 E 1",
+                                                                                                          "length": 9.622011800957578,
+                                                                                                          "genre": "slide",
+                                                                                                          "tradition": "irish",
+                                                                                                          "display_name": "Pad The Road Wi Me 1 E 1"
+                                                                                                        }
+                                                                                                      ],
+                                                                                                      "tradition": "irish",
+                                                                                                      "genre": "slide"
+                                                                                                    },
+                                                                                                    {
+                                                                                                      "name": "Wearied Lad The 1 E 1",
+                                                                                                      "length": 17.02924215819299,
+                                                                                                      "genre": "slide",
+                                                                                                      "tradition": "irish",
+                                                                                                      "display_name": "Wearied Lad The 1 E 1"
+                                                                                                    }
+                                                                                                  ],
+                                                                                                  "genre": "slide",
+                                                                                                  "tradition": "irish"
+                                                                                                }
+                                                                                              ],
+                                                                                              "tradition": "irish",
+                                                                                              "genre": "slide"
+                                                                                            }
+                                                                                          ],
+                                                                                          "genre": "slide",
+                                                                                          "tradition": "irish"
+                                                                                        }
+                                                                                      ],
+                                                                                      "genre": "slide",
+                                                                                      "tradition": "irish"
+                                                                                    }
+                                                                                  ],
+                                                                                  "tradition": "irish",
+                                                                                  "genre": "slide"
+                                                                                }
+                                                                              ],
+                                                                              "tradition": "irish",
+                                                                              "genre": "slide"
+                                                                            }
+                                                                          ],
+                                                                          "tradition": "irish",
+                                                                          "genre": "slide"
+                                                                        }
+                                                                      ],
+                                                                      "tradition": "irish",
+                                                                      "genre": "slide"
+                                                                    }
+                                                                  ],
+                                                                  "genre": "slide",
+                                                                  "tradition": "irish"
+                                                                }
+                                                              ],
+                                                              "tradition": "irish",
+                                                              "genre": "slide"
+                                                            }
+                                                          ],
+                                                          "tradition": "irish",
+                                                          "genre": "slide"
+                                                        }
+                                                      ],
+                                                      "tradition": "irish",
+                                                      "genre": "slide"
+                                                    }
+                                                  ],
+                                                  "tradition": "irish",
+                                                  "genre": "slide"
+                                                }
+                                              ],
+                                              "genre": "slide",
+                                              "tradition": "irish"
+                                            }
+                                          ],
+                                          "genre": "slide",
+                                          "tradition": "irish"
+                                        }
+                                      ],
+                                      "genre": "slide",
+                                      "tradition": "irish"
+                                    }
+                                  ],
+                                  "genre": "slide",
+                                  "tradition": "irish"
+                                }
+                              ],
+                              "tradition": "irish",
+                              "genre": "slide"
+                            }
+                          ],
+                          "tradition": "irish",
+                          "genre": "slide"
+                        }
+                      ],
+                      "tradition": "irish",
+                      "genre": "slide"
+                    }
+                  ],
+                  "tradition": "irish",
+                  "genre": "slide"
+                },
+                {
+                  "name": "An Sioda 1 E 1",
+                  "length": 22.627634137068053,
+                  "genre": "slide",
+                  "tradition": "irish",
+                  "display_name": "An Sioda 1 E 1"
+                }
+              ],
+              "genre": "slide",
+              "tradition": "irish"
+            }
+          ],
+          "genre": "slide",
+          "tradition": "irish"
+        }
+      ],
+      "genre": "slide",
+      "tradition": "irish"
+    }
+  ],
+  "genre": "slide",
+  "tradition": "irish"
+}

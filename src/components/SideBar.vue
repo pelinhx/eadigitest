@@ -15,36 +15,30 @@ function setLevel(level) {
   selectedLevel.value = level;
 }
 
-// Feature name mapping for display purposes
+// Feature name mapping for display purposes - REMOVED diatonic and diatonic_rhythmic
 const featureDisplayNames = {
   chromatic: 'Chromatic',
-  diatonic: 'Diatonic',
   rhythmic: 'Rhythmic',
-  chromatic_rhythmic: 'Chromatic & Rhythmic',
-  diatonic_rhythmic: 'Diatonic & Rhythmic'
+  chromatic_rhythmic: 'Chromatic & Rhythmic'
 };
 
-// Feature description for tooltips
+// Feature description for tooltips - REMOVED diatonic and diatonic_rhythmic
 const featureDescriptions = {
   chromatic: 'Analyzes the music using all 12 chromatic pitches without regard for key',
-  diatonic: 'Analyzes the music considering the key and diatonic scale degrees',
   rhythmic: 'Focuses solely on rhythmic patterns without considering pitch',
-  chromatic_rhythmic: 'Combined analysis of chromatic pitch and rhythmic patterns',
-  diatonic_rhythmic: 'Combined analysis of diatonic pitch and rhythmic patterns'
+  chromatic_rhythmic: 'Combined analysis of chromatic pitch and rhythmic patterns'
 };
 
-// Level name mapping for display purposes
+// Level name mapping for display purposes - RENAMED 'Global' to 'Note'
 const levelDisplayNames = {
-  note: 'Global',
+  note: 'Note',
   shared_segments: 'Shared Phrases (S)',
   structure: 'Form (F)'
 };
 
-// Combined levels directly as separate options - without "Combined:" prefix
+// Combined levels - SIMPLIFIED to only one "Combined" option
 const combinedLevelOptions = {
-  combined_s25_ss75: '25% F + 75% S',
-  combined_s50_ss50: '50% F + 50% S',
-  combined_s75_ss25: '75% F + 25% S'
+  combined_s75_ss25: 'Combined' // Simplified name for the single combined option
 };
 
 // Level description for tooltips
@@ -52,8 +46,6 @@ const levelDescriptions = {
   note: 'Analysis at individual note level, considering each note separately',
   shared_segments: 'Identifies and analyzes common melodic phrases shared between pieces',
   structure: 'Analyzes the high-level formal organization of the music',
-  combined_s25_ss75: 'Combined analysis with 25% Form and 75% Shared Phrases',
-  combined_s50_ss50: 'Combined analysis with 50% Form and 50% Shared Phrases',
   combined_s75_ss25: 'Combined analysis with 75% Form and 25% Shared Phrases'
 };
 
@@ -89,6 +81,10 @@ defineExpose({
           v-for="(displayName, feature) in featureDisplayNames" 
           :key="feature" 
           class="feature-option"
+          :class="{
+            'selected': selectedFeature === feature,
+            'unselected': selectedFeature !== feature
+          }"
           :title="featureDescriptions[feature]">
           <label>
             <span class="feature-label">{{ displayName }}</span>
@@ -114,6 +110,10 @@ defineExpose({
           v-for="(displayName, level) in levelDisplayNames" 
           :key="level" 
           class="feature-option"
+          :class="{
+            'selected': selectedLevel === level,
+            'unselected': selectedLevel !== level
+          }"
           :title="levelDescriptions[level]">
           <label>
             <span class="feature-label">{{ displayName }}</span>
@@ -127,16 +127,15 @@ defineExpose({
           </label>
         </div>
         
-        <!-- Combined section label -->
-        <div class="combined-separator">
-          <span>Combined:</span>
-        </div>
-        
         <!-- Combined options at the same level as other options -->
         <div 
           v-for="(displayName, level) in combinedLevelOptions" 
           :key="level" 
           class="feature-option"
+          :class="{
+            'selected': selectedLevel === level,
+            'unselected': selectedLevel !== level
+          }"
           :title="levelDescriptions[level]">
           <label>
             <span class="feature-label">{{ displayName }}</span>

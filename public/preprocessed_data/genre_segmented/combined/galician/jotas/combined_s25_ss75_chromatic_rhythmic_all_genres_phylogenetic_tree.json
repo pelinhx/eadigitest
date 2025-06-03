@@ -1,0 +1,442 @@
+{
+  "name": "",
+  "length": 0.0007718857805869561,
+  "children": [
+    {
+      "name": "",
+      "length": 0.048502033626979024,
+      "children": [
+        {
+          "name": "A Barquina A Barquina Partitura 2 E 1",
+          "length": 48.79694712255877,
+          "genre": "jotas",
+          "tradition": "galician",
+          "display_name": "Jotas A Barquina A Barquina Partitura 2 E 1"
+        },
+        {
+          "name": "",
+          "length": 0.10973981428212953,
+          "children": [
+            {
+              "name": "Jota 3 Jota Partitura 2 E 1",
+              "length": 43.969803751598825,
+              "genre": "jotas",
+              "tradition": "galician",
+              "display_name": "Jotas Jota 3 Jota Partitura 2 E 1"
+            },
+            {
+              "name": "",
+              "length": 0.034883099648698845,
+              "children": [
+                {
+                  "name": "Jota De Beigondo Jota De Beigondo Partitura 2 E 1",
+                  "length": 41.81963424640492,
+                  "genre": "jotas",
+                  "tradition": "galician",
+                  "display_name": "Jotas Jota De Beigondo Jota De Beigondo Partitura 2 E 1"
+                },
+                {
+                  "name": "",
+                  "length": 0.151472516204318,
+                  "children": [
+                    {
+                      "name": "O Pandeiro Repinica O Pandeiro Repinica Partitura 2 E 1",
+                      "length": 50.86947120011352,
+                      "genre": "jotas",
+                      "tradition": "galician",
+                      "display_name": "Jotas O Pandeiro Repinica O Pandeiro Repinica Partitura 2 E 1"
+                    },
+                    {
+                      "name": "",
+                      "length": 0.42805114261447974,
+                      "children": [
+                        {
+                          "name": "",
+                          "length": 0.02994044469137158,
+                          "children": [
+                            {
+                              "name": "Jota De Foxado Jota De Foxado Partitura 2 E 1",
+                              "length": 47.29811668530142,
+                              "genre": "jotas",
+                              "tradition": "galician",
+                              "display_name": "Jotas Jota De Foxado Jota De Foxado Partitura 2 E 1"
+                            },
+                            {
+                              "name": "",
+                              "length": 0.09196882309567878,
+                              "children": [
+                                {
+                                  "name": "Jota De Pontevedra Jota De Pontevedra Partitura 2 E 1",
+                                  "length": 58.61012913101297,
+                                  "genre": "jotas",
+                                  "tradition": "galician",
+                                  "display_name": "Jotas Jota De Pontevedra Jota De Pontevedra Partitura 2 E 1"
+                                },
+                                {
+                                  "name": "",
+                                  "length": 0.35104318791330513,
+                                  "children": [
+                                    {
+                                      "name": "",
+                                      "length": 0.23405010764274436,
+                                      "children": [
+                                        {
+                                          "name": "",
+                                          "length": 0.48952558150010117,
+                                          "children": [
+                                            {
+                                              "name": "",
+                                              "length": 1.3170373177904513,
+                                              "children": [
+                                                {
+                                                  "name": "Jota Da Mahia Jota Da Mahia Partitura 1 E 1",
+                                                  "length": 55.75537247732333,
+                                                  "genre": "jotas",
+                                                  "tradition": "galician",
+                                                  "display_name": "Jotas Jota Da Mahia Jota Da Mahia Partitura 1 E 1"
+                                                },
+                                                {
+                                                  "name": "",
+                                                  "length": 1.4805594007000167,
+                                                  "children": [
+                                                    {
+                                                      "name": "",
+                                                      "length": 2.660555999000541,
+                                                      "children": [
+                                                        {
+                                                          "name": "Jota De Outeiro Jota De Outeiro Partitura 1 E 1",
+                                                          "length": 65.25209484990528,
+                                                          "genre": "jotas",
+                                                          "tradition": "galician",
+                                                          "display_name": "Jotas Jota De Outeiro Jota De Outeiro Partitura 1 E 1"
+                                                        },
+                                                        {
+                                                          "name": "",
+                                                          "length": 1.0535974283841227,
+                                                          "children": [
+                                                            {
+                                                              "name": "",
+                                                              "length": 2.560437873011331,
+                                                              "children": [
+                                                                {
+                                                                  "name": "",
+                                                                  "length": 2.478065484862647,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Jota De Xestoso De Lor Jota De Xestoso De Lor Partitura 2 E 1",
+                                                                      "length": 81.44351104735361,
+                                                                      "genre": "jotas",
+                                                                      "tradition": "galician",
+                                                                      "display_name": "Jotas Jota De Xestoso De Lor Jota De Xestoso De Lor Partitura 2 E 1"
+                                                                    },
+                                                                    {
+                                                                      "name": "",
+                                                                      "length": 1.1470663131700007,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Jota Da Carcacia Jota Da Carcacia Partitura 1 E 1",
+                                                                          "length": 78.90899066673884,
+                                                                          "genre": "jotas",
+                                                                          "tradition": "galician",
+                                                                          "display_name": "Jotas Jota Da Carcacia Jota Da Carcacia Partitura 1 E 1"
+                                                                        },
+                                                                        {
+                                                                          "name": "Jota De Son 1 Jota De Son Partitura 1 E 1",
+                                                                          "length": 71.55610147446018,
+                                                                          "genre": "jotas",
+                                                                          "tradition": "galician",
+                                                                          "display_name": "Jotas Jota De Son 1 Jota De Son Partitura 1 E 1"
+                                                                        }
+                                                                      ],
+                                                                      "genre": "jotas",
+                                                                      "tradition": "galician"
+                                                                    }
+                                                                  ],
+                                                                  "genre": "jotas",
+                                                                  "tradition": "galician"
+                                                                },
+                                                                {
+                                                                  "name": "",
+                                                                  "length": 2.0295237830358346,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Rio De Anxo Rio De Anxo Partitura 1 E 1",
+                                                                      "length": 64.21099386889928,
+                                                                      "genre": "jotas",
+                                                                      "tradition": "galician",
+                                                                      "display_name": "Jotas Rio De Anxo Rio De Anxo Partitura 1 E 1"
+                                                                    },
+                                                                    {
+                                                                      "name": "Jota De Vilarmaior Jota De Vilarmaior Partitura 1 E 1",
+                                                                      "length": 56.91549268230192,
+                                                                      "genre": "jotas",
+                                                                      "tradition": "galician",
+                                                                      "display_name": "Jotas Jota De Vilarmaior Jota De Vilarmaior Partitura 1 E 1"
+                                                                    }
+                                                                  ],
+                                                                  "genre": "jotas",
+                                                                  "tradition": "galician"
+                                                                }
+                                                              ],
+                                                              "genre": "jotas",
+                                                              "tradition": "galician"
+                                                            },
+                                                            {
+                                                              "name": "",
+                                                              "length": 0.9428655423972474,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Jota De Barbeito Jota De Barbeito Partitura 1 E 1",
+                                                                  "length": 71.70187404827803,
+                                                                  "genre": "jotas",
+                                                                  "tradition": "galician",
+                                                                  "display_name": "Jotas Jota De Barbeito Jota De Barbeito Partitura 1 E 1"
+                                                                },
+                                                                {
+                                                                  "name": "Jota Dos Marineiros Jota Dos Marineiros Partitura 2 E 1",
+                                                                  "length": 60.548804377773536,
+                                                                  "genre": "jotas",
+                                                                  "tradition": "galician",
+                                                                  "display_name": "Jotas Jota Dos Marineiros Jota Dos Marineiros Partitura 2 E 1"
+                                                                }
+                                                              ],
+                                                              "genre": "jotas",
+                                                              "tradition": "galician"
+                                                            }
+                                                          ],
+                                                          "genre": "jotas",
+                                                          "tradition": "galician"
+                                                        }
+                                                      ],
+                                                      "genre": "jotas",
+                                                      "tradition": "galician"
+                                                    },
+                                                    {
+                                                      "name": "",
+                                                      "length": 0.7370413115670496,
+                                                      "children": [
+                                                        {
+                                                          "name": "Jota De Quindous Foliada Do Xose Partitura 2 E 1",
+                                                          "length": 63.67000023333203,
+                                                          "genre": "jotas",
+                                                          "tradition": "galician",
+                                                          "display_name": "Jotas Jota De Quindous Foliada Do Xose Partitura 2 E 1"
+                                                        },
+                                                        {
+                                                          "name": "A Praza Do Ferro A Praza Do Ferro Partitura 1 E 1",
+                                                          "length": 86.81091396033231,
+                                                          "genre": "jotas",
+                                                          "tradition": "galician",
+                                                          "display_name": "Jotas A Praza Do Ferro A Praza Do Ferro Partitura 1 E 1"
+                                                        }
+                                                      ],
+                                                      "genre": "jotas",
+                                                      "tradition": "galician"
+                                                    }
+                                                  ],
+                                                  "genre": "jotas",
+                                                  "tradition": "galician"
+                                                }
+                                              ],
+                                              "tradition": "galician",
+                                              "genre": "jotas"
+                                            },
+                                            {
+                                              "name": "",
+                                              "length": 0.43334985108259616,
+                                              "children": [
+                                                {
+                                                  "name": "",
+                                                  "length": 0.987329268746423,
+                                                  "children": [
+                                                    {
+                                                      "name": "Alghun Dia Alghun Dia Partitura 1 E 1",
+                                                      "length": 85.36024755016831,
+                                                      "genre": "jotas",
+                                                      "tradition": "galician",
+                                                      "display_name": "Jotas Alghun Dia Alghun Dia Partitura 1 E 1"
+                                                    },
+                                                    {
+                                                      "name": "",
+                                                      "length": 1.2116887607154467,
+                                                      "children": [
+                                                        {
+                                                          "name": "Jota De Boimorto Jota De Boimorto Partitura 1 1 E 1",
+                                                          "length": 91.98030477402622,
+                                                          "genre": "jotas",
+                                                          "tradition": "galician",
+                                                          "display_name": "Jotas Jota De Boimorto Jota De Boimorto Partitura 1 1 E 1"
+                                                        },
+                                                        {
+                                                          "name": "",
+                                                          "length": 0.7162726582934624,
+                                                          "children": [
+                                                            {
+                                                              "name": "Jota Valseada Jota Valseada Partitura 2 E 1",
+                                                              "length": 95.59762540282495,
+                                                              "genre": "jotas",
+                                                              "tradition": "galician",
+                                                              "display_name": "Jotas Jota Valseada Jota Valseada Partitura 2 E 1"
+                                                            },
+                                                            {
+                                                              "name": "Jota Do Ateneo Jota Do Ateneo Partitura 2 E 1",
+                                                              "length": 105.68880502369169,
+                                                              "genre": "jotas",
+                                                              "tradition": "galician",
+                                                              "display_name": "Jotas Jota Do Ateneo Jota Do Ateneo Partitura 2 E 1"
+                                                            }
+                                                          ],
+                                                          "tradition": "galician",
+                                                          "genre": "jotas"
+                                                        }
+                                                      ],
+                                                      "genre": "jotas",
+                                                      "tradition": "galician"
+                                                    }
+                                                  ],
+                                                  "genre": "jotas",
+                                                  "tradition": "galician"
+                                                },
+                                                {
+                                                  "name": "Jota Para Xesus Jota Para Xesus Partitura 2 E 1",
+                                                  "length": 74.6493594358595,
+                                                  "genre": "jotas",
+                                                  "tradition": "galician",
+                                                  "display_name": "Jotas Jota Para Xesus Jota Para Xesus Partitura 2 E 1"
+                                                }
+                                              ],
+                                              "genre": "jotas",
+                                              "tradition": "galician"
+                                            }
+                                          ],
+                                          "genre": "jotas",
+                                          "tradition": "galician"
+                                        },
+                                        {
+                                          "name": "Jota De Arbo 1 Jota De Arbo Partitura 2 E 1",
+                                          "length": 67.97166452417973,
+                                          "genre": "jotas",
+                                          "tradition": "galician",
+                                          "display_name": "Jotas Jota De Arbo 1 Jota De Arbo Partitura 2 E 1"
+                                        }
+                                      ],
+                                      "genre": "jotas",
+                                      "tradition": "galician"
+                                    },
+                                    {
+                                      "name": "",
+                                      "length": 2.0082286085582304,
+                                      "children": [
+                                        {
+                                          "name": "Jota De Tui Jota De Tui Partitura 1 E 1",
+                                          "length": 50.95627799873358,
+                                          "genre": "jotas",
+                                          "tradition": "galician",
+                                          "display_name": "Jotas Jota De Tui Jota De Tui Partitura 1 E 1"
+                                        },
+                                        {
+                                          "name": "Jota De Fonmaior Jota De Fonmaior Partitura 1 E 1",
+                                          "length": 49.29025319997977,
+                                          "genre": "jotas",
+                                          "tradition": "galician",
+                                          "display_name": "Jotas Jota De Fonmaior Jota De Fonmaior Partitura 1 E 1"
+                                        }
+                                      ],
+                                      "genre": "jotas",
+                                      "tradition": "galician"
+                                    }
+                                  ],
+                                  "genre": "jotas",
+                                  "tradition": "galician"
+                                }
+                              ],
+                              "genre": "jotas",
+                              "tradition": "galician"
+                            }
+                          ],
+                          "tradition": "galician",
+                          "genre": "jotas"
+                        },
+                        {
+                          "name": "A Regueifa A Regueifa Partitura 2 E 1",
+                          "length": 48.555648687873294,
+                          "genre": "jotas",
+                          "tradition": "galician",
+                          "display_name": "Jotas A Regueifa A Regueifa Partitura 2 E 1"
+                        }
+                      ],
+                      "tradition": "galician",
+                      "genre": "jotas"
+                    }
+                  ],
+                  "tradition": "galician",
+                  "genre": "jotas"
+                }
+              ],
+              "genre": "jotas",
+              "tradition": "galician"
+            }
+          ],
+          "genre": "jotas",
+          "tradition": "galician"
+        }
+      ],
+      "genre": "jotas",
+      "tradition": "galician"
+    },
+    {
+      "name": "",
+      "length": 0.4586272140282901,
+      "children": [
+        {
+          "name": "Jota De Lugo Jota De Lugo Partitura 1 E 1",
+          "length": 34.671564296203925,
+          "genre": "jotas",
+          "tradition": "galician",
+          "display_name": "Jotas Jota De Lugo Jota De Lugo Partitura 1 E 1"
+        },
+        {
+          "name": "",
+          "length": 8.709042695575135,
+          "children": [
+            {
+              "name": "Jota De Sofan Jota De Sofan Partitura 1 E 1",
+              "length": 38.4078211955901,
+              "genre": "jotas",
+              "tradition": "galician",
+              "display_name": "Jotas Jota De Sofan Jota De Sofan Partitura 1 E 1"
+            },
+            {
+              "name": "",
+              "length": 2.0757569032206575,
+              "children": [
+                {
+                  "name": "Jota De Pontevedra 5 Jota De Pontevedra Partitura 1 E 1",
+                  "length": 36.675551095010285,
+                  "genre": "jotas",
+                  "tradition": "galician",
+                  "display_name": "Jotas Jota De Pontevedra 5 Jota De Pontevedra Partitura 1 E 1"
+                },
+                {
+                  "name": "Jota De San Xian De Freixo Jota De San Xian De Freixo Partitura 1 E 1",
+                  "length": 31.965202356981102,
+                  "genre": "jotas",
+                  "tradition": "galician",
+                  "display_name": "Jotas Jota De San Xian De Freixo Jota De San Xian De Freixo Partitura 1 E 1"
+                }
+              ],
+              "genre": "jotas",
+              "tradition": "galician"
+            }
+          ],
+          "genre": "jotas",
+          "tradition": "galician"
+        }
+      ],
+      "genre": "jotas",
+      "tradition": "galician"
+    }
+  ],
+  "genre": "jotas",
+  "tradition": "galician"
+}
