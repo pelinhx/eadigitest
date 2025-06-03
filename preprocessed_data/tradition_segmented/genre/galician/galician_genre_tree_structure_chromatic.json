@@ -40,65 +40,86 @@
                     },
                     {
                       "name": "",
-                      "length": 0.023350072123940357,
+                      "length": 0.06401699875704381,
                       "children": [
                         {
-                          "name": "rumbas",
-                          "length": 6.302063844801321,
-                          "display_name": "rumbas"
+                          "name": "polca",
+                          "length": 6.016141482921046,
+                          "display_name": "polca"
                         },
                         {
                           "name": "",
-                          "length": 0.12296973214923668,
+                          "length": 0.023350072123940357,
                           "children": [
                             {
-                              "name": "pasodobles",
-                              "length": 7.247612185366606,
-                              "display_name": "pasodobles"
+                              "name": "rumbas",
+                              "length": 6.302063844801321,
+                              "display_name": "rumbas"
                             },
                             {
                               "name": "",
-                              "length": 0.35781426906648583,
+                              "length": 0.12296973214923668,
                               "children": [
                                 {
-                                  "name": "foliadas",
-                                  "length": 7.856912276915798,
-                                  "display_name": "foliadas"
+                                  "name": "pasodobles",
+                                  "length": 7.247612185366606,
+                                  "display_name": "pasodobles"
                                 },
                                 {
                                   "name": "",
-                                  "length": 0.1567722018565032,
+                                  "length": 0.35781426906648583,
                                   "children": [
                                     {
-                                      "name": "valses",
-                                      "length": 8.776503505260852,
-                                      "display_name": "valses"
+                                      "name": "foliadas",
+                                      "length": 7.856912276915798,
+                                      "display_name": "foliadas"
                                     },
                                     {
-                                      "name": "jotas",
-                                      "length": 10.348324652219016,
-                                      "display_name": "jotas"
+                                      "name": "",
+                                      "length": 0.1567722018565032,
+                                      "children": [
+                                        {
+                                          "name": "valses",
+                                          "length": 8.776503505260852,
+                                          "display_name": "valses"
+                                        },
+                                        {
+                                          "name": "jotas",
+                                          "length": 10.348324652219016,
+                                          "display_name": "jotas"
+                                        }
+                                      ],
+                                      "tradition": "galician"
                                     }
-                                  ]
+                                  ],
+                                  "tradition": "galician"
                                 }
-                              ]
+                              ],
+                              "tradition": "galician"
                             }
-                          ]
+                          ],
+                          "tradition": "galician"
                         }
-                      ]
+                      ],
+                      "tradition": "galician"
                     }
-                  ]
+                  ],
+                  "tradition": "galician"
                 }
-              ]
+              ],
+              "tradition": "galician"
             }
-          ]
+          ],
+          "tradition": "galician"
         }
-      ]
+      ],
+      "tradition": "galician"
     },
     {
       "name": "alalas",
       "length": 2.9228137676991652,
-      "display_name": "alalas"
+      "display_name": "alalas",
+      "tradition": "galician"
     }
   ],
   "tradition": "galician"

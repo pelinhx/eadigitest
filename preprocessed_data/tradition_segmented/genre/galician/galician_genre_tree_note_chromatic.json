@@ -39,15 +39,31 @@
                       "display_name": "valses"
                     },
                     {
-                      "name": "jotas",
-                      "length": 116.79870001004677,
-                      "display_name": "jotas"
+                      "name": "",
+                      "length": 2.5222948296816696,
+                      "children": [
+                        {
+                          "name": "polca",
+                          "length": 92.50119478633964,
+                          "display_name": "polca"
+                        },
+                        {
+                          "name": "jotas",
+                          "length": 116.79870001004677,
+                          "display_name": "jotas",
+                          "tradition": "galician"
+                        }
+                      ],
+                      "tradition": "galician"
                     }
-                  ]
+                  ],
+                  "tradition": "galician"
                 }
-              ]
+              ],
+              "tradition": "galician"
             }
-          ]
+          ],
+          "tradition": "galician"
         },
         {
           "name": "",
@@ -90,15 +106,20 @@
                           "length": 65.06971728104807,
                           "display_name": "marchas"
                         }
-                      ]
+                      ],
+                      "tradition": "galician"
                     }
-                  ]
+                  ],
+                  "tradition": "galician"
                 }
-              ]
+              ],
+              "tradition": "galician"
             }
-          ]
+          ],
+          "tradition": "galician"
         }
-      ]
+      ],
+      "tradition": "galician"
     }
   ],
   "tradition": "galician"

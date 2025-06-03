@@ -12,11 +12,24 @@
           "display_name": "pasacorredoiras"
         },
         {
-          "name": "rumbas",
-          "length": 327.8488034130856,
-          "display_name": "rumbas"
+          "name": "",
+          "length": 0.11920640656768455,
+          "children": [
+            {
+              "name": "rumbas",
+              "length": 327.8488034130856,
+              "display_name": "rumbas"
+            },
+            {
+              "name": "polca",
+              "length": 324.4425755160485,
+              "display_name": "polca"
+            }
+          ],
+          "tradition": "galician"
         }
-      ]
+      ],
+      "tradition": "galician"
     },
     {
       "name": "",
@@ -54,11 +67,14 @@
                       "length": 424.941033378156,
                       "display_name": "foliadas"
                     }
-                  ]
+                  ],
+                  "tradition": "galician"
                 }
-              ]
+              ],
+              "tradition": "galician"
             }
-          ]
+          ],
+          "tradition": "galician"
         },
         {
           "name": "",
@@ -67,7 +83,8 @@
             {
               "name": "alalas",
               "length": 194.14612295606756,
-              "display_name": "alalas"
+              "display_name": "alalas",
+              "tradition": "galician"
             },
             {
               "name": "",
@@ -92,13 +109,17 @@
                       "length": 323.47657202890593,
                       "display_name": "marchas"
                     }
-                  ]
+                  ],
+                  "tradition": "galician"
                 }
-              ]
+              ],
+              "tradition": "galician"
             }
-          ]
+          ],
+          "tradition": "galician"
         }
-      ]
+      ],
+      "tradition": "galician"
     }
   ],
   "tradition": "galician"

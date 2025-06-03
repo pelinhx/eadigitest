@@ -16,7 +16,8 @@
           "length": 82.68434806355044,
           "display_name": "jig"
         }
-      ]
+      ],
+      "tradition": "irish"
     },
     {
       "name": "",
@@ -43,11 +44,14 @@
                 {
                   "name": "hornpipe",
                   "length": 103.03210743480552,
-                  "display_name": "hornpipe"
+                  "display_name": "hornpipe",
+                  "tradition": "irish"
                 }
-              ]
+              ],
+              "tradition": "irish"
             }
-          ]
+          ],
+          "tradition": "irish"
         },
         {
           "name": "",
@@ -67,49 +71,43 @@
                   "length": 76.51646783323051,
                   "display_name": "march"
                 }
-              ]
+              ],
+              "tradition": "irish"
             },
             {
               "name": "",
-              "length": 1.2346721449259377,
+              "length": 0.28906645027981925,
               "children": [
                 {
-                  "name": "marchas",
-                  "length": 65.06971728104807,
-                  "display_name": "marchas"
+                  "name": "slide",
+                  "length": 53.48268092761039,
+                  "display_name": "slide"
                 },
                 {
                   "name": "",
-                  "length": 0.28906645027981925,
+                  "length": 0.20001629894517237,
                   "children": [
                     {
-                      "name": "slide",
-                      "length": 53.48268092761039,
-                      "display_name": "slide"
+                      "name": "strathspey",
+                      "length": 59.214707975131375,
+                      "display_name": "strathspey"
                     },
                     {
-                      "name": "",
-                      "length": 0.20001629894517237,
-                      "children": [
-                        {
-                          "name": "strathspey",
-                          "length": 59.214707975131375,
-                          "display_name": "strathspey"
-                        },
-                        {
-                          "name": "polka",
-                          "length": 52.11486258658172,
-                          "display_name": "polka"
-                        }
-                      ]
+                      "name": "polka",
+                      "length": 52.11486258658172,
+                      "display_name": "polka"
                     }
-                  ]
+                  ],
+                  "tradition": "irish"
                 }
-              ]
+              ],
+              "tradition": "irish"
             }
-          ]
+          ],
+          "tradition": "irish"
         }
-      ]
+      ],
+      "tradition": "irish"
     }
   ],
   "tradition": "irish"

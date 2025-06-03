@@ -39,15 +39,31 @@
                       "display_name": "valses"
                     },
                     {
-                      "name": "jotas",
-                      "length": 214.37018614444577,
-                      "display_name": "jotas"
+                      "name": "",
+                      "length": 8.134717411220947,
+                      "children": [
+                        {
+                          "name": "polca",
+                          "length": 166.09873192319458,
+                          "display_name": "polca"
+                        },
+                        {
+                          "name": "jotas",
+                          "length": 214.37018614444577,
+                          "display_name": "jotas",
+                          "tradition": "galician"
+                        }
+                      ],
+                      "tradition": "galician"
                     }
-                  ]
+                  ],
+                  "tradition": "galician"
                 }
-              ]
+              ],
+              "tradition": "galician"
             }
-          ]
+          ],
+          "tradition": "galician"
         },
         {
           "name": "",
@@ -56,7 +72,8 @@
             {
               "name": "muineiras",
               "length": 129.28151933161828,
-              "display_name": "muineiras"
+              "display_name": "muineiras",
+              "tradition": "galician"
             },
             {
               "name": "",
@@ -88,17 +105,23 @@
                         {
                           "name": "alalas",
                           "length": 116.9531867031363,
-                          "display_name": "alalas"
+                          "display_name": "alalas",
+                          "tradition": "galician"
                         }
-                      ]
+                      ],
+                      "tradition": "galician"
                     }
-                  ]
+                  ],
+                  "tradition": "galician"
                 }
-              ]
+              ],
+              "tradition": "galician"
             }
-          ]
+          ],
+          "tradition": "galician"
         }
-      ]
+      ],
+      "tradition": "galician"
     }
   ],
   "tradition": "galician"

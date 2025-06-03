@@ -20,7 +20,8 @@
               "length": 44.25243306906955,
               "display_name": "jig"
             }
-          ]
+          ],
+          "tradition": "irish"
         },
         {
           "name": "",
@@ -81,35 +82,32 @@
                                   "length": 24.8468825945975,
                                   "display_name": "polka"
                                 }
-                              ]
+                              ],
+                              "tradition": "irish"
                             }
-                          ]
+                          ],
+                          "tradition": "irish"
                         }
-                      ]
+                      ],
+                      "tradition": "irish"
                     }
-                  ]
+                  ],
+                  "tradition": "irish"
                 }
-              ]
+              ],
+              "tradition": "irish"
             }
-          ]
+          ],
+          "tradition": "irish"
         }
-      ]
+      ],
+      "tradition": "irish"
     },
     {
-      "name": "",
-      "length": 0.034819144250690215,
-      "children": [
-        {
-          "name": "marchas",
-          "length": 53.94129208537997,
-          "display_name": "marchas"
-        },
-        {
-          "name": "waltz",
-          "length": 90.41535578631627,
-          "display_name": "waltz"
-        }
-      ]
+      "name": "waltz",
+      "length": 90.41535578631627,
+      "display_name": "waltz",
+      "tradition": "irish"
     }
   ],
   "tradition": "irish"

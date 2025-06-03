@@ -32,13 +32,17 @@
                 {
                   "name": "alalas",
                   "length": 23.79925646607153,
-                  "display_name": "alalas"
+                  "display_name": "alalas",
+                  "tradition": "galician"
                 }
-              ]
+              ],
+              "tradition": "galician"
             }
-          ]
+          ],
+          "tradition": "galician"
         }
-      ]
+      ],
+      "tradition": "galician"
     },
     {
       "name": "",
@@ -60,45 +64,62 @@
             },
             {
               "name": "",
-              "length": 0.6431120397062955,
+              "length": 0.1407406219852021,
               "children": [
                 {
-                  "name": "pasodobles",
-                  "length": 55.57413434838227,
-                  "display_name": "pasodobles"
+                  "name": "polca",
+                  "length": 46.54244997262903,
+                  "display_name": "polca"
                 },
                 {
                   "name": "",
-                  "length": 1.8956710227384974,
+                  "length": 0.6431120397062955,
                   "children": [
                     {
-                      "name": "foliadas",
-                      "length": 61.26315953111808,
-                      "display_name": "foliadas"
+                      "name": "pasodobles",
+                      "length": 55.57413434838227,
+                      "display_name": "pasodobles"
                     },
                     {
                       "name": "",
-                      "length": 1.0174788637136487,
+                      "length": 1.8956710227384974,
                       "children": [
                         {
-                          "name": "jotas",
-                          "length": 75.04550734773852,
-                          "display_name": "jotas"
+                          "name": "foliadas",
+                          "length": 61.26315953111808,
+                          "display_name": "foliadas"
                         },
                         {
-                          "name": "valses",
-                          "length": 66.08623488073067,
-                          "display_name": "valses"
+                          "name": "",
+                          "length": 1.0174788637136487,
+                          "children": [
+                            {
+                              "name": "jotas",
+                              "length": 75.04550734773852,
+                              "display_name": "jotas"
+                            },
+                            {
+                              "name": "valses",
+                              "length": 66.08623488073067,
+                              "display_name": "valses"
+                            }
+                          ],
+                          "tradition": "galician"
                         }
-                      ]
+                      ],
+                      "tradition": "galician"
                     }
-                  ]
+                  ],
+                  "tradition": "galician"
                 }
-              ]
+              ],
+              "tradition": "galician"
             }
-          ]
+          ],
+          "tradition": "galician"
         }
-      ]
+      ],
+      "tradition": "galician"
     }
   ],
   "tradition": "galician"

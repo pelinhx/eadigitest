@@ -20,7 +20,8 @@
               "length": 325.19080531613264,
               "display_name": "mazurka"
             }
-          ]
+          ],
+          "tradition": "irish"
         },
         {
           "name": "",
@@ -72,44 +73,41 @@
                               "length": 219.64991370383382,
                               "display_name": "polka"
                             }
-                          ]
+                          ],
+                          "tradition": "irish"
                         }
-                      ]
+                      ],
+                      "tradition": "irish"
                     }
-                  ]
+                  ],
+                  "tradition": "irish"
                 }
-              ]
+              ],
+              "tradition": "irish"
             }
-          ]
+          ],
+          "tradition": "irish"
         }
-      ]
+      ],
+      "tradition": "irish"
     },
     {
       "name": "",
-      "length": 0.04317245364023847,
+      "length": 0.2137121820655068,
       "children": [
         {
-          "name": "",
-          "length": 0.2137121820655068,
-          "children": [
-            {
-              "name": "hornpipe",
-              "length": 332.51354440196513,
-              "display_name": "hornpipe"
-            },
-            {
-              "name": "waltz",
-              "length": 532.0415455749717,
-              "display_name": "waltz"
-            }
-          ]
+          "name": "hornpipe",
+          "length": 332.51354440196513,
+          "display_name": "hornpipe"
         },
         {
-          "name": "marchas",
-          "length": 318.3825956664517,
-          "display_name": "marchas"
+          "name": "waltz",
+          "length": 532.0415455749717,
+          "display_name": "waltz",
+          "tradition": "irish"
         }
-      ]
+      ],
+      "tradition": "irish"
     }
   ],
   "tradition": "irish"

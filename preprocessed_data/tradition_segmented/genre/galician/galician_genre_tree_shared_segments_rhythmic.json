@@ -29,7 +29,8 @@
                   "length": 476.5983672440728,
                   "display_name": "valses"
                 }
-              ]
+              ],
+              "tradition": "galician"
             },
             {
               "name": "",
@@ -67,20 +68,26 @@
                               "length": 484.97439022644045,
                               "display_name": "jotas"
                             }
-                          ]
+                          ],
+                          "tradition": "galician"
                         }
-                      ]
+                      ],
+                      "tradition": "galician"
                     }
-                  ]
+                  ],
+                  "tradition": "galician"
                 },
                 {
                   "name": "marchas",
                   "length": 375.28670012135944,
-                  "display_name": "marchas"
+                  "display_name": "marchas",
+                  "tradition": "galician"
                 }
-              ]
+              ],
+              "tradition": "galician"
             }
-          ]
+          ],
+          "tradition": "galician"
         },
         {
           "name": "",
@@ -89,16 +96,31 @@
             {
               "name": "alalas",
               "length": 188.5637985916558,
-              "display_name": "alalas"
+              "display_name": "alalas",
+              "tradition": "galician"
             },
             {
-              "name": "muineiras",
-              "length": 357.90010158703626,
-              "display_name": "muineiras"
+              "name": "",
+              "length": 0.2856728991489348,
+              "children": [
+                {
+                  "name": "polca",
+                  "length": 324.0987994642461,
+                  "display_name": "polca"
+                },
+                {
+                  "name": "muineiras",
+                  "length": 357.90010158703626,
+                  "display_name": "muineiras"
+                }
+              ],
+              "tradition": "galician"
             }
-          ]
+          ],
+          "tradition": "galician"
         }
-      ]
+      ],
+      "tradition": "galician"
     }
   ],
   "tradition": "galician"

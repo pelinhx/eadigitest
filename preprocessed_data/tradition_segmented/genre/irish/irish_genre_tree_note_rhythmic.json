@@ -14,9 +14,11 @@
         {
           "name": "hornpipe",
           "length": 76.22308316600416,
-          "display_name": "hornpipe"
+          "display_name": "hornpipe",
+          "tradition": "irish"
         }
-      ]
+      ],
+      "tradition": "irish"
     },
     {
       "name": "",
@@ -76,40 +78,38 @@
                                   "length": 33.22839854666712,
                                   "display_name": "slide"
                                 }
-                              ]
+                              ],
+                              "tradition": "irish"
                             },
                             {
-                              "name": "",
-                              "length": 1.994494782182085,
-                              "children": [
-                                {
-                                  "name": "waltz",
-                                  "length": 156.27765355849994,
-                                  "display_name": "waltz"
-                                },
-                                {
-                                  "name": "marchas",
-                                  "length": 48.69724411601625,
-                                  "display_name": "marchas"
-                                }
-                              ]
+                              "name": "waltz",
+                              "length": 156.27765355849994,
+                              "display_name": "waltz",
+                              "tradition": "irish"
                             }
-                          ]
+                          ],
+                          "tradition": "irish"
                         }
-                      ]
+                      ],
+                      "tradition": "irish"
                     }
-                  ]
+                  ],
+                  "tradition": "irish"
                 }
-              ]
+              ],
+              "tradition": "irish"
             }
-          ]
+          ],
+          "tradition": "irish"
         },
         {
           "name": "jig",
           "length": 51.2344893874048,
-          "display_name": "jig"
+          "display_name": "jig",
+          "tradition": "irish"
         }
-      ]
+      ],
+      "tradition": "irish"
     }
   ],
   "tradition": "irish"

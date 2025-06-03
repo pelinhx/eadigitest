@@ -61,37 +61,33 @@
                               "length": 2.6903984925410462,
                               "display_name": "slide"
                             }
-                          ]
+                          ],
+                          "tradition": "irish"
                         }
-                      ]
+                      ],
+                      "tradition": "irish"
                     }
-                  ]
+                  ],
+                  "tradition": "irish"
                 }
-              ]
+              ],
+              "tradition": "irish"
             }
-          ]
+          ],
+          "tradition": "irish"
         }
-      ]
+      ],
+      "tradition": "irish"
     },
     {
       "name": "",
       "length": 0.022427839064357413,
       "children": [
         {
-          "name": "",
-          "length": 0.03252466398922316,
-          "children": [
-            {
-              "name": "marchas",
-              "length": 6.935927906077648,
-              "display_name": "marchas"
-            },
-            {
-              "name": "waltz",
-              "length": 12.316513608238033,
-              "display_name": "waltz"
-            }
-          ]
+          "name": "waltz",
+          "length": 12.316513608238033,
+          "display_name": "waltz",
+          "tradition": "irish"
         },
         {
           "name": "",
@@ -107,9 +103,11 @@
               "length": 5.440039389318143,
               "display_name": "jig"
             }
-          ]
+          ],
+          "tradition": "irish"
         }
-      ]
+      ],
+      "tradition": "irish"
     }
   ],
   "tradition": "irish"

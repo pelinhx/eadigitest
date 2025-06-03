@@ -23,11 +23,14 @@
             {
               "name": "hornpipe",
               "length": 192.09984033421665,
-              "display_name": "hornpipe"
+              "display_name": "hornpipe",
+              "tradition": "irish"
             }
-          ]
+          ],
+          "tradition": "irish"
         }
-      ]
+      ],
+      "tradition": "irish"
     },
     {
       "name": "",
@@ -36,7 +39,8 @@
         {
           "name": "jig",
           "length": 144.7638322038542,
-          "display_name": "jig"
+          "display_name": "jig",
+          "tradition": "irish"
         },
         {
           "name": "",
@@ -52,20 +56,10 @@
               "length": 1.3907149824261467,
               "children": [
                 {
-                  "name": "",
-                  "length": 3.5967737330961627,
-                  "children": [
-                    {
-                      "name": "marchas",
-                      "length": 128.3179590240177,
-                      "display_name": "marchas"
-                    },
-                    {
-                      "name": "waltz",
-                      "length": 314.3483571434717,
-                      "display_name": "waltz"
-                    }
-                  ]
+                  "name": "waltz",
+                  "length": 314.3483571434717,
+                  "display_name": "waltz",
+                  "tradition": "irish"
                 },
                 {
                   "name": "",
@@ -99,17 +93,23 @@
                               "length": 117.42039050868806,
                               "display_name": "strathspey"
                             }
-                          ]
+                          ],
+                          "tradition": "irish"
                         }
-                      ]
+                      ],
+                      "tradition": "irish"
                     }
-                  ]
+                  ],
+                  "tradition": "irish"
                 }
-              ]
+              ],
+              "tradition": "irish"
             }
-          ]
+          ],
+          "tradition": "irish"
         }
-      ]
+      ],
+      "tradition": "irish"
     }
   ],
   "tradition": "irish"
